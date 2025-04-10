@@ -84,7 +84,6 @@ Due to SkyGround Chronicles's size and number of files required to be handled fo
 
 ---
 
-#### Credits
 ![](https://i.imgur.com/y2T6I94.png)  
 ![](https://i.imgur.com/AH2BMyp.png)  
 
