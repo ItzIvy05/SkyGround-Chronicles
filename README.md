@@ -110,7 +110,7 @@ Due to SkyGround Chronicles's size and number of files required to be handled fo
 
 [ElminsterAU](https://www.patreon.com/ElminsterAU) and the xEdit team for SSEEdit.
 
-### [Waking Dreams](https://github.com/Oghma-Infinium/modlists) For README and installation. Thank you [aljoxo](https://next.nexusmods.com/profile/aljoxo/mods?gameId=1704) for helping me with Wabbajack.
+[Waking Dreams](https://github.com/Oghma-Infinium/modlists) For README and installation. Thank you [aljoxo](https://next.nexusmods.com/profile/aljoxo/mods?gameId=1704) for helping me with Wabbajack.
 
 [Noggog](https://www.nexusmods.com/skyrim/users/862590) for Mutagen and Synthesis.  
 
