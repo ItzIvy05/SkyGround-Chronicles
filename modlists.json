@@ -18,7 +18,7 @@
     "links": {
       "$type": "Links, Wabbajack.Lib",
       "image": "raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/refs/heads/main/Resources/Main.png",
-      "readme": "https://github.com/ItzIvy05/SkyGround-Chronicles/blob/main/README.md",
+      "readme": "raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/refs/heads/main/README.md",
       "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
       "machineURL": "machineURL",
       "discordURL": "https://discord.gg/wrYsKqx4"
