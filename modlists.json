@@ -1,0 +1,38 @@
+[
+  {
+    "$type": "ModListMetadata, Wabbajack.Lib",
+    "title": "SkyGround Chronicles",
+    "description": "SkyGround Chronicles is a Wabbajack modlist featuring Requiem, Legacy of the Dragonborn, and BFCO with its full stances system. Built with cutting-edge graphics in mind, it supports both ENB and Community Shaders.",
+    "author": "Ivy",
+    "maintainers": [
+      "github/ItzIvy05"
+    ],
+    "game": "skyrimspecialedition",
+    "tags": [
+      "LOTD, Requiem, SCAR, BFCO, Anniversary Edition",
+      "Anniversary Edition, LOTD, Requiem, SCAR, BFCO"
+    ],
+    "nsfw": false,
+    "image_contains_title": false,
+    "force_down": false,
+    "links": {
+      "$type": "Links, Wabbajack.Lib",
+      "image": "raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/refs/heads/main/Resources/Main.png",
+      "readme": "https://github.com/ItzIvy05/SkyGround-Chronicles/blob/main/README.md",
+      "download": "https://authored-files.wabbajack.org/Halgaris Helper.wabbajack_29d245c9-5f7f-4394-b600-a22e43427337",
+      "machineURL": "machineURL",
+      "discordURL": "https://discord.gg/wrYsKqx4"
+    },
+    "download_metadata": {
+      "$type": "DownloadMetadata, Wabbajack.Lib",
+      "Hash": "e1+K7eJbDJw=",
+      "Size": 0,
+      "NumberOfArchives": 14,
+      "SizeOfArchives": 135206078,
+      "NumberOfInstalledFiles": 1311,
+      "SizeOfInstalledFiles": 336453775
+    },
+    "version": "1.0"
+  }
+]
+
