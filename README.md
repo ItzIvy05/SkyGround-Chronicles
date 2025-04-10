@@ -84,4 +84,47 @@ Due to SkyGround Chronicles's size and number of files required to be handled fo
 
 ---
 
+#### Credits
+![](https://i.imgur.com/y2T6I94.png)  
+![](https://i.imgur.com/AH2BMyp.png)  
+
+**[MissileMann](https://www.nexusmods.com/skyrimspecialedition/users/51322576):**  
+I owe the majority of my mods to him. I asked him for help so often, he’s probably tired of me by now.
+
+**[ChickenMike](https://www.nexusmods.com/skyrimspecialedition/users/70500678):**  
+A true navmesh expert — Mike taught me nearly everything I know about working with navmeshes.
+
+**Sharks:**  
+My friendly (and slightly sassy) beta tester and build master.
+
+[CozySienna](https://www.twitch.tv/cozysienna):  
+Thanks to her, I found a really cozy Discord and a safe, welcoming space to work on my mod list. I also got to meet some truly awesome people. Thanks, Sienna!
+
+[Biggie_Boss](https://www.youtube.com/@biggie_boss):  
+Thank you for creating [LoreRim](https://www.nexusmods.com/skyrimspecialedition/mods/112590) and making Requiem mainstream. Thank you for making useful tutorials.
+
+[MoogieVT](https://www.twitch.tv/moogievt):  
+We shall protect her at all cost. Super fun chill streamer and good friend anyone can ask for.
+
+[Gonzeh](https://next.nexusmods.com/profile/Gonzeh84):  
+Super cool (and yeah, a little horny) mod author with a ridiculous amount of knowledge. Taught me so much about working with NIF files and encouraged me to learn navmeshing instead of relying on navcuts.
+
+[Vektile](https://www.twitch.tv/vektile):  
+Thanks to him, I had the chance to meet Missilemann, Chickenmike, and Jayserpa. He was the one who opened the door for someone like me who doesn’t enjoy using a mic by creating a no-mic text channel. He shared an incredible amount of knowledge, from the smallest details to the biggest concepts, without ever gatekeeping anything — and most of all, I’ve become skilled at analyzing crash logs. :P
+
+[Halgari](https://www.nexusmods.com/skyrimspecialedition/users/17252164) and the Wabbajack Team  
+for their amazing platform that allows me to create and host lists like these.
+
+**Bethesda Game Studios** for Skyrim and the Creation Kit.
+
+[ElminsterAU](https://www.patreon.com/ElminsterAU) and the xEdit team for SSEEdit.
+
+### [Waking Dreams](https://github.com/Oghma-Infinium/modlists)  
+For README and installation.  
+Thank you [aljoxo](https://next.nexusmods.com/profile/aljoxo/mods?gameId=1704) for helping me with Wabbajack.
+
+[Noggog](https://www.nexusmods.com/skyrim/users/862590) for Mutagen and Synthesis.  
+[perchik71](https://www.nexusmods.com/starfield/users/113904913) for Creation Kit Platform Extended for Skyrim.
+
+
 This work is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License](https://creativecommons.org/licenses/by-nc-sa/4.0/).
