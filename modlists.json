@@ -9,16 +9,19 @@
     ],
     "game": "skyrimspecialedition",
     "tags": [
-      "LOTD", "Requiem", "SCAR", "BFCO", "Anniversary Edition",
-      "LOTD", "Requiem", "SCAR", "BFCO", "Anniversary Edition"
+      "LOTD", 
+      "Requiem", 
+      "SCAR", 
+      "BFCO", 
+      "Anniversary Edition"
     ],
     "nsfw": false,
-    "image_contains_title": false,
+    "image_contains_title": true,
     "force_down": false,
     "links": {
       "$type": "Links, Wabbajack.Lib",
-      "image": "raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/refs/heads/main/Resources/Main.png",
-      "readme": "raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/refs/heads/main/README.md",
+      "image": "https://github.com/ItzIvy05/SkyGround-Chronicles/blob/main/Resources/Main.png",
+      "readme": "https://github.com/ItzIvy05/SkyGround-Chronicles/blob/main/README.md",
       "download": "",
       "machineURL": "SkyGround",
       "discordURL": "https://discord.gg/wrYsKqx4"
