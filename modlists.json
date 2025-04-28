@@ -1,6 +1,5 @@
 [
   {
-    "$type": "ModListMetadata, Wabbajack.Lib",
     "title": "SkyGround Chronicles",
     "description": "SkyGround Chronicles is a Wabbajack modlist featuring Requiem, Legacy of the Dragonborn, and BFCO with its full stances system. Built with cutting-edge graphics in mind, it supports both ENB and Community Shaders.",
     "author": "Ivy",
@@ -8,32 +7,37 @@
       "github/ItzIvy05"
     ],
     "game": "skyrimspecialedition",
+    "official": false,
     "tags": [
-      "SFW", 
+      "SFW",
       "High Fantasy",
       "Steam"
     ],
     "nsfw": false,
+    "utility_list": false,
     "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "$type": "Links, Wabbajack.Lib",
       "image": "https://raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/main/Resources/Main.png",
       "readme": "https://github.com/ItzIvy05/SkyGround-Chronicles/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/SkyGround Chronicles.wabbajack_999790eb-82da-4372-ac18-ea7eaf68bb89",
+      "download": "https://authored-files.wabbajack.org/SkyGround Chronicles.wabbajack_0ebc444b-5e7b-415e-b968-52551ce71b35",
       "machineURL": "SkyGround",
-      "discordURL": "https://discord.gg/wrYsKqx4"
+      "discordURL": "https://discord.gg/wrYsKqx4",
+      "websiteURL": ""
     },
     "download_metadata": {
-      "$type": "DownloadMetadata, Wabbajack.Lib",
-      "Hash": "B1sT923HEus=",
-      "Size": 615548523,
-      "NumberOfArchives": 2285,
-      "SizeOfArchives": 180757739953,
-      "NumberOfInstalledFiles": 243691,
-      "SizeOfInstalledFiles": 238015938232
+      "Hash": "ITL0Pe2tpik=",
+      "Size": 541249955,
+      "NumberOfArchives": 2326,
+      "SizeOfArchives": 185811258491,
+      "NumberOfInstalledFiles": 230858,
+      "SizeOfInstalledFiles": 238101510968,
+      "TotalSize": 423912769459
     },
-    "version": "0.5.2"
+    "version": "0.6",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-04-28T22:31:55.0052161Z",
+    "repositoryName": ""
   }
 ]
-
