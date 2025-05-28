@@ -11,7 +11,7 @@
 
 SkyGround Chronicles is a Wabbajack modlist built around Requiem, Legacy of the Dragonborn, and BFCO with its full Stance system, all while pushing visuals to the limit. It supports both ENB and Community Shaders, delivering a visually stunning and deeply immersive RPG experience.
 
-If you're curious about the specific mods in the list, the full modlist can be viewed [here](loadorderlibrary.com/lists/skyground-chronicles).
+If you're curious about the specific mods in the list, the full modlist can be viewed [here](https://loadorderlibrary.com/lists/skyground-chronicles).
 
 ### System Requirements
 
