@@ -1,4 +1,4 @@
-# SkyGround-Chronicles
+#### SkyGround-Chronicles
 
 ![](https://raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/refs/heads/main/Resources/Main.png)
 
@@ -7,7 +7,8 @@
   <a href="https://loadorderlibrary.com/lists/skyground-chronicles-2">Load Order﻿﻿</a> |
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
-## Introduction
+
+#### Introduction
 
 SkyGround Chronicles is a Wabbajack modlist built around Requiem, Legacy of the Dragonborn, and BFCO with its full Stance system, all while pushing visuals to the limit. It supports both ENB and Community Shaders, delivering a visually stunning and deeply immersive RPG experience.
 
@@ -41,13 +42,31 @@ Before installing SkyGround Chronicles, please complete the following steps:
 [.NET 8.0 SDK (v8.0.404) - Windows x64 Installer](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.404-windows-x64-installer)<br/>
 
 **Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017, 2019, and 2022**
-The Visual C++ Redistributable installs Microsoft C and C++ (MSVC) runtime libraries. These libraries are required by many applications built by using Microsoft C and C++ tools. This is required for Mod Organizer 2 and LOOT to function properly. Download both of them from:< br / >
+The Visual C++ Redistributable installs Microsoft C and C++ (MSVC) runtime libraries. These libraries are required by many applications built by using Microsoft C and C++ tools. This is required for Mod Organizer 2 and LOOT to function properly. Download both of them from:<br/>
 [Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017, 2019, and 2022 - x86](https://aka.ms/vs/17/release/vc_redist.x86.exe)<br/>
 [Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017, 2019, and 2022 - x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)<br/>
 
+#### Official Bethesda Content<br/>
+Complete With Official Bethesda Bugs<br/>
+**Steam Overlay**<br/>
+The Steam Overlay is known to cause issues while playing Skyrim Special Edition, and you are advised to disable it; to do this perform the following:<br/>
+
+    Load Steam.
+    In the toolbar at the top of the window, click Steam.
+    In the dropdown menu, click Settings.
+    Then in the popup box select the In-Game menu item.
+    Uncheck Enable the Steam overlay while in-game.
+
+Alternatively, if you would just like to disable the Overlay for Skyrim Special Edition you may:<br/>
+
+    Load Steam.
+    Click LIBRARY.
+    In your games list, look for The Elder Scrolls V: Skyrim Special Edition and right-click on it.
+    In the dropdown menu, click Properties.
+    Then, in the popup box, uncheck Enable the Steam Overlay while in-game.
+
 
  1. Reinstall Skyrim into a location that is not Program Files. Locations such as `C:\Games` is a good location. If you only have one drive, look into LostDragonist's [SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
- 3. Disable the Steam Overlay: Right click on Skyrim SE in Steam and click on `Properties` > Untick the `Enable Steam Overlay while in-game` option
  4. Set your Skyrim language to English: Right click on your Skyrim in Steam > Click `Properties` > Click the drop down box next to `Language` > Set the language to English
  5. Remove or disable any 3rd party antiviruses such as Webroot or Bitdefender. These programs can cause issues with your installation due to how MO2's Virtual File Staging works.
  6. (Soft Requirement) A Nexus Premium account is recommended. Without Premium, you will need to manually click the `Slow Download` button for each mod.
