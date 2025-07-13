@@ -4,19 +4,19 @@
 
 <p align="center">
   <a href="https://www.nexusmods.com/skyrimspecialedition/mods/147012">Nexus</a> |
-  <a href="https://loadorderlibrary.com/lists/skyground-chronicles">Load Order﻿﻿</a> |
+  <a href="https://loadorderlibrary.com/lists/skyground-chronicles-2">Load Order﻿﻿</a> |
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 ## Introduction
 
 SkyGround Chronicles is a Wabbajack modlist built around Requiem, Legacy of the Dragonborn, and BFCO with its full Stance system, all while pushing visuals to the limit. It supports both ENB and Community Shaders, delivering a visually stunning and deeply immersive RPG experience.
 
-If you're curious about the specific mods in the list, the full modlist can be viewed [here](https://loadorderlibrary.com/lists/skyground-chronicles).
+If you're curious about the specific mods in the list, the full modlist can be viewed [here](https://loadorderlibrary.com/lists/skyground-chronicles-2).
 
 ### System Requirements
 
 **DISCLAIMERS:**
-- SkyGround Chronicles only supports English Steam versions of Skyrim SE. GOG and other languages are not supported.
+- SkyGround Chronicles only supports English Steam versions of full Skyrim AE. GOG and other languages are not supported.
 - HDD and external SSD installs are absolutely not supported.
 - Any remote PC / desktop services or apps are not supported. (Including Steam Link)
 - Only Windows 10/11 operating systems are supported. Windows LTSC, special variants, lightened editions or any other modified variant **WILL NOT WORK.**
@@ -28,7 +28,7 @@ If you're curious about the specific mods in the list, the full modlist can be v
 ## Installation
 
 **⚠ WARNINGS ⚠:**
-- **You must update Skyrim Special Edition to latest version on Steam to install this list. DO NOT DOWNGRADE YOUR GAME TO INSTALL THIS LIST!**
+- **You must update Skyrim Special Edition to the latest version on Steam to install this list. DO NOT DOWNGRADE YOUR GAME TO INSTALL THIS LIST!**
 
 ### Pre-Installation
 
@@ -68,6 +68,8 @@ Due to SkyGround Chronicles's size and number of files required to be handled fo
  13. Click *Apply*
  14. Click *OK*
  15. Restart your computer in order for your new pagefile to take effect.
+
+<img width="430" height="603" alt="7A2ZcYL" src="https://github.com/user-attachments/assets/f5fd7ee0-202c-4cce-ae3f-4d44da71e726" />
 
 ---
 
