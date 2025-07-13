@@ -54,22 +54,26 @@ The Steam Overlay is known to cause issues while playing Skyrim Special Edition,
     Load Steam.
     In the toolbar at the top of the window, click Steam.
     In the dropdown menu, click Settings.
-    Then in the popup box select the In-Game menu item.
+    Then, in the pop-up box, select the In-Game menu item.
     Uncheck Enable the Steam overlay while in-game.
 
-Alternatively, if you would just like to disable the Overlay for Skyrim Special Edition you may:<br/>
+Alternatively, if you would just like to disable the Overlay for Skyrim Special Edition, you may:<br/>
 
     Load Steam.
     Click LIBRARY.
     In your games list, look for The Elder Scrolls V: Skyrim Special Edition and right-click on it.
     In the dropdown menu, click Properties.
-    Then, in the popup box, uncheck Enable the Steam Overlay while in-game.
+    Then, in the pop-up box, uncheck Enable the Steam Overlay while in-game.
 
+Important: Do not install Skyrim in `C:\Program Files` or `C:\Program Files (x86)` — this can cause permission issues.
+If it is already installed there, reinstall it to a different location to something like `C:\Games` works if you only have one drive, but if you have multiple, something like `D:\Modlist\` is preferred.<br/>
+You can also use LostDragonist’s Steam Library Setup Tool to easily move or create a new library.<br/>
 
- 1. Reinstall Skyrim into a location that is not Program Files. Locations such as `C:\Games` is a good location. If you only have one drive, look into LostDragonist's [SteamLibrary tool](https://github.com/LostDragonist/steam-library-setup-tool/wiki/Usage-Guide).
- 4. Set your Skyrim language to English: Right click on your Skyrim in Steam > Click `Properties` > Click the drop down box next to `Language` > Set the language to English
- 5. Remove or disable any 3rd party antiviruses such as Webroot or Bitdefender. These programs can cause issues with your installation due to how MO2's Virtual File Staging works.
- 6. (Soft Requirement) A Nexus Premium account is recommended. Without Premium, you will need to manually click the `Slow Download` button for each mod.
+Remove or disable any 3rd party antiviruses such as `Webroot` or `Bitdefender`. These programs can cause issues with your installation due to how MO2's Virtual File Staging works.
+
+Set your Skyrim language to English: Right click on your Skyrim in Steam > Click `Properties` > Click the drop down box next to `Language` > Set the language to English
+
+(Soft Requirement) A Nexus Premium account is recommended. Without Premium, you will need to manually click the `Slow Download` button for each mod.
 
 #### Pagefile and Crash Prevention
 
