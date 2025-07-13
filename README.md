@@ -89,16 +89,13 @@ Due to SkyGround Chronicles's size and number of files required to be handled fo
 
  To set up your pagefile:
 
- 1. Press **Win Key + R**
+ `1. Press **Win Key + R**
  2. Type *sysdm.cpl ,3* and hit **ENTER**
  3. Navigate to *Performance* and click the box "Settings..."
  4. Click the *Advanced* tab at the top
  5. Under *Virtual Memory* click the box "Change..."
  6. Uncheck *Automatically manage* if it is checked
- 7. Select your disk drive, ideally your fastest solid state drive.  
-  
-    > This **can't** be a HDD or an external SSD.
- 
+ 7. Select your disk drive, ideally your fastest solid state drive.
  8. Click the **Custom size:** button
  9. In the box next to **Initial Size (MB)** type `40960`
  10. In the box next to **Maximum Size (MB)** type `40960`
@@ -106,7 +103,7 @@ Due to SkyGround Chronicles's size and number of files required to be handled fo
  12. Click *OK*
  13. Click *Apply*
  14. Click *OK*
- 15. Restart your computer in order for your new pagefile to take effect.
+ 15. Restart your computer in order for your new pagefile to take effect.`
 
 <img width="430" height="603" alt="7A2ZcYL" src="https://github.com/user-attachments/assets/f5fd7ee0-202c-4cce-ae3f-4d44da71e726" />
 
