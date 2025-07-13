@@ -69,11 +69,15 @@ Important: Do not install Skyrim in `C:\Program Files` or `C:\Program Files (x86
 If it is already installed there, reinstall it to a different location to something like `C:\Games` works if you only have one drive, but if you have multiple, something like `D:\Modlist\` is preferred.<br/>
 You can also use LostDragonist’s Steam Library Setup Tool to easily move or create a new library.<br/>
 
-Remove or disable any 3rd party antiviruses such as `Webroot` or `Bitdefender`. These programs can cause issues with your installation due to how MO2's Virtual File Staging works.
+#### Antiviruses
+Bad Antivirus...e<br/>
+Remove or disable any 3rd party antiviruses such as `Webroot` or `Bitdefender`. These programs can cause issues with your installation due to how MO2's Virtual File Staging works.<br/>
+You’ll also need to add the Wabbajack list folder to your antivirus exclusion list. Otherwise, the game may have trouble loading scripts, which can lead to crashes.<br/>
+<img src="https://i.imgur.com/raiU13r.png" />
 
-Set your Skyrim language to English: Right click on your Skyrim in Steam > Click `Properties` > Click the drop down box next to `Language` > Set the language to English
-
-(Soft Requirement) A Nexus Premium account is recommended. Without Premium, you will need to manually click the `Slow Download` button for each mod.
+#### Few Other Small Tips
+1. Set your Skyrim language to English: Right click on your Skyrim in Steam > Click `Properties` > Click the drop down box next to `Language` > Set the language to English<br/>
+2. (Soft Requirement) A Nexus Premium account is recommended. Without Premium, you will need to manually click the `Slow Download` button for each mod.
 
 #### Pagefile and Crash Prevention
 
