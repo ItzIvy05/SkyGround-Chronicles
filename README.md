@@ -41,6 +41,7 @@ Before installing SkyGround Chronicles, please complete the following steps:
 
 **Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017, 2019, and 2022**
 The Visual C++ Redistributable installs Microsoft C and C++ (MSVC) runtime libraries. These libraries are required by many applications built by using Microsoft C and C++ tools. This is required for Mod Organizer 2 and LOOT to function properly. Download both of them from:
+
 [Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017, 2019, and 2022 - x86](https://aka.ms/vs/17/release/vc_redist.x86.exe)
 
 [Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017, 2019, and 2022 - x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)
