@@ -46,8 +46,9 @@ The Visual C++ Redistributable installs Microsoft C and C++ (MSVC) runtime libra
 [Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017, 2019, and 2022 - x86](https://aka.ms/vs/17/release/vc_redist.x86.exe)<br/>
 [Microsoft Visual C++ Redistributable for Visual Studio 2015, 2017, 2019, and 2022 - x64](https://aka.ms/vs/17/release/vc_redist.x64.exe)<br/>
 
-#### Official Bethesda Content<br/>
+#### Official Bethesda Content
 Complete With Official Bethesda Bugs<br/>
+
 **Steam Overlay**<br/>
 The Steam Overlay is known to cause issues while playing Skyrim Special Edition, and you are advised to disable it; to do this perform the following:<br/>
 
@@ -71,6 +72,7 @@ You can also use LostDragonist’s Steam Library Setup Tool to easily move or cr
 
 #### Antiviruses
 Bad Antivirus...e<br/>
+
 Remove or disable any 3rd party antiviruses such as `Webroot` or `Bitdefender`. These programs can cause issues with your installation due to how MO2's Virtual File Staging works.<br/>
 You’ll also need to add the Wabbajack list folder to your antivirus exclusion list. Otherwise, the game may have trouble loading scripts, which can lead to crashes.<br/>
 <img src="https://i.imgur.com/raiU13r.png" />
