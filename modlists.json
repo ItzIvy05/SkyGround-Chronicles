@@ -60,7 +60,7 @@
     "DisplayVersionOnlyInInstallerView": false,
     "force_down": false,
     "links": {
-      "image": "https://raw.githubusercontent.com/ItzIvy05/worromot/refs/heads/main/Resources/122.jpg",
+      "image": "https://raw.githubusercontent.com/ItzIvy05/worromot/main/Resources/122.jpg",
       "readme": "https://github.com/ItzIvy05/worromot/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Worromot.wabbajack_f2a195ad-bc08-4bf1-9f76-3f6551fd6013",
       "machineURL": "Worromot",
