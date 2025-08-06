@@ -21,23 +21,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/main/Resources/Main.png",
       "readme": "https://github.com/ItzIvy05/SkyGround-Chronicles/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/SkyGround Chronicles.wabbajack_3dcde7b9-72b3-401b-a6d5-1507b6948cdd",
+      "download": "https://authored-files.wabbajack.org/SkyGround Chronicles.wabbajack_c7c97f27-283d-4f59-9968-1d603d5ce08c",
       "machineURL": "SkyGround",
       "discordURL": "https://discord.gg/wrYsKqx4",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "+T+NWrFB5MM=",
-      "Size": 948250802,
-      "NumberOfArchives": 2590,
-      "SizeOfArchives": 193135787360,
-      "NumberOfInstalledFiles": 279935,
-      "SizeOfInstalledFiles": 274289593216,
-      "TotalSize": 467425380576
+      "Hash": "/lZE43Uwhog=",
+      "Size": 947166184,
+      "NumberOfArchives": 2589,
+      "SizeOfArchives": 193134277072,
+      "NumberOfInstalledFiles": 279874,
+      "SizeOfInstalledFiles": 274282849251,
+      "TotalSize": 467417126323
     },
-    "version": "1.2.1.2",
+    "version": "1.2.2",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-08-05T17:02:43.9951784Z",
+    "dateUpdated": "2025-08-06T05:35:14.6460688Z",
     "repositoryName": ""
   },
   {
