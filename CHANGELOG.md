@@ -1,3 +1,15 @@
+#### SkyGround-Chronicles
+
+![](https://github.com/ItzIvy05/SkyGround-Chronicles/blob/main/Resources/5.png)
+
+<p align="center">
+  <a href="https://github.com/ItzIvy05/SkyGround-Chronicles/blob/main/CHANGELOG.md">Changelogs</a> |
+  <a href="https://www.nexusmods.com/skyrimspecialedition/mods/147012">Nexus</a> |
+  <a href="https://loadorderlibrary.com/lists/skyground-chronicles-2">Load Order﻿﻿</a> |
+  <a href="https://discord.gg/FB62v6whbh">Discord</a>
+</p>
+
+
 ### 1.0.0.0 RC12 - 2025-06-08
 <Details>
    <summary>Changes</summary>
