@@ -10,7 +10,7 @@
 </p>
 
 
-### 1.2.5 - 2025-
+### 1.2.5 - Perks of Gods or Something like that - 2025-
 <Details>
    <summary>Changes</summary>
    
