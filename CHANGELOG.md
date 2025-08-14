@@ -10,7 +10,7 @@
 </p>
 
 
-### 1.0.0.0 RC12 - 2025-06-08
+### 1.2.5 - 2025-
 <Details>
    <summary>Changes</summary>
    
