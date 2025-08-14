@@ -1,16 +1,27 @@
-# Changelog
+# SkyGround Changelog
 
-## [1.0.0] - 2025-08-14
+## [1.2.5] - Perk of God or Something Like that
 
-### Added
-- Initial release of the project.
-- User authentication module.
+### New Additions
+Loading Menu Overhaul
+Nightgate Inn Revived
+MCO - First Person Patch
+Vanaheimr Mountains - 4K (Main Profile only)
+Savior's Hide Replacer 2
+LOD Unloading Bug Fix (Adding it back with custom script tweaks)
+Contextual Crosshair - Crosshair and Detection Meter Fix
+Sonderbains Steady On Stepping Bodyslides
+Magicka Surge - A Magicka Spell Mod
+Ivy Stendarr Beacon Overhaul
 
-### Fixed
-- Resolved issue with password reset functionality.
+### Updated
+Comprehensive Attack Rate Patch - SKSE
+Vanaheimr Landscapes - AIO
+Comprehensive Attack Rate Patch - SKSE
+Camping Modular Expansion
+Water for ENB
+Sovngarde Portal Requirements
 
-## [0.9.0] - 2025-08-01
-
-### Added
-- Basic user profile management.
-- Database integration.
+### Removals
+Dxvk Async ENB Injector 
+Don't Stay in The Water (Does not really work with 1170 and kinda causes errors)
