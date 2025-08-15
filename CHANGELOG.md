@@ -34,6 +34,8 @@ Skyland High Hrothgar - Complex Parallax Textures
 Dxvk Async ENB Injector 
 Don't Stay in The Water (Does not really work with 1170 and kinda cause errors)
 Skyland - High Hrothgar - Parallax
+Little Witch Taeka Elixi
+Celestine
 ~~~
 
 #### Updated
@@ -45,11 +47,16 @@ Camping Modular Expansion
 Water for ENB
 Sovngarde Portal Requirements
 Enhanced Rocks and Mountains - Addon
+Bounty Hunter - Bounty Perks
+Vanaheimr Landscapes - AIO
+SkyParkour v3 - Procedural Parkour Framework (SPPF) 
+The Gildergreen Grows
+
 ~~~
 
 #### Fixes
 ~~~
 Flagged all Light Bulb as Portal Strict
 Fixed Bounty Hunter Perks
-~~~
+
 </Details>
