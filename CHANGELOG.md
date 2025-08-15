@@ -27,6 +27,10 @@ Sonderbains Steady On Stepping Bodyslides
 Magicka Surge - A Magicka Spell Mod
 Ivy Stendarr Beacon Overhaul
 Skyland High Hrothgar - Complex Parallax Textures
+Love Is In The Air - Dynamic NPC Marriages
+Riften Extension - Southwoods District
+AshThorn - WeelBones' Irileth Overhaul
+Female Hands Redone
 ~~~
 
 #### Removed
@@ -40,6 +44,7 @@ Celestine
 
 #### Updated
 ~~~
+Unofficial Skyrim Special Edition Patch - USSEP
 Comprehensive Attack Rate Patch - SKSE
 Vanaheimr Landscapes - AIO
 Comprehensive Attack Rate Patch - SKSE
@@ -51,7 +56,8 @@ Bounty Hunter - Bounty Perks
 Vanaheimr Landscapes - AIO
 SkyParkour v3 - Procedural Parkour Framework (SPPF) 
 The Gildergreen Grows
-
+Alt-Tab Stuck Key Fix NG
+Ivy's Stendarr's Beacon Overhaul
 ~~~
 
 #### Fixes
