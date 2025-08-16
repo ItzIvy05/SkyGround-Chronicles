@@ -79,15 +79,11 @@ Diverse NPC Movesets
 ~~~
 Flagged all Light Bulb as Portal Strict
 Fixed Bounty Hunter Perks
+Fixed missing and broken animations for NPC
 ~~~
 
 #### Changes
 ~~~
 Full Knapsacks Loot overhaul now its more interesting
-~~~
-
-### Fixes
-~~~
-Fixed missing and broken animations for NPC
 ~~~
 </Details>
