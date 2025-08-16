@@ -65,4 +65,14 @@ Ivy's Stendarr's Beacon Overhaul
 Flagged all Light Bulb as Portal Strict
 Fixed Bounty Hunter Perks
 ~~~
+
+#### Changes
+~~~
+Full Knapsacks Loot overhaul now its more interesting
+~~~
+
+### Fixes
+~~~
+Fixed missing and broken animations for NPC
+~~~
 </Details>
