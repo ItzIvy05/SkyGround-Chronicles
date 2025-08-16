@@ -38,8 +38,16 @@ Female Hands Redone
 Dxvk Async ENB Injector 
 Don't Stay in The Water (Does not really work with 1170 and kinda cause errors)
 Skyland - High Hrothgar - Parallax
-Little Witch Taeka Elixi
+Little Witch Taeka Elixi 
 Celestine
+Contextual Crosshair
+Contextual Crosshair - Crosshair and Detection Meter Fix
+Happy Little Tree - High Quality Ivy Replacer Addon (I know it looks cool but Performance profile is Performance profile)
+SkyParkour v2 - Invisible Markers
+Thuldor's Ivarstead and Its patches
+Thuldor's Ivarstead - Botox Patch
+Ivarstead Well Addon Integrated into Thuldor's Ivarstead with Notice Board
+Ivy Ivarstead Well With CotN Roof for Thuldor's Ivarstead
 ~~~
 
 #### Updated
@@ -50,14 +58,21 @@ Vanaheimr Landscapes - AIO
 Comprehensive Attack Rate Patch - SKSE
 Camping Modular Expansion
 Water for ENB
-Sovngarde Portal Requirements
+Sovngarde Portal Requirements (SPR)
 Enhanced Rocks and Mountains - Addon
+Majestic Landscapes or Vanaheimr AIO
 Bounty Hunter - Bounty Perks
 Vanaheimr Landscapes - AIO
 SkyParkour v3 - Procedural Parkour Framework (SPPF) 
 The Gildergreen Grows
 Alt-Tab Stuck Key Fix NG
 Ivy's Stendarr's Beacon Overhaul
+Biggie Traits
+H.O.A. - Hyperspecific Occlusion Addon
+JK's Tel Mithryn Patch Collection
+Snazzy Interiors Patch Collection
+Modding My Business (M.M.B)
+Diverse NPC Movesets
 ~~~
 
 #### Fixes
