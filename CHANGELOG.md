@@ -31,6 +31,9 @@ Love Is In The Air - Dynamic NPC Marriages
 Riften Extension - Southwoods District
 AshThorn - WeelBones' Irileth Overhaul
 Female Hands Redone
+Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
+Lulu's Xelzaz - Xelzaz Visual replacer
+Requiem - Xelzaz
 ~~~
 
 #### Removed
@@ -52,6 +55,7 @@ Ivy Ivarstead Well With CotN Roof for Thuldor's Ivarstead
 
 #### Updated
 ~~~
+Psychopatchist Purgatory
 Unofficial Skyrim Special Edition Patch - USSEP
 Comprehensive Attack Rate Patch - SKSE
 Vanaheimr Landscapes - AIO
@@ -67,23 +71,30 @@ SkyParkour v3 - Procedural Parkour Framework (SPPF)
 The Gildergreen Grows
 Alt-Tab Stuck Key Fix NG
 Ivy's Stendarr's Beacon Overhaul
+B612 - little asteroid of useful UI components
 Biggie Traits
 H.O.A. - Hyperspecific Occlusion Addon
 JK's Tel Mithryn Patch Collection
 Snazzy Interiors Patch Collection
 Modding My Business (M.M.B)
 Diverse NPC Movesets
+Experience
+Particle Patch
 ~~~
 
 #### Fixes
 ~~~
 Flagged all Light Bulb as Portal Strict
 Fixed Bounty Hunter Perks
-Fixed missing and broken animations for NPC
 ~~~
 
 #### Changes
 ~~~
 Full Knapsacks Loot overhaul now its more interesting
+~~~
+
+### Fixes
+~~~
+Fixed missing and broken animations for NPC
 ~~~
 </Details>
