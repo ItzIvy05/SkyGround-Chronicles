@@ -7,8 +7,9 @@
       "github/ItzIvy05"
     ],
     "game": "skyrimspecialedition",
-    "official": false,
+    "official": true,
     "tags": [
+      "Official",
       "SFW",
       "High Fantasy",
       "Steam"
@@ -81,4 +82,5 @@
     "dateUpdated": "2025-07-15T02:15:56.4984966Z",
     "repositoryName": ""
   }
+
 ]
