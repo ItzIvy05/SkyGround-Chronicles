@@ -34,6 +34,10 @@ Female Hands Redone
 Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
 Lulu's Xelzaz - Xelzaz Visual replacer
 Requiem - Xelzaz
+LoreBox - Item and Spell Tooltips
+Requiem Armor Insight
+Nilheim - Misc Quest Expansion
+Smooth Cancel Attack
 ~~~
 
 #### Removed
@@ -51,6 +55,7 @@ Thuldor's Ivarstead and Its patches
 Thuldor's Ivarstead - Botox Patch
 Ivarstead Well Addon Integrated into Thuldor's Ivarstead with Notice Board
 Ivy Ivarstead Well With CotN Roof for Thuldor's Ivarstead
+Cancel Attack for MCO-ADXP
 ~~~
 
 #### Updated
@@ -87,6 +92,10 @@ Particle Patch
 Flagged all Light Bulb as Portal Strict
 Fixed Bounty Hunter Perks
 Fixed missing and broken animations for NPC
+Fixed some NR seams
+Removed some tress clipping to stuff
+Fixed broken ImpExtTowershell Mesh
+
 ~~~
 
 #### Changes
