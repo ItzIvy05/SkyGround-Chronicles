@@ -38,6 +38,14 @@ LoreBox - Item and Spell Tooltips
 Requiem Armor Insight
 Nilheim - Misc Quest Expansion
 Smooth Cancel Attack
+Better Reach Trees
+Floating Subtitles
+Beards by Hvergelmir
+Beards by Hvergelmir for High Poly Head 
+Beards of Power
+Beards of Power - 3D Real beards
+Better Reach Trees - Majestic Mountains Complex Material Patch
+Skyrim Souls RE - Updated
 ~~~
 
 #### Removed
@@ -75,7 +83,6 @@ Vanaheimr Landscapes - AIO
 SkyParkour v3 - Procedural Parkour Framework (SPPF) 
 The Gildergreen Grows
 Alt-Tab Stuck Key Fix NG
-Ivy's Stendarr's Beacon Overhaul
 B612 - little asteroid of useful UI components
 Biggie Traits
 H.O.A. - Hyperspecific Occlusion Addon
@@ -85,6 +92,7 @@ Modding My Business (M.M.B)
 Diverse NPC Movesets
 Experience
 Particle Patch
+Ivy Riverwood Overhaul
 ~~~
 
 #### Fixes
