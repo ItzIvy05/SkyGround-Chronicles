@@ -103,7 +103,6 @@ Fixed missing and broken animations for NPC
 Fixed some NR seams
 Removed some tress clipping to stuff
 Fixed broken ImpExtTowershell Mesh
-
 ~~~
 
 #### Changes
