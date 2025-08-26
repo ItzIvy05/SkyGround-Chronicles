@@ -16,18 +16,18 @@
    
 #### New Additions
 ~~~
-<a href="https://www.nexusmods.com/skyrimspecialedition/mods/149874">Loading Menu Overhaul</a>
-<a href="https://www.nexusmods.com/skyrimspecialedition/mods/121244">Nightgate Inn Revived</a>
-<a href="https://www.nexusmods.com/skyrimspecialedition/mods/113670">MCO - First Person Patch</a>
-<a href="https://www.nexusmods.com/skyrimspecialedition/mods/115471">Vanaheimr Mountains - 4K (Main Profile only)</a>
-<a href="https://www.nexusmods.com/skyrimspecialedition/mods/129638">Savior's Hide Replacer 2</a>
-<a href="https://www.nexusmods.com/skyrimspecialedition/mods/61251">LOD Unloading Bug Fix (Adding it back with custom script tweaks)</a>
-<a href="https://www.nexusmods.com/skyrimspecialedition/mods/156243">Sonderbains Steady On Stepping - 3BA (3BBB) Bodyslide Presets</a>
-<a href="https://www.nexusmods.com/skyrimspecialedition/mods/121513">Magicka Surge - A Magicka Spell Mod</a>
-<a href="https://www.nexusmods.com/skyrimspecialedition/mods/156160">Ivy Stendarr Beacon Overhaul</a>
-<a href="https://www.nexusmods.com/skyrimspecialedition/mods/43041">Skyland High Hrothgar - Complex Parallax Textures</a>
-<a href="https://www.nexusmods.com/skyrimspecialedition/mods/155836">Love Is In The Air - Dynamic NPC Marriages</a>
-<a href="https://www.nexusmods.com/skyrimspecialedition/mods/47074">Riften Extension - Southwoods District</a>
+- [Loading Menu Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/149874)  
+- [Nightgate Inn Revived](https://www.nexusmods.com/skyrimspecialedition/mods/121244)  
+- [MCO - First Person Patch](https://www.nexusmods.com/skyrimspecialedition/mods/113670)  
+- [Vanaheimr Mountains - 4K (Main Profile only)](https://www.nexusmods.com/skyrimspecialedition/mods/115471)  
+- [Savior's Hide Replacer 2](https://www.nexusmods.com/skyrimspecialedition/mods/129638)  
+- [LOD Unloading Bug Fix (Adding it back with custom script tweaks)](https://www.nexusmods.com/skyrimspecialedition/mods/61251)  
+- [Sonderbains Steady On Stepping - 3BA (3BBB) Bodyslide Presets](https://www.nexusmods.com/skyrimspecialedition/mods/156243)  
+- [Magicka Surge - A Magicka Spell Mod](https://www.nexusmods.com/skyrimspecialedition/mods/121513)  
+- [Ivy Stendarr Beacon Overhaul](https://www.nexusmods.com/skyrimspecialedition/mods/156160)  
+- [Skyland High Hrothgar - Complex Parallax Textures](https://www.nexusmods.com/skyrimspecialedition/mods/43041)  
+- [Love Is In The Air - Dynamic NPC Marriages](https://www.nexusmods.com/skyrimspecialedition/mods/155836)  
+- [Riften Extension - Southwoods District](https://www.nexusmods.com/skyrimspecialedition/mods/47074)
 
 **Body/NPC Replacers**
 <a href="https://www.nexusmods.com/skyrimspecialedition/mods/148489">AshThorn - WeelBones' Irileth Overhaul</a>
