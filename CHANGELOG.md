@@ -16,46 +16,47 @@
    
 #### New Additions
 ~~~
-Loading Menu Overhaul
-Nightgate Inn Revived
-MCO - First Person Patch
-Vanaheimr Mountains - 4K (Main Profile only)
-Savior's Hide Replacer 2
-LOD Unloading Bug Fix (Adding it back with custom script tweaks)
-Contextual Crosshair - Crosshair and Detection Meter Fix
-Sonderbains Steady On Stepping Bodyslides
-Magicka Surge - A Magicka Spell Mod
-Ivy Stendarr Beacon Overhaul
-Skyland High Hrothgar - Complex Parallax Textures
-Love Is In The Air - Dynamic NPC Marriages
-Riften Extension - Southwoods District
-AshThorn - WeelBones' Irileth Overhaul
-Female Hands Redone
-Xelzaz - Custom Fully Voiced Argonian Telvanni Follower
-Lulu's Xelzaz - Xelzaz Visual replacer
-Requiem - Xelzaz
-LoreBox - Item and Spell Tooltips
-Requiem Armor Insight
-Nilheim - Misc Quest Expansion
-Smooth Cancel Attack
-Better Reach Trees
-Floating Subtitles
-Beards by Hvergelmir
-Beards by Hvergelmir for High Poly Head 
-Beards of Power
-Beards of Power - 3D Real beards
-Better Reach Trees - Majestic Mountains Complex Material Patch
-Skyrim Souls RE - Updated
-LDD - Detail Makeup - HPH
-Skyrim Cut Content Restoration
-Tomato's Riften and Ratway
-Grand Solitude - The Walls of High King Erling
-Grand Solitude Patch Collection
-Grand Solitude - C.O.I.N. Bank Exchange
-Drengin's Blue Palace Terrace. Renewed version
-Valhalla Bridges (Meshes only)
-Windhelm Walkway
-Solstheim Fantasy Paper Map for FWMF
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/149874">">Loading Menu Overhaul</a>
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/121244">Nightgate Inn Revived</a>
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/113670">MCO - First Person Patch</a>
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/115471">Vanaheimr Mountains - 4K (Main Profile only)</a>
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/129638">Savior's Hide Replacer 2</a>
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/61251">LOD Unloading Bug Fix (Adding it back with custom script tweaks)</a>
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/156243">Sonderbains Steady On Stepping - 3BA (3BBB) Bodyslide Presets</a>
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/121513">Magicka Surge - A Magicka Spell Mod</a>
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/156160">Ivy Stendarr Beacon Overhaul</a>
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/43041">Skyland High Hrothgar - Complex Parallax Textures</a>
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/155836">Love Is In The Air - Dynamic NPC Marriages</a>
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/47074">Riften Extension - Southwoods District</a>
+
+**Body/NPC Replacers**
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/148489">AshThorn - WeelBones' Irileth Overhaul</a>
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/90713">Female Hands Redone</a>
+<a href="">Xelzaz - Custom Fully Voiced Argonian Telvanni Follower</a>
+<a href="">Lulu's Xelzaz - Xelzaz Visual replacer</a>
+<a href="">Requiem - Xelzaz</a>
+<a href="">LoreBox - Item and Spell Tooltips</a>
+<a href="">Requiem Armor Insight</a>
+<a href="">Nilheim - Misc Quest Expansion</a>
+<a href="">Smooth Cancel Attack</a>
+<a href="">Better Reach Trees</a>
+<a href="">Floating Subtitles</a>
+<a href="">Beards by Hvergelmir</a>
+<a href="">Beards by Hvergelmir for High Poly Head</a>
+<a href="">Beards of Power</a>
+<a href="">Beards of Power - 3D Real beards</a>
+<a href="">Better Reach Trees - Majestic Mountains Complex Material Patch</a>
+<a href="">Skyrim Souls RE - Updated</a>
+<a href="">LDD - Detail Makeup - HPH</a>
+<a href="">Skyrim Cut Content Restoration</a>
+<a href="">Tomato's Riften and Ratway</a>
+<a href="">Grand Solitude - The Walls of High King Erling</a>
+<a href="">Grand Solitude Patch Collection</a>
+<a href="">Grand Solitude - C.O.I.N. Bank Exchange</a>
+<a href="">Drengin's Blue Palace Terrace. Renewed version</a>
+<a href="">Valhalla Bridges (Meshes only)</a>
+<a href="">Windhelm Walkway</a>
+<a href="">Solstheim Fantasy Paper Map for FWMF</a>
 ~~~
 
 #### Removed
