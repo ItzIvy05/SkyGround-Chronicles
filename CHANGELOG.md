@@ -46,6 +46,16 @@ Beards of Power
 Beards of Power - 3D Real beards
 Better Reach Trees - Majestic Mountains Complex Material Patch
 Skyrim Souls RE - Updated
+LDD - Detail Makeup - HPH
+Skyrim Cut Content Restoration
+Tomato's Riften and Ratway
+Grand Solitude - The Walls of High King Erling
+Grand Solitude Patch Collection
+Grand Solitude - C.O.I.N. Bank Exchange
+Drengin's Blue Palace Terrace. Renewed version
+Valhalla Bridges (Meshes only)
+Windhelm Walkway
+Solstheim Fantasy Paper Map for FWMF
 ~~~
 
 #### Removed
@@ -68,6 +78,17 @@ Cancel Attack for MCO-ADXP
 
 #### Updated
 ~~~
+Domino SMP to 3BA
+Alternate Perspective - TrueHUD Compatibility Fix
+SSE Engine Fixes (SKSE Plugin)
+KreatE
+ENB Extender for Skyrim
+Snazzy Location Resources
+Snazzy Dawnstar AIO
+Snazzy Morthal AIO
+COTN Dawnstar Patch Collection (RERUN)
+Northern Roads - Collision and Placement Fix - Meshes
+OnMagicEffectApply Replacer Effective - Skyrim Extended Cut S-and-S
 Psychopatchist Purgatory
 Unofficial Skyrim Special Edition Patch - USSEP
 Comprehensive Attack Rate Patch - SKSE
@@ -85,6 +106,7 @@ The Gildergreen Grows
 Alt-Tab Stuck Key Fix NG
 B612 - little asteroid of useful UI components
 Biggie Traits
+Biggie Traits - Requiem
 H.O.A. - Hyperspecific Occlusion Addon
 JK's Tel Mithryn Patch Collection
 Snazzy Interiors Patch Collection
