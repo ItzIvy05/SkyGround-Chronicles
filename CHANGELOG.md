@@ -16,7 +16,7 @@
    
 #### New Additions
 ~~~
-<a href="https://www.nexusmods.com/skyrimspecialedition/mods/149874">">Loading Menu Overhaul</a>
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/149874">Loading Menu Overhaul</a>
 <a href="https://www.nexusmods.com/skyrimspecialedition/mods/121244">Nightgate Inn Revived</a>
 <a href="https://www.nexusmods.com/skyrimspecialedition/mods/113670">MCO - First Person Patch</a>
 <a href="https://www.nexusmods.com/skyrimspecialedition/mods/115471">Vanaheimr Mountains - 4K (Main Profile only)</a>
