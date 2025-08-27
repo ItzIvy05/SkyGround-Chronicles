@@ -80,6 +80,7 @@ High Poly Canticle Tree
 TB's Improved Smoke
 Less Bright Teeth for Expressive Facegen Morphs
 Kala's Eyes- Beast Race Edition Khajiit Argonian
+PELTAPALOOZA - Special Edition
 ~~~
 
 #### Updated
