@@ -56,6 +56,8 @@ Drengin's Blue Palace Terrace. Renewed version
 Valhalla Bridges (Meshes only)
 Windhelm Walkway
 Solstheim Fantasy Paper Map for FWMF
+Keys Replacer
+HSF Male Furniture Idles
 ~~~
 
 #### Removed
@@ -74,6 +76,10 @@ Thuldor's Ivarstead - Botox Patch
 Ivarstead Well Addon Integrated into Thuldor's Ivarstead with Notice Board
 Ivy Ivarstead Well With CotN Roof for Thuldor's Ivarstead
 Cancel Attack for MCO-ADXP
+High Poly Canticle Tree
+TB's Improved Smoke
+Less Bright Teeth for Expressive Facegen Morphs
+Kala's Eyes- Beast Race Edition Khajiit Argonian
 ~~~
 
 #### Updated
@@ -115,6 +121,7 @@ Diverse NPC Movesets
 Experience
 Particle Patch
 Ivy Riverwood Overhaul
+Death Idle Fix
 ~~~
 
 #### Fixes
