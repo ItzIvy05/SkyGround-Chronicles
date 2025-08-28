@@ -123,6 +123,9 @@ Experience
 Particle Patch
 Ivy Riverwood Overhaul
 Death Idle Fix
+Requiem - Improved Spell Learning
+Death Drop Overhaul
+Natural Waterfalls
 ~~~
 
 #### Fixes
