@@ -48,7 +48,13 @@ Better Reach Trees - Majestic Mountains Complex Material Patch
 Skyrim Souls RE - Updated
 LDD - Detail Makeup - HPH
 Skyrim Cut Content Restoration
+Granite Hill - Cut Content Restoration
+RoastGorilla439's Patch Collection
+RedBag's Falkreath - Granite Hill Addon
 Tomato's Riften and Ratway
+Drengin's Blue Palace Terrace - Renewed Patches
+Blue Palace Terrace Patch Collection
+Drengin's Blue Palace Terrace. Renewed version
 Grand Solitude - The Walls of High King Erling
 Grand Solitude Patch Collection
 Grand Solitude - C.O.I.N. Bank Exchange
@@ -59,6 +65,10 @@ Solstheim Fantasy Paper Map for FWMF
 Keys Replacer
 HSF Male Furniture Idles
 DD - Jewelry Replacer by Vergi
+Dynamic Activation Key - MCM
+Skyfall's Fort Dawnguard Roofs
+Biggie Traits - Racial Traits
+AMON ENB REBORN for NAT 3 weathers and LUX
 Dynamic Activation Key - MCM
 ~~~
 
@@ -87,9 +97,12 @@ PELTAPALOOZA - Special Edition
 
 #### Updated
 ~~~
+SkyGround Chronicles - Main Menu Replacer
 Domino SMP to 3BA
 Alternate Perspective - TrueHUD Compatibility Fix
 SSE Engine Fixes (SKSE Plugin)
+Hotkey Reminder
+Easy Console Commands
 KreatE
 ENB Extender for Skyrim
 Snazzy Location Resources
@@ -128,6 +141,11 @@ Death Idle Fix
 Requiem - Improved Spell Learning
 Death Drop Overhaul
 Natural Waterfalls
+New Creature Animation - Dwarven Centurion - OAR
+Golden Dwemer Pipework Reworked
+TrueHUD - Inventory Injector Patch
+Simple Snow Improvements - Skyrim Fixes (BOS)
+Simple Snow Improvements - The Great City of Winterhold (BOS)
 ~~~
 
 #### Fixes
