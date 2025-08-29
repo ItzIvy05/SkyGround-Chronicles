@@ -58,6 +58,8 @@ Windhelm Walkway
 Solstheim Fantasy Paper Map for FWMF
 Keys Replacer
 HSF Male Furniture Idles
+DD - Jewelry Replacer by Vergi
+Dynamic Activation Key - MCM
 ~~~
 
 #### Removed
@@ -141,5 +143,9 @@ Fixed broken ImpExtTowershell Mesh
 #### Changes
 ~~~
 Full Knapsacks Loot overhaul now its more interesting
+Marked all vanilla NPC as Essential so they wont die.
+Fully Patched AI Overhaul manually (Removed Synthesis Patch)
+Fully Manually patched high poly head (removed synthesis patch)
+Fully Patched Map with LUX - Encounterzone - Water for ENB and Skyrim Bandit Expansion
 ~~~
 </Details>
