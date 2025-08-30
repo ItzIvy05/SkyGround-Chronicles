@@ -97,6 +97,7 @@ PELTAPALOOZA - Special Edition
 
 #### Updated
 ~~~
+powerofthree's Tweaks
 SkyGround Chronicles - Main Menu Replacer
 Domino SMP to 3BA
 Alternate Perspective - TrueHUD Compatibility Fix
