@@ -70,6 +70,18 @@ Skyfall's Fort Dawnguard Roofs
 Biggie Traits - Racial Traits
 AMON ENB REBORN for NAT 3 weathers and LUX
 Dynamic Activation Key - MCM
+Children of the North Wind
+Ivarstead Bridge - A Tiny Northern Roads Edit
+Relic Hunter- Guildmaster Start (Legacy and ASLAL addon)
+Legacy of the Dragonborn - Alternate Perspective Patch for The Curator's Companion
+Legacy of the Dragonborn - Alternate Perspective Patch - Relic Hunter
+Malignis Animations - Bathing in Skyrim - Renewed
+Switch Camera During Dialogue
+Player Name Randomizer
+Player Name Randomizer - Show in UI
+Woodcutting Tweaks - OAR meshes
+Camping Plus Plus
+Simple Portable Cooking
 ~~~
 
 #### Removed
@@ -147,6 +159,9 @@ Golden Dwemer Pipework Reworked
 TrueHUD - Inventory Injector Patch
 Simple Snow Improvements - Skyrim Fixes (BOS)
 Simple Snow Improvements - The Great City of Winterhold (BOS)
+Dismembering Framework
+Next-Gen Decapitations
+Core Impact Framework (CIF)
 ~~~
 
 #### Fixes
