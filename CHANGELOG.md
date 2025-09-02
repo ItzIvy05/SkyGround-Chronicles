@@ -16,6 +16,9 @@
    
 #### New Additions
 ~~~
+Ashe
+VioLens - A killmove Mod
+Headhunter - Bounties Redone (Makes a return)
 Loading Menu Overhaul
 Nightgate Inn Revived
 MCO - First Person Patch
