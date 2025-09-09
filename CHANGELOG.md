@@ -10,7 +10,7 @@
 </p>
 
 
-### 1.2.5 - Perks of Gods or Something like that - 2025-
+### 1.3 - Should Have Been 2.0 - 9/8/2025
 <Details>
    <summary>Changes</summary>
    
@@ -85,6 +85,8 @@ Player Name Randomizer - Show in UI
 Woodcutting Tweaks - OAR meshes
 Camping Plus Plus
 Simple Portable Cooking
+Watchman's Whiterun Secondary Locations - Patch Collection
+
 ~~~
 
 #### Removed
@@ -108,6 +110,8 @@ TB's Improved Smoke
 Less Bright Teeth for Expressive Facegen Morphs
 Kala's Eyes- Beast Race Edition Khajiit Argonian
 PELTAPALOOZA - Special Edition
+
+Custom Tree models till i figure ot whats happning
 ~~~
 
 #### Updated
@@ -165,6 +169,7 @@ Simple Snow Improvements - The Great City of Winterhold (BOS)
 Dismembering Framework
 Next-Gen Decapitations
 Core Impact Framework (CIF)
+Nature of the Wild Lands - 3D hybrid LODs and regions addon
 ~~~
 
 #### Fixes
