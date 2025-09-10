@@ -9,6 +9,63 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
+### 1.3.0.4 - Should Have Been 2.0 - 9/8/2025
+<Details>
+   <summary>Changes</summary>
+
+#### Fixes
+~~~
+Fixed a broken Navmesh in riverwood
+Fixed first Subterfuge perk
+Fixed Quaterstaff perk in 2 handed.
+~~~
+
+</Details>
+
+### 1.3.0.3 - Should Have Been 2.0 - 9/8/2025
+<Details>
+   <summary>Changes</summary>
+
+#### Fixes
+~~~
+Fixed a broken Nav Link near Windhelm bridge
+Fixed NR Seam near Windhelm
+Balanced/Fixed Gore Amulet
+~~~
+
+</Details>
+
+### 1.3.0.2 - Should Have Been 2.0 - 9/8/2025
+<Details>
+   <summary>Changes</summary>
+
+#### New Additions
+~~~
+Added a Male Breton Prese
+~~~
+
+#### Fixes
+~~~
+Fixed STB for 21x9 Users
+Fixed Outputs being disabled for performance profile
+~~~
+
+</Details>
+
+### 1.3.0.1 - Should Have Been 2.0 - 9/8/2025
+<Details>
+   <summary>Changes</summary>
+
+#### Removed
+~~~
+Removed Underwater combat its conflicts with Actor Value Generator and cause crashes when NPC get pushed into water.
+~~~
+
+#### Updated
+~~~
+Updated Immersive Diseases - Survival Mode Improved Patch
+~~~
+</Details>
 
 ### 1.3 - Should Have Been 2.0 - 9/8/2025
 <Details>
@@ -16,7 +73,6 @@
    
 #### New Additions
 ~~~
-Ashe
 VioLens - A killmove Mod
 Headhunter - Bounties Redone (Makes a return)
 Loading Menu Overhaul
