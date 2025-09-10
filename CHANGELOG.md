@@ -9,7 +9,7 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
-### 1.3.0.4 - Should Have Been 2.0 - 9/8/2025
+### 1.3.0.4 - Should Have Been 2.0 - 9/10/2025
 <Details>
    <summary>Changes</summary>
 
@@ -22,7 +22,7 @@ Fixed Quaterstaff perk in 2 handed.
 
 </Details>
 
-### 1.3.0.3 - Should Have Been 2.0 - 9/8/2025
+### 1.3.0.3 - Should Have Been 2.0 - 9/10/2025
 <Details>
    <summary>Changes</summary>
 
@@ -35,7 +35,7 @@ Balanced/Fixed Gore Amulet
 
 </Details>
 
-### 1.3.0.2 - Should Have Been 2.0 - 9/8/2025
+### 1.3.0.2 - Should Have Been 2.0 - 9/10/2025
 <Details>
    <summary>Changes</summary>
 
@@ -52,7 +52,7 @@ Fixed Outputs being disabled for performance profile
 
 </Details>
 
-### 1.3.0.1 - Should Have Been 2.0 - 9/8/2025
+### 1.3.0.1 - Should Have Been 2.0 - 9/10/2025
 <Details>
    <summary>Changes</summary>
 
