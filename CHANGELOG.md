@@ -33,7 +33,7 @@ Removed all Inlined Solitude Patches
 
 #### Fixes
 ~~~
-Fixed Camping Plus Plus and Photomode confict (Thanks Missile)
+Fixed Camping Plus Plus and Photo mode conflict (Thanks Missile)
 Redid Navmesh near whiterun inn
 Fixed errors in children of north Ivar NR Patch
 Fixed Navmesh in Granite Hill Addon
