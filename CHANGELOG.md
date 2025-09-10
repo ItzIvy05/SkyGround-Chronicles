@@ -9,6 +9,38 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
+### 1.3.0.5 - Fix them damn crashes - 9/10/2025
+<Details>
+   <summary>Changes</summary>
+
+#### New Additions
+~~~
+Added Skyrim Souls RE - Updated - (Fixed)
+Goam's Elven Ears (With Custom ESP to Fix all Errors)
+~~~
+
+#### Updated
+~~~
+Grand Solitude Patch Collection
+Dragonborn Reskin - TrueHUD
+Vanaheimr - Farmhouses
+~~~
+
+#### Changes
+~~~
+Removed all Inlined Solitude Patches
+~~~
+
+#### Fixes
+~~~
+Fixed Camping Plus Plus and Photomode confict (Thanks Missile)
+Redid Navmesh near whiterun inn
+Fixed errors in children of north Ivar NR Patch
+Fixed Navmesh in Granite Hill Addon
+~~~
+
+</Details>
+
 ### 1.3.0.4 - Should Have Been 2.0 - 9/9/2025
 <Details>
    <summary>Changes</summary>
