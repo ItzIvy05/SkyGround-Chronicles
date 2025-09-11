@@ -101,7 +101,8 @@ Updated Immersive Diseases - Survival Mode Improved Patch
 
 ### 1.3 - Should Have Been 2.0 - 9/8/2025
 <Details>
-   <summary>Changes</summary>   
+   <summary>Changes</summary>  
+    
 #### New Additions
 ~~~
 VioLens - A killmove Mod
@@ -174,6 +175,7 @@ Camping Plus Plus
 Simple Portable Cooking
 Watchman's Whiterun Secondary Locations - Patch Collection
 ~~~
+
 #### Removed
 ~~~
 Dxvk Async ENB Injector 
@@ -197,6 +199,7 @@ Kala's Eyes- Beast Race Edition Khajiit Argonian
 PELTAPALOOZA - Special Edition
 Custom Tree models till i figure ot whats happning
 ~~~
+
 #### Updated
 ~~~
 powerofthree's Tweaks
@@ -254,6 +257,7 @@ Next-Gen Decapitations
 Core Impact Framework (CIF)
 Nature of the Wild Lands - 3D hybrid LODs and regions addon
 ~~~
+
 #### Fixes
 ~~~
 Flagged all Light Bulb as Portal Strict
@@ -263,6 +267,7 @@ Fixed some NR seams
 Removed some tress clipping to stuff
 Fixed broken ImpExtTowershell Mesh
 ~~~
+
 #### Changes
 ~~~
 Full Knapsacks Loot overhaul now its more interesting
