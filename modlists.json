@@ -63,23 +63,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ItzIvy05/worromot/main/Resources/122.jpg",
       "readme": "https://github.com/ItzIvy05/worromot/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Worromot.wabbajack_f2a195ad-bc08-4bf1-9f76-3f6551fd6013",
+      "download": "https://authored-files.wabbajack.org/Worromot.wabbajack_b31175bc-86d5-425b-b307-36a2613f4c19",
       "machineURL": "Worromot",
       "discordURL": "https://discord.gg/wrYsKqx4",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "ffshr1SBGeo=",
-      "Size": 170976445,
+      "Hash": "nooIKwtmZ8Y=",
+      "Size": 171635301,
       "NumberOfArchives": 451,
-      "SizeOfArchives": 54384604715,
-      "NumberOfInstalledFiles": 142114,
-      "SizeOfInstalledFiles": 91782833662,
-      "TotalSize": 146167438377
+      "SizeOfArchives": 52991356182,
+      "NumberOfInstalledFiles": 138878,
+      "SizeOfInstalledFiles": 89482066524,
+      "TotalSize": 142473422706
     },
-    "version": "1.0.1",
+    "version": "1.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-07-15T02:15:56.4984966Z",
+    "dateUpdated": "2025-09-15T15:00:14.0607044Z",
     "repositoryName": ""
   }
 ]
