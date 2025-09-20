@@ -84,12 +84,12 @@
   },
   {
     "title": "Witcher 3 - A Visual Overhaul",
-    "description": "The Witcher 3 with enhanced visuals is a modlist that overhauls lighting, and atmosphere while staying true to the game’s original style.",
+    "description": "The Witcher 3 with enhanced visuals is a modlist that overhauls lighting, and atmosphere while staying true to the game\u2019s original style.",
     "author": "Ivy",
     "maintainers": [
       "github/ItzIvy05"
     ],
-    "game": "Witcher3",
+    "game": "witcher3",
     "official": false,
     "tags": [
       "SFW",
@@ -103,23 +103,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/main/Resources/Witcher3/Witcher3Main.png",
       "readme": "https://github.com/ItzIvy05/W3VO/blob/main/README.md",
-      "download": "",
+      "download": "https://authored-files.wabbajack.org/Witcher 3 Visual Overhaul.wabbajack_3d47b686-210e-49d8-88f5-d5339c0947f0",
       "machineURL": "W3VO",
       "discordURL": "https://discord.gg/FB62v6whbh",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "atriTPgoazM=",
-      "Size": 1288459066,
-      "NumberOfArchives": 2730,
-      "SizeOfArchives": 207182679162,
-      "NumberOfInstalledFiles": 294262,
-      "SizeOfInstalledFiles": 283062187955,
-      "TotalSize": 490244867117
+      "Hash": "I+7KWOPMEX8=",
+      "Size": 53402371,
+      "NumberOfArchives": 84,
+      "SizeOfArchives": 13969517492,
+      "NumberOfInstalledFiles": 3123,
+      "SizeOfInstalledFiles": 14865229249,
+      "TotalSize": 28834746741
     },
     "version": "0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-09-14T23:40:45.2880747Z",
+    "dateUpdated": "2025-09-20T00:56:48.3374112Z",
     "repositoryName": ""
   }
 ]
