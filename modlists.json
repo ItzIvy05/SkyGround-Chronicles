@@ -24,7 +24,7 @@
       "readme": "https://github.com/ItzIvy05/SkyGround-Chronicles/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/SkyGround Chronicles.wabbajack_5ef2031d-b678-46bc-a24c-1ddbd9f77f33",
       "machineURL": "SkyGround",
-      "discordURL": "https://discord.gg/wrYsKqx4",
+      "discordURL": "https://discord.gg/FB62v6whbh",
       "websiteURL": ""
     },
     "download_metadata": {
@@ -65,7 +65,7 @@
       "readme": "https://github.com/ItzIvy05/worromot/blob/main/README.md",
       "download": "https://authored-files.wabbajack.org/Worromot.wabbajack_b31175bc-86d5-425b-b307-36a2613f4c19",
       "machineURL": "Worromot",
-      "discordURL": "https://discord.gg/wrYsKqx4",
+      "discordURL": "https://discord.gg/FB62v6whbh",
       "websiteURL": ""
     },
     "download_metadata": {
@@ -80,6 +80,46 @@
     "version": "1.1",
     "dateCreated": "1970-01-01T00:00:00Z",
     "dateUpdated": "2025-09-15T15:00:14.0607044Z",
+    "repositoryName": ""
+  },
+  {
+    "title": "Witcher 3 - A Visual Overhaul",
+    "description": "The Witcher 3 with enhanced visuals is a modlist that overhauls lighting, and atmosphere while staying true to the game’s original style.",
+    "author": "Ivy",
+    "maintainers": [
+      "github/ItzIvy05"
+    ],
+    "game": "Witcher3",
+    "official": false,
+    "tags": [
+      "SFW",
+      "Steam"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "https://raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/main/Resources/Witcher3/Witcher3Main.png",
+      "readme": "https://github.com/ItzIvy05/W3VO/blob/main/README.md",
+      "download": "",
+      "machineURL": "W3VO",
+      "discordURL": "https://discord.gg/FB62v6whbh",
+      "websiteURL": ""
+    },
+    "download_metadata": {
+      "Hash": "atriTPgoazM=",
+      "Size": 1288459066,
+      "NumberOfArchives": 2730,
+      "SizeOfArchives": 207182679162,
+      "NumberOfInstalledFiles": 294262,
+      "SizeOfInstalledFiles": 283062187955,
+      "TotalSize": 490244867117
+    },
+    "version": "0.1",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-09-14T23:40:45.2880747Z",
     "repositoryName": ""
   }
 ]
