@@ -103,23 +103,23 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/main/Resources/Witcher3/Witcher3Main.png",
       "readme": "https://github.com/ItzIvy05/W3VO/blob/main/README.md",
-      "download": "https://authored-files.wabbajack.org/Witcher 3 Visual Overhaul.wabbajack_aafc6050-71ac-4bfa-a968-a974cee0f778",
+      "download": "https://authored-files.wabbajack.org/Witcher 3 Visual Overhaul.wabbajack_0160f642-df8a-4d33-be0f-f1ca14c469e2",
       "machineURL": "W3VO",
       "discordURL": "https://discord.gg/FB62v6whbh",
       "websiteURL": ""
     },
     "download_metadata": {
-      "Hash": "jEG5wdItDpI=",
-      "Size": 53417886,
-      "NumberOfArchives": 89,
-      "SizeOfArchives": 14002175629,
-      "NumberOfInstalledFiles": 3153,
-      "SizeOfInstalledFiles": 14993626210,
-      "TotalSize": 28995801839
+      "Hash": "hun3364WUq0=",
+      "Size": 53463854,
+      "NumberOfArchives": 104,
+      "SizeOfArchives": 19384165112,
+      "NumberOfInstalledFiles": 3231,
+      "SizeOfInstalledFiles": 20418149174,
+      "TotalSize": 39802314286
     },
-    "version": "0.2",
+    "version": "0.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2025-09-20T05:38:14.862795Z",
+    "dateUpdated": "2025-09-22T20:25:16.2614675Z",
     "repositoryName": ""
   }
 ]
