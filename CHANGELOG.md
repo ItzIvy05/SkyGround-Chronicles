@@ -9,6 +9,115 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
+### 1.4 - House Keeping - x/x/2025
+<Details>
+   <summary>Changes</summary>  
+    
+#### New Additions
+~~~
+Wine Duchess (3BA SMP)
+Simply Knock SE - Simply Knock - Don't Just Walk Away From Me - Simply Knock SKSE64 DLL
+Riton Windhelm
+DD - Void Warblade by Vergi (New Hidden Sword)
+LIM - Windhelm Fixes
+Spaghetti's Cities - Windhelm
+High Poly NPC Overhaul - JK's Skyrim
+JK's Skyrim (Windhelm Only)
+Voiced Narrative - Ghosts of the Tribunal (Creation Club)
+Taunt Your Enemies - Taunting Matters
+Remote Interactions
+Babbling Brooks - A Water Audio Overhaul
+~~~
+
+#### Removed
+~~~
+Skyrim Extended Cut - Saints and Seducers
+   Skyrim Extended Cut Saints and Seducers - Quest Patch
+   Extended Cut - Saints and Seducers Paper Map for FWMF
+   Requiem - Extended Cut Saints and Seducers (ECSS)
+   Witchy Wilderness Saints and Seducers patch
+   Gore - Saints and Seducers Extended Cut
+   Trad - Saints and Seducers Extended Cut Patch
+
+Wyrmstooth - Core Mod
+   Dragonborn Compatibility Patch
+   2x Generative Upscaled Textures
+   Rare Curios Ingredients
+   Suleyk Retexture SE
+   Requiem - Wyrmstooth (Updated)
+   Wyrmstooth CBBE 3BA and (or) HIMBO Patch
+   Wyrmstooth Paper Map for FWMF by Limon
+   Wyrmstooth - Settings Loader
+   Modpocalypse NPCs - Wyrmstooth
+   Wyrmstooth Animated - ENB Light - Community Shader Light Limit Fix Light
+   Nature of the Wild Lands 3.X - Wyrmstooth Compatibility Patch
+   Xelzaz - Custom Fully Voiced Argonian Telvanni Follower - Xelzaz Anniversary Edition Update
+   Missives - Solstheim Patch
+
+Shouts of Stallholders
+Sprint Swim Redux SKSE
+HFs - Whiterun Temple bench - remodel
+FYX - 3D Whiterun Castle Bridge
+Skyrim Souls RE - Updated
+Skyrim Souls RE - Updated - (Fixed)
+Death Drop Overhaul
+SkyUI - Survival Mode
+Edge UI - Modern Skyrim Interface
+Wielding Sun Stuff Hurts Vamps - Werewolf Silver Patch (Made my own)
+Drift Material Fixes (No Longer needed)
+Dirt Cliffs Enhancement - High Quality Ivy
+Vanaheimr Landscapes - Lux Patch (No Longer needed)
+Myrwatch - Editable Home Cells (Cell Bug Workaround) (No Longer needed)
+Myrwatch - House Fix - USCCCP Patch (No Longer needed)
+Myrwatch - TnE - MyrwatchVaultFix - USCCCP Patch (No Longer needed)
+Trad_AE_Myrwatch_Requiem_Patch (No Longer needed)
+Sunder and Wraithguard - Editable Vault Cell (Cell Bug Workaround) (No Longer needed)
+Sunder and Wraithguard - Editable Vault Cell (Cell Bug Workaround) - USCCCP Patch (No Longer needed)
+Sunder and Wraithguard - Vault Fix (No Longer needed)
+CC Bittercup - Tweaks and Enhancements - TnE Patch (No Longer needed)
+~~~
+
+#### Updated
+~~~
+Easy Console Commands
+RedBag's Falkreath - Granite Hill Addon FOMOD
+PhotoMode
+Simple Hunting Overhaul
+Better Third Person Selection - BTPS
+Easy Console Commands
+SkyParkour v3 - Procedural Parkour Framework (SPPF)
+Object Categorization Framework - Some KID Patches - I4 - OCF
+Skyrim Cut Content Restoration - Patch Collection
+RedBag's Falkreath - Granite Hill Addon
+NAT.CS III
+DynDOLOD 3 Alpha
+Riverwood Trader Is A Mess
+DALC Fix Preset
+Snazzy Location Resources
+Snazzy Misc Locations AIO
+Detection Meter AE Support
+Icy Mesh Remaster
+Bathing in Skyrim - Renewed
+Voiced Narrative - Fishing
+CC Myrwatch - Tweaks and Enhancements
+CC Bittercup - Tweaks and Enhancements
+Elemental Mastery Magic
+Core Impact Framework (CIF)
+Sonders Keyword Distribution Resources
+CC Hendraheim - Tweaks and Enhancements
+~~~
+
+#### Fixes
+~~~
+
+~~~
+
+#### Changes
+~~~
+Removed Wraiths Added in Myrwatch Main Cell (Myrwatch is already hard to obtain plus they make a mess of the place)
+~~~
+</Details>
+
 ### 1.3.0.5 - Fix them damn crashes - 9/10/2025
 <Details>
    <summary>Changes</summary>
