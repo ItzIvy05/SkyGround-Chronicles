@@ -27,6 +27,7 @@ Voiced Narrative - Ghosts of the Tribunal (Creation Club)
 Taunt Your Enemies - Taunting Matters
 Remote Interactions
 Babbling Brooks - A Water Audio Overhaul
+Expanded Towns and Cities - Complete
 ~~~
 
 #### Removed
@@ -63,6 +64,7 @@ Skyrim Souls RE - Updated - (Fixed)
 Death Drop Overhaul
 SkyUI - Survival Mode
 Edge UI - Modern Skyrim Interface
+Woodsheds of Skyrim (Too lazy to make patches)
 Wielding Sun Stuff Hurts Vamps - Werewolf Silver Patch (Made my own)
 Drift Material Fixes (No Longer needed)
 Dirt Cliffs Enhancement - High Quality Ivy
@@ -75,6 +77,9 @@ Sunder and Wraithguard - Editable Vault Cell (Cell Bug Workaround) (No Longer ne
 Sunder and Wraithguard - Editable Vault Cell (Cell Bug Workaround) - USCCCP Patch (No Longer needed)
 Sunder and Wraithguard - Vault Fix (No Longer needed)
 CC Bittercup - Tweaks and Enhancements - TnE Patch (No Longer needed)
+Expanded Towns and Cities - Rorikstead (No Longer needed - is part of complete)
+Expanded Towns and Cities - Darkwater Crossing (No Longer needed - is part of complete)
+The Great Town of Karthwasten SSE (Not compatible with ETAC and has nav mesh errors)
 ~~~
 
 #### Updated
@@ -109,7 +114,7 @@ CC Hendraheim - Tweaks and Enhancements
 
 #### Fixes
 ~~~
-
+Fixed Savior's Hide rating.
 ~~~
 
 #### Changes
