@@ -27,7 +27,14 @@ Voiced Narrative - Ghosts of the Tribunal (Creation Club)
 Taunt Your Enemies - Taunting Matters
 Remote Interactions
 Babbling Brooks - A Water Audio Overhaul
-Expanded Towns and Cities - Complete
+Horse Whistle Key
+Inns Can Be Closed
+Snazzy Towns and Settlements
+First Person Animations - For Some Mods
+The Great Village of Kynesgrove
+The Great Village of Kynesgrove Patch Collection
+Rob's Bug Fixes - TGC Kynesgrove
+Custom COTN Optimized Meshes
 ~~~
 
 #### Removed
@@ -55,6 +62,14 @@ Wyrmstooth - Core Mod
    Xelzaz - Custom Fully Voiced Argonian Telvanni Follower - Xelzaz Anniversary Edition Update
    Missives - Solstheim Patch
 
+Thunderchild - Epic Shouts and Immersion (Veryyyyyy script heavy and annyoying)
+   Thunderchild Sky UI Compatibility Patch
+   Requiem Ethereal Ignores Traps (Thunderchild)
+   All the patches.
+
+Requiem Lockbashing Damages Loot
+Requiem - Lock Bash Threshold Meter
+Requiem - Lock Bash Threshold Meter - Untarnished
 Shouts of Stallholders
 Sprint Swim Redux SKSE
 HFs - Whiterun Temple bench - remodel
@@ -77,13 +92,15 @@ Sunder and Wraithguard - Editable Vault Cell (Cell Bug Workaround) (No Longer ne
 Sunder and Wraithguard - Editable Vault Cell (Cell Bug Workaround) - USCCCP Patch (No Longer needed)
 Sunder and Wraithguard - Vault Fix (No Longer needed)
 CC Bittercup - Tweaks and Enhancements - TnE Patch (No Longer needed)
-Expanded Towns and Cities - Rorikstead (No Longer needed - is part of complete)
-Expanded Towns and Cities - Darkwater Crossing (No Longer needed - is part of complete)
+Expanded Towns and Cities - Rorikstead (Part of ETAC Complete)
+Expanded Towns and Cities - Darkwater Crossing (Part of ETAC Complete)
 The Great Town of Karthwasten SSE (Not compatible with ETAC and has nav mesh errors)
+CC Arcane Accessories - Tweaks and Enhancements (i didnt like the changes that were done to some of the speel, it almost made few of them useless)
 ~~~
 
 #### Updated
 ~~~
+Vanaheimr Landscapes - AIO
 Easy Console Commands
 RedBag's Falkreath - Granite Hill Addon FOMOD
 PhotoMode
@@ -110,16 +127,29 @@ Elemental Mastery Magic
 Core Impact Framework (CIF)
 Sonders Keyword Distribution Resources
 CC Hendraheim - Tweaks and Enhancements
+Growl - Werebeasts of Skyrim
+Helmet Toggle 2
+SSE Engine Fixes (SKSE Plugin)
+Ivy Riverwood Overhaul
+Docks of Riverwood
+Legacy of the Dragonborn Patches (Official)
+H.O.A. - Hyperspecific Occlusion Addon
+Enhanced Rocks and Mountains - Complex Material and PBR
+Flat World Map Framework
 ~~~
 
 #### Fixes
 ~~~
 Fixed Savior's Hide rating.
+Skyfall's Fort Dawnguard Roofs - JK and ClefJ Combo patch
 ~~~
 
 #### Changes
 ~~~
-Removed Wraiths Added in Myrwatch Main Cell (Myrwatch is already hard to obtain plus they make a mess of the place)
+Removed the Wraiths added to the Myrwatch main cell (Myrwatch is already difficult to obtain, and the Wraiths make a mess in the cell).
+Reverted unnecessary changes in the Werewolf Requiem Patch:
+   Transformation timer restored to 90 seconds (down from 24 In-game hours).
+   Attack distance increased from 0.35 to 0.75.
 ~~~
 </Details>
 
