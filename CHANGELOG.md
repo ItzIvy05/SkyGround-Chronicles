@@ -95,7 +95,7 @@ CC Bittercup - Tweaks and Enhancements - TnE Patch (No Longer needed)
 Expanded Towns and Cities - Rorikstead (Part of ETAC Complete)
 Expanded Towns and Cities - Darkwater Crossing (Part of ETAC Complete)
 The Great Town of Karthwasten SSE (Not compatible with ETAC and has nav mesh errors)
-CC Arcane Accessories - Tweaks and Enhancements (i didnt like the changes that were done to some of the speel, it almost made few of them useless)
+CC Arcane Accessories - Tweaks and Enhancements (Didn't like the changes done to some of the spell, Almost made them useless)
 ~~~
 
 #### Updated
