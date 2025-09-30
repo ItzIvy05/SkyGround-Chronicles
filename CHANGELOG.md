@@ -1,3 +1,8 @@
+<html>
+<head>
+</head>
+
+<body>
 #### SkyGround-Chronicles
 
 ![](https://github.com/ItzIvy05/SkyGround-Chronicles/blob/main/Resources/5.png)
@@ -15,7 +20,6 @@
     
 #### New Additions
 ~~~
-#### New Additions
 Wine Duchess (3BA SMP)
 Simply Knock SE - Simply Knock - Don't Just Walk Away From Me - Simply Knock SKSE64 DLL
 Riton Windhelm
@@ -422,3 +426,6 @@ Fully Manually patched high poly head (removed synthesis patch)
 Fully Patched Map with LUX - Encounterzone - Water for ENB and Skyrim Bandit Expansion
 ~~~
 </Details>
+
+</body>
+</html>
