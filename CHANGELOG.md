@@ -3,8 +3,7 @@
 </head>
 
 <body>
-#### SkyGround-Chronicles
-
+<img src="https://github.com/ItzIvy05/SkyGround-Chronicles/blob/main/Resources/5.png">
 ![](https://github.com/ItzIvy05/SkyGround-Chronicles/blob/main/Resources/5.png)
 
 <p align="center">
