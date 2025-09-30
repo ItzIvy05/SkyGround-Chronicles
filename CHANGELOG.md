@@ -1,10 +1,16 @@
-<html>
+<!DOCTYPE html>
+<html lang="en">
 <head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="preconnect" href="https://fonts.googleapis.com">
+  <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+  <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
+  <link rel="stylesheet" href="style/main.css">
+  <title>Ivy's Workshop</title>
 </head>
-
 <body>
-<a href="https://www.nexusmods.com/skyrimspecialedition/mods/147012" target="_blank"><img src="https://github.com/ItzIvy05/SkyGround-Chronicles/blob/main/Resources/5.png"></a>
-
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/147012"><img src="https://github.com/ItzIvy05/SkyGround-Chronicles/blob/main/Resources/5.png"></a>
 
 <p align="center">
   <a href="https://github.com/ItzIvy05/SkyGround-Chronicles/blob/main/CHANGELOG.md">Changelogs</a> |
