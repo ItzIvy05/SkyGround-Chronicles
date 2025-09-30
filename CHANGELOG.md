@@ -3,8 +3,8 @@
 </head>
 
 <body>
-<img src="https://github.com/ItzIvy05/SkyGround-Chronicles/blob/main/Resources/5.png">
-![](https://github.com/ItzIvy05/SkyGround-Chronicles/blob/main/Resources/5.png)
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/147012"><img src="https://github.com/ItzIvy05/SkyGround-Chronicles/blob/main/Resources/5.png"></a>
+
 
 <p align="center">
   <a href="https://github.com/ItzIvy05/SkyGround-Chronicles/blob/main/CHANGELOG.md">Changelogs</a> |
