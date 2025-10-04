@@ -72,7 +72,7 @@ Wyrmstooth - Core Mod
    Xelzaz - Custom Fully Voiced Argonian Telvanni Follower - Xelzaz Anniversary Edition Update
    Missives - Solstheim Patch
 
-Thunderchild - Epic Shouts and Immersion (Veryyyyyy script heavy and annyoying)
+Thunderchild - Epic Shouts and Immersion (Veryyyyyy script heavy and annoying)
    Thunderchild Sky UI Compatibility Patch
    Requiem Ethereal Ignores Traps (Thunderchild)
    All the patches.
@@ -90,10 +90,17 @@ ENB (Moved to CS)
    NAT.CS III
    NAT ENB Bizarre Shadow Fix
    ENB Light
+   Amon - SK textures All in One
+   ENB Input Disabler
+   KiLoader for Skyrim
+   ENB Anti-Aliasing - AMD FSR 3.1 - NVIDIA DLAA
+   ENB Worldspace Weatherlists
+   ENB Terrain Blending Fix
+   Silent Horizons 2 - Shader Core
 
+Nightgate Inn Revived (Just tooo broken)
 Security Overhaul SKSE - Lock Variations and its addon (Replaced by Skyblivion Lockpick Menu)
 World Encounter Hostility Fix (Replaced with better solution from The Pigeon's Nest)
-Yes Im Sure NG (Sorry but this is one buggy mod and it conflicts with UAPNG)
 Andrealphus' Papyrus Functions
 Attack Animation Fling Fix NG
 Requiem Lockbashing Damages Loot
