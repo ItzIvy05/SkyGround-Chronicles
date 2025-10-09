@@ -24,6 +24,7 @@
     
 #### New Additions
 ~~~
+Oathvein UI
 Wine Duchess (3BA SMP)
 Simply Knock SE - Simply Knock - Don't Just Walk Away From Me - Simply Knock SKSE64 DLL
 Riton Windhelm
@@ -57,6 +58,34 @@ Skyrim Extended Cut - Saints and Seducers
    Gore - Saints and Seducers Extended Cut
    Trad - Saints and Seducers Extended Cut Patch
 
+Sound mods (Replaced by Phoenix Compendium)
+   Cursed -Sinding Voice Rework-
+   Unfaithed -Miraak's Voice Rework-
+   The Prophecy -Lord Harkon Voice Rework-
+   The Last Vigil -Ebony Warrior Voice Rework-
+   Shor's Gate -Tsun Voice Rework- (Enigma Series C2)
+   Daedric Enigma - Dusk -
+   Phantasmagoria -Ghosts SFX Voice Rework- Update
+   Phantasmagoria -Ghosts SFX Voice Rework-
+   Elementi - Flame Atronach VSFX Rework -
+   Penumbra -Vampire Lord Sounds Rework-
+   Castigate - Next gen Magic SFX -
+   The Enigma Series Dawn
+   Wyrm - Dragons Sounds Rework -
+   Crone - Hagraven SFX Replacer
+   Oread - Spriggan Sounds SFX Rework -
+   Colossus -Giants SFX Voice Rework
+   Enigma Series - Book Of The Wild - RE
+   Dwemer Imperium - Machina -
+   Dwemer Imperium - Machina -
+   Animunculi - Dwarven Spider, Sphere and Centurion SFX Redesigned -
+   Ash Ghoul - Ash Spawn Sound Rework -
+   Barghest -Death Hound Sounds Rework-
+   Dormant -Gargoyle Sounds Rework-
+   Insectoid - Chaurus Sounds Rework -
+   Nordic Shouts -Enigma Series- SSE
+   Creaky Old locks
+
 Wyrmstooth - Core Mod
    Dragonborn Compatibility Patch
    2x Generative Upscaled Textures
@@ -77,29 +106,7 @@ Thunderchild - Epic Shouts and Immersion (Veryyyyyy script heavy and annoying)
    Requiem Ethereal Ignores Traps (Thunderchild)
    All the patches.
 
-ENB (Moved to CS)
-   Sky Reflection Fix for ENB
-   ENB Light Detection Fix
-   Particle Patch for ENB
-   Less Distracting Blowing Snow Effects for ENB Particle Patch
-   Enhanced Volumetric Lighting and Shadows (EVLaS)
-   Splashes Of Storms
-   Rudy fix for Splashes of Storms and ENB
-   NAT.ENB III - Natural and Atmospheric Tamriel ENB 3.1.1C
-   Happier NAT III Weathers
-   NAT.CS III
-   NAT ENB Bizarre Shadow Fix
-   ENB Light
-   Amon - SK textures All in One
-   ENB Input Disabler
-   KiLoader for Skyrim
-   ENB Anti-Aliasing - AMD FSR 3.1 - NVIDIA DLAA
-   ENB Worldspace Weatherlists
-   ENB Terrain Blending Fix
-   Silent Horizons 2 - Shader Core
-
 Nightgate Inn Revived (Just tooo broken)
-Security Overhaul SKSE - Lock Variations and its addon (Replaced by Skyblivion Lockpick Menu)
 World Encounter Hostility Fix (Replaced with better solution from The Pigeon's Nest)
 Andrealphus' Papyrus Functions
 Attack Animation Fling Fix NG
@@ -136,10 +143,13 @@ Animated Ice Floes (Cause CTD with GKB Waves Reborn)
 OIL by Ramccoid (No longer needed)
 CC Bone Colossus Skeleton Fix (No longer needed)
 Floating Ash Pile Fix (No longer needed)
+RogueUnicorn - City Trees - Whiterun (Made my own.. i was tired of all the navmesh issues)
 ~~~
 
 #### Updated
 ~~~
+ConsolePlusPlus
+Crash Logger SSE AE VR - PDB support
 Vanaheimr Landscapes - AIO
 Easy Console Commands
 RedBag's Falkreath - Granite Hill Addon FOMOD
@@ -182,7 +192,7 @@ Widescreen Scale Removed
 Sigils of Skill - Custom Skills Menu icons
 Simplicity of Seeding
 NPC Stuck in Bleedout fix
-
+Improved Barstool Exit Animation
 ~~~
 
 #### Fixes
@@ -192,6 +202,7 @@ Skyfall's Fort Dawnguard Roofs - JK and ClefJ Combo patch
 Should fix sometime Sorine or Gunmar not appearing in quest A New Order
 Fixed LOD of soo many mods
 Custom optimized meshes for aloot mods.
+Fixed "WhiterunExterior01" broken nav links and improved navmesh
 ~~~
 
 #### Changes
