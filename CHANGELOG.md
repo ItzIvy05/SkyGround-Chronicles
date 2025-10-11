@@ -24,7 +24,9 @@
     
 #### New Additions
 ~~~
+Simply Snowy Windhelm
 Oathvein UI
+Oathvein UI - Racemenu DIP
 Wine Duchess (3BA SMP)
 Simply Knock SE - Simply Knock - Don't Just Walk Away From Me - Simply Knock SKSE64 DLL
 Riton Windhelm
@@ -46,6 +48,14 @@ The Great Village of Kynesgrove Patch Collection
 Rob's Bug Fixes - TGC Kynesgrove
 Custom COTN Optimized Meshes
 slightly Better Oil
+Turquaz Floor - Whiterun Mosaic
+Skyland - Ships and Shacks
+JK's EEK's Bannered Mare - Better Occlusion Planes
+MLO (Full Suite)
+RS Children Overhaul
+RS Children - Children of the North
+BnP - Child Skin
+PI-CHO ENB
 ~~~
 
 #### Removed
@@ -106,6 +116,8 @@ Thunderchild - Epic Shouts and Immersion (Veryyyyyy script heavy and annoying)
    Requiem Ethereal Ignores Traps (Thunderchild)
    All the patches.
 
+Icy Windhelm (Replaced by Simply Snowy Windhelm)
+ElSopa - Potions Redone (Fully replaced by Skyking Potent Potables)
 Nightgate Inn Revived (Just tooo broken)
 World Encounter Hostility Fix (Replaced with better solution from The Pigeon's Nest)
 Andrealphus' Papyrus Functions
@@ -144,10 +156,14 @@ OIL by Ramccoid (No longer needed)
 CC Bone Colossus Skeleton Fix (No longer needed)
 Floating Ash Pile Fix (No longer needed)
 RogueUnicorn - City Trees - Whiterun (Made my own.. i was tired of all the navmesh issues)
+Green Thumb - Lush Cities of Skyrim
+Art's Solitude Streets (Replaced with MRF)
 ~~~
 
 #### Updated
 ~~~
+Follower Stats
+LoreBox - Item and Spell Tooltips
 ConsolePlusPlus
 Crash Logger SSE AE VR - PDB support
 Vanaheimr Landscapes - AIO
@@ -193,16 +209,18 @@ Sigils of Skill - Custom Skills Menu icons
 Simplicity of Seeding
 NPC Stuck in Bleedout fix
 Improved Barstool Exit Animation
+RB's Sand Snake Armor and Weapon CBBE 3BA BHUNP
+Snazzy Interiors Patch Collection
 ~~~
 
 #### Fixes
 ~~~
+Overhauled Navmesh for cell "Whitern, WhiterunExterior01,WhiterunExterior04,WhiterunExterior05,WhiterunExterior06,WhiterunExterior14,WhiterunExterior12 and wWhiterunExterior10" and Whole whiterun world Navmesh. Also removed all nav cuts added by Lux Via and Northern roads in those cells.
 Fixed Savior's Hide rating.
 Skyfall's Fort Dawnguard Roofs - JK and ClefJ Combo patch
 Should fix sometime Sorine or Gunmar not appearing in quest A New Order
 Fixed LOD of soo many mods
 Custom optimized meshes for aloot mods.
-Fixed "WhiterunExterior01" broken nav links and improved navmesh
 ~~~
 
 #### Changes
