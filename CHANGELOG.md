@@ -235,7 +235,18 @@ Snazzy Items for Auri (Song of the Green) (was causing crashes and i didnt had e
 
 #### Fixes
 ~~~
-Overhauled Navmesh for cell "Whitern, WhiterunExterior01,WhiterunExterior04,WhiterunExterior05,WhiterunExterior06,WhiterunExterior14,WhiterunExterior12 and wWhiterunExterior10" and Whole whiterun world Navmesh. Also removed all nav cuts added by Lux Via and Northern roads in those cells.
+Overhauled Exterior Whiterun Navmesh
+   Whitern
+   WhiterunExterior01
+   WhiterunExterior04
+   WhiterunExterior05
+   WhiterunExterior06
+   WhiterunExterior14
+   WhiterunExterior12
+   WhiterunExterior10
+
+Also Overhauled Whiterun world Navmesh.
+Removed all nav cuts added by Lux Via and Northern roads in those cells.
 Fixed Savior's Hide rating.
 Skyfall's Fort Dawnguard Roofs - JK and ClefJ Combo patch
 Should fix sometime Sorine or Gunmar not appearing in quest A New Order
