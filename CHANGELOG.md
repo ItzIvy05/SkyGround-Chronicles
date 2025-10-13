@@ -56,6 +56,18 @@ RS Children Overhaul
 RS Children - Children of the North
 BnP - Child Skin
 PI-CHO ENB
+cookeh's conditional and random animations
+ELLE - Fawnia (Only for AURI)
+Redwater Brewery - An Overhaul
+Unique Armors and Weapons Retexture SE
+Sassy Salt and Wind Hair Retexture - Vanilla and KS Hairdos
+Voiced Narrative - Saints and Seducers (Creation Club)
+The Walls of Dragon's Bridge - Location Overhaul (Castle-Fortress-City-Town)
+Simplicity of Settlements - Dragon Bridge - Base Object Swapper
+Simplicity of Settlements - Imperial Dragon Bridge
+Solitude Docks Updated
+JK's Solitude Outskirts 
+JK's Solitude Outskirts Patch Collection
 ~~~
 
 #### Removed
@@ -158,6 +170,11 @@ Floating Ash Pile Fix (No longer needed)
 RogueUnicorn - City Trees - Whiterun (Made my own.. i was tired of all the navmesh issues)
 Green Thumb - Lush Cities of Skyrim
 Art's Solitude Streets (Replaced with MRF)
+Rodryk's Dragon Bridge
+Rodryk's Dragon Bridge - Patch Collection
+Rodryk's Dragon Bridge Meshes Partitioned for Lighting Mods
+Rodryk's DB Mesh and Collision Optimization
+Spaghetti's Towns - Dragon Bridge
 ~~~
 
 #### Updated
@@ -211,12 +228,14 @@ NPC Stuck in Bleedout fix
 Improved Barstool Exit Animation
 RB's Sand Snake Armor and Weapon CBBE 3BA BHUNP
 Snazzy Interiors Patch Collection
+Rotols More Icons
+Missives - Quest Edits for Unique Missive Board Mods
+Snazzy Items for Auri (Song of the Green) (was causing crashes and i didnt had energy to fix it)
 ~~~
 
 #### Fixes
 ~~~
-Overhauled Navmesh for cell "Whitern, WhiterunExterior01,WhiterunExterior04,WhiterunExterior05,WhiterunExterior06, WhiterunExterior14,WhiterunExterior12 
-and wWhiterunExterior10" and Whole whiterun world Navmesh. Also removed all nav cuts added by Lux Via and Northern roads in those cells.
+Overhauled Navmesh for cell "Whitern, WhiterunExterior01,WhiterunExterior04,WhiterunExterior05,WhiterunExterior06,WhiterunExterior14,WhiterunExterior12 and wWhiterunExterior10" and Whole whiterun world Navmesh. Also removed all nav cuts added by Lux Via and Northern roads in those cells.
 Fixed Savior's Hide rating.
 Skyfall's Fort Dawnguard Roofs - JK and ClefJ Combo patch
 Should fix sometime Sorine or Gunmar not appearing in quest A New Order
