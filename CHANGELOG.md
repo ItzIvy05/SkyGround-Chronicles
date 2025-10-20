@@ -68,6 +68,7 @@ Simplicity of Settlements - Imperial Dragon Bridge
 Solitude Docks Updated
 JK's Solitude Outskirts 
 JK's Solitude Outskirts Patch Collection
+Skyking Hanging Moss
 ~~~
 
 #### Removed
@@ -128,6 +129,8 @@ Thunderchild - Epic Shouts and Immersion (Veryyyyyy script heavy and annoying)
    Requiem Ethereal Ignores Traps (Thunderchild)
    All the patches.
 
+Skurkbro's Retexture Project AIO
+High Quality Ivy Replacer for Falkreath
 Icy Windhelm (Replaced by Simply Snowy Windhelm)
 ElSopa - Potions Redone (Fully replaced by Skyking Potent Potables)
 Nightgate Inn Revived (Just tooo broken)
@@ -175,10 +178,19 @@ Rodryk's Dragon Bridge - Patch Collection
 Rodryk's Dragon Bridge Meshes Partitioned for Lighting Mods
 Rodryk's DB Mesh and Collision Optimization
 Spaghetti's Towns - Dragon Bridge
+Rally's Hanging Moss
+Riften Extension - Southwoods District
+Modpocalypse NPCs - Riften Extension Southwoods District
+ElSopa - Northern Roads Resculpted (Does not look good and cause issues)
+Northern Roads Resculpted Reach Bridge Fix (F with placement)
+Northern Roads - Collision Box Fix in Whiterun
+Windhelm Walkway (Made my own mod)
+The Citadel of Snow - The Windhelm Bridge Reforged (I cant deal with meshes in this mod)
 ~~~
 
 #### Updated
 ~~~
+Ryn's Standing Stones
 Follower Stats
 LoreBox - Item and Spell Tooltips
 ConsolePlusPlus
@@ -231,6 +243,8 @@ Snazzy Interiors Patch Collection
 Rotols More Icons
 Missives - Quest Edits for Unique Missive Board Mods
 Snazzy Items for Auri (Song of the Green) (was causing crashes and i didnt had energy to fix it)
+Gore
+For Honor in Skyrim
 ~~~
 
 #### Fixes
@@ -238,6 +252,8 @@ Snazzy Items for Auri (Song of the Green) (was causing crashes and i didnt had e
 Overhauled Exterior Whiterun Navmesh
    Whitern
    WhiterunExterior01
+   WhiterunExterior02
+   WhiterunExterior03
    WhiterunExterior04
    WhiterunExterior05
    WhiterunExterior06
