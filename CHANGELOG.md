@@ -69,6 +69,11 @@ Solitude Docks Updated
 JK's Solitude Outskirts 
 JK's Solitude Outskirts Patch Collection
 Skyking Hanging Moss
+Nightingale Hall Scene Fixes
+JK's Riften
+JK's Riften Outskirts Patch Collection
+Retextured Road Signs - English (for SCCR signs)
+All my Meshes Optimization Project
 ~~~
 
 #### Removed
@@ -129,6 +134,19 @@ Thunderchild - Epic Shouts and Immersion (Veryyyyyy script heavy and annoying)
    Requiem Ethereal Ignores Traps (Thunderchild)
    All the patches.
 
+Attack MCO-DXP (moved back to BFCO with custom fixes and perks)
+ADXP MCO 1.6.0.6 Bug Fixes
+One Click Power Attack NG (Thank god F this mod)
+ADXP MCO Attack Data Transition Fix (ADTF)
+MCO - First Person Patch
+Cancel Attack (BFCO has it own thing and its better)
+Hot Key Skill
+Bow Rapid Combo V3 - Archer Combat Overhaul
+Bow Rapid Combo V3 - Micro Script Optimization
+Bow Charge Plus
+Bow Charge Plus - Pandora Patch and fixes
+Bow Charge Plus and Bow Rapid Combo V3 Dodge Shot Animation Patch
+Word Wall Trigger Fix - No Minor Optimization
 Skurkbro's Retexture Project AIO
 High Quality Ivy Replacer for Falkreath
 Icy Windhelm (Replaced by Simply Snowy Windhelm)
@@ -186,12 +204,26 @@ Northern Roads Resculpted Reach Bridge Fix (F with placement)
 Northern Roads - Collision Box Fix in Whiterun
 Windhelm Walkway (Made my own mod)
 The Citadel of Snow - The Windhelm Bridge Reforged (I cant deal with meshes in this mod)
+Follower Stats (for now let the mod cook)
+ADXP l MCO Desert Race Animation Complete Pack
 ~~~
 
 #### Updated
 ~~~
+The Pigeon's Nest
+CritterSpawn Congestion Fix - Script Call Reduction
+Ill Met by Moonlight - Dialogue Expansion
+Shrubbery Symphony - Enhanced Greenery
+Papyrus Tweaks NG
+Heavy Armory - New Weapons
+Capital Whiterun Expansion Lite (Causes issue with OCC planes so made my own)
+Icy Cave Remaster
+Serana Dialogue Expansion
+True Directional Movement - Diagonal Sprinting Fix
+Bleak Falls Barrow Overhaul
+Water for ENB
+Undeniable's Requiem Patches
 Ryn's Standing Stones
-Follower Stats
 LoreBox - Item and Spell Tooltips
 ConsolePlusPlus
 Crash Logger SSE AE VR - PDB support
@@ -201,7 +233,6 @@ RedBag's Falkreath - Granite Hill Addon FOMOD
 PhotoMode
 Simple Hunting Overhaul
 Better Third Person Selection - BTPS
-Easy Console Commands
 SkyParkour v3 - Procedural Parkour Framework (SPPF)
 Object Categorization Framework - Some KID Patches - I4 - OCF
 Skyrim Cut Content Restoration - Patch Collection
