@@ -134,6 +134,7 @@ Thunderchild - Epic Shouts and Immersion (Veryyyyyy script heavy and annoying)
    Requiem Ethereal Ignores Traps (Thunderchild)
    All the patches.
 
+Stendarr Rising - The Hall of the Vigilant Rebuild (I don’t see any value in this mod — it conflicts with several others and runs a script that never clears.)
 Attack MCO-DXP (moved back to BFCO with custom fixes and perks)
 ADXP MCO 1.6.0.6 Bug Fixes
 One Click Power Attack NG (Thank god F this mod)
@@ -183,7 +184,6 @@ CC Bittercup - Tweaks and Enhancements - TnE Patch (No Longer needed)
 Expanded Towns and Cities - Rorikstead (Part of ETAC Complete)
 Expanded Towns and Cities - Darkwater Crossing (Part of ETAC Complete)
 The Great Town of Karthwasten SSE (Not compatible with ETAC and has nav mesh errors)
-CC Arcane Accessories - Tweaks and Enhancements (i didnt like the changes that were done to some of the speel, it almost made few of them useless)
 Animated Ice Floes (Cause CTD with GKB Waves Reborn)
 OIL by Ramccoid (No longer needed)
 CC Bone Colossus Skeleton Fix (No longer needed)
@@ -210,6 +210,9 @@ ADXP l MCO Desert Race Animation Complete Pack
 
 #### Updated
 ~~~
+Requiem - Magic Redone
+Cities of the North - Falkreath Patch Collection
+The Great City of Winterhold Patch Collection
 The Pigeon's Nest
 CritterSpawn Congestion Fix - Script Call Reduction
 Ill Met by Moonlight - Dialogue Expansion
@@ -276,6 +279,7 @@ Missives - Quest Edits for Unique Missive Board Mods
 Snazzy Items for Auri (Song of the Green) (was causing crashes and i didnt had energy to fix it)
 Gore
 For Honor in Skyrim
+COTN Dawnstar Patch Collection
 ~~~
 
 #### Fixes
