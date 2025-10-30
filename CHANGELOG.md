@@ -134,6 +134,7 @@ Thunderchild - Epic Shouts and Immersion (Veryyyyyy script heavy and annoying)
    Requiem Ethereal Ignores Traps (Thunderchild)
    All the patches.
 
+Death Idle Fix (Casuing issues with AMD GPU)
 Stendarr Rising - The Hall of the Vigilant Rebuild (I don’t see any value in this mod — it conflicts with several others and runs a script that never clears.)
 Attack MCO-DXP (moved back to BFCO with custom fixes and perks)
 ADXP MCO 1.6.0.6 Bug Fixes
