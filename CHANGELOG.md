@@ -27,6 +27,7 @@
 Simply Snowy Windhelm
 Oathvein UI
 Oathvein UI - Racemenu DIP
+Nordic UI - Tween Menu Reskin (I dont really like Oathvein UI Tween menu so i added this)
 Wine Duchess (3BA SMP)
 Simply Knock SE - Simply Knock - Don't Just Walk Away From Me - Simply Knock SKSE64 DLL
 Riton Windhelm
@@ -74,6 +75,22 @@ JK's Riften
 JK's Riften Outskirts Patch Collection
 Retextured Road Signs - English (for SCCR signs)
 All my Meshes Optimization Project
+STB Active Effects (Replaced SkyUI Active Effects with STB)
+Eating Animations - Patch Collection
+Ivy Riften Docks Overhaul
+Vampire Claws - Unarmed moveset (BFCO converted) (Vampire only moveset, u guys gonna love this)
+Another Riverwood Bridge - Overhaul (I swear it will be last riverwood mod)
+
+Body, Face, and Hair
+   Kala's Vampire Eyes - Improved
+   Rutah's Warpaint
+   Pocky's 4k human female makeup
+   Yyvengar Bodypaint - Designs of the Lupine - RaceMenu Overlays
+   Khisartin Beard - Standalone
+   Khisartin Brows - Standalone
+   Obi's Warpaints 2K Main
+   Even More Brows - HPH - COtR
+   High Poly Head SV Beards
 ~~~
 
 #### Removed
@@ -211,6 +228,8 @@ ADXP l MCO Desert Race Animation Complete Pack
 
 #### Updated
 ~~~
+PGPatcher (aka ParallaxGen)
+CC Arcane Accessories - Tweaks and Enhancements
 Requiem - Magic Redone
 Cities of the North - Falkreath Patch Collection
 The Great City of Winterhold Patch Collection
@@ -279,8 +298,8 @@ Rotols More Icons
 Missives - Quest Edits for Unique Missive Board Mods
 Snazzy Items for Auri (Song of the Green) (was causing crashes and i didnt had energy to fix it)
 Gore
-For Honor in Skyrim
 COTN Dawnstar Patch Collection
+SkyInteract
 ~~~
 
 #### Fixes
@@ -312,6 +331,13 @@ Removed the Wraiths added to the Myrwatch main cell (Myrwatch is already difficu
 Reverted unnecessary changes in the Werewolf Requiem Patch:
    Transformation timer restored to 90 seconds (down from 24 In-game hours).
    Attack distance increased from 0.35 to 0.75.
+
+Unpacked 24 BSA and packed them all into 5 BSA Increasing Loading times by 2x on system.
+Pandora Output is now on nexus since i dont trust inline process to much.
+Reworked the spell system. so spells are now in proper leveled list.
+Reworked SCAR NPC Combo Patch (This should result in less idiots Power attacks used by NPC)
+Patched Eating Animations and JaySerpa Skyrim's Got Talent - Improve As a Bard (This was as* to make)
+Fixed Snazzy Interiors - JKs Dragonsreach - Lux patch
 ~~~
 </Details>
 
