@@ -80,6 +80,17 @@ Eating Animations - Patch Collection
 Ivy Riften Docks Overhaul
 Vampire Claws - Unarmed moveset (BFCO converted) (Vampire only moveset, u guys gonna love this)
 Another Riverwood Bridge - Overhaul (I swear it will be last riverwood mod)
+Perk Adjuster
+Boozy Obnoxious and Opulent Bards (We have full bard class now)
+Skyrim's Got Talent - Show in UI
+All 3 SIGMA First person animations
+Aspens Ablaze (Replaced NOTWL Aspen with Aspens Ablaze but keeping all NOTWL trees location)
+Aspens Ablaze Add-On - DynDOLOD 3
+Ivy Snowy Windhelm Walkway
+DDV - Vergi SpellBooks replacement
+Bathing in Skyrim - Wash Me
+Athletic Shadow - 3BA Bodyslide Preset
+Lydia DF Edit (New Lydia Replacer)
 
 Body, Face, and Hair
    Kala's Vampire Eyes - Improved
@@ -224,6 +235,7 @@ Windhelm Walkway (Made my own mod)
 The Citadel of Snow - The Windhelm Bridge Reforged (I cant deal with meshes in this mod)
 Follower Stats (for now let the mod cook)
 ADXP l MCO Desert Race Animation Complete Pack
+Arcs Spell Tome Redux (Replaced by DDV - Vergi SpellBooks replacement)
 ~~~
 
 #### Updated
@@ -300,6 +312,8 @@ Snazzy Items for Auri (Song of the Green) (was causing crashes and i didnt had e
 Gore
 COTN Dawnstar Patch Collection
 SkyInteract
+First Person Interactions
+ENB of the Elders
 ~~~
 
 #### Fixes
@@ -338,6 +352,7 @@ Reworked the spell system. so spells are now in proper leveled list.
 Reworked SCAR NPC Combo Patch (This should result in less idiots Power attacks used by NPC)
 Patched Eating Animations and JaySerpa Skyrim's Got Talent - Improve As a Bard (This was as* to make)
 Fixed Snazzy Interiors - JKs Dragonsreach - Lux patch
+Finally fully patched CPR to all animations it requires to work properly
 ~~~
 </Details>
 
