@@ -18,7 +18,7 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
-### 1.4 - House Keeping - x/x/2025
+### 2.0 - House Keeping - x/x/2025
 <Details>
    <summary>Changes</summary>  
     
@@ -91,6 +91,8 @@ DDV - Vergi SpellBooks replacement
 Bathing in Skyrim - Wash Me
 Athletic Shadow - 3BA Bodyslide Preset
 Lydia DF Edit (New Lydia Replacer)
+Added some missing cube maps from Quality CubeMaps - HD Cube Maps
+Ryn's Western Watchtower (Less plugins + Jonado fixed the nav mesh in this area)
 
 Body, Face, and Hair
    Kala's Vampire Eyes - Improved
@@ -162,6 +164,7 @@ Thunderchild - Epic Shouts and Immersion (Veryyyyyy script heavy and annoying)
    Requiem Ethereal Ignores Traps (Thunderchild)
    All the patches.
 
+ENB Input Disabler
 Death Idle Fix (Casuing issues with AMD GPU)
 Stendarr Rising - The Hall of the Vigilant Rebuild (I don’t see any value in this mod — it conflicts with several others and runs a script that never clears.)
 Attack MCO-DXP (moved back to BFCO with custom fixes and perks)
@@ -236,6 +239,10 @@ The Citadel of Snow - The Windhelm Bridge Reforged (I cant deal with meshes in t
 Follower Stats (for now let the mod cook)
 ADXP l MCO Desert Race Animation Complete Pack
 Arcs Spell Tome Redux (Replaced by DDV - Vergi SpellBooks replacement)
+Whiterun Watchtower Doesn't Start Broken (Got replaced by Ryn's Western Watchtower)
+Environs - The Western Watchtower (Got replaced by Ryn's Western Watchtower)
+Infinity UI - Compass Navigation Overhaul - Local Map Upgrade (We think Infinity UI based mods are causing weird UI issue. Removed them for this update if the issue still remains i will bring these back.)
+Simple Backpack Rebalance - LOTD (Remade my own for Static skill leveling)
 ~~~
 
 #### Updated
@@ -353,6 +360,10 @@ Reworked SCAR NPC Combo Patch (This should result in less idiots Power attacks u
 Patched Eating Animations and JaySerpa Skyrim's Got Talent - Improve As a Bard (This was as* to make)
 Fixed Snazzy Interiors - JKs Dragonsreach - Lux patch
 Finally fully patched CPR to all animations it requires to work properly
+Slight buffed Armor Light and Heavy ammor padding (light padding pieces from 2% to 4% and heavy pieces from 4% to 6%)
+Buffed Serpent Stone
+   Fortify Armor Penetration fromt +10 to +25
+   Resist Poison from +50% to +100%
 ~~~
 </Details>
 
