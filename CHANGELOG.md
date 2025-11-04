@@ -93,6 +93,8 @@ Athletic Shadow - 3BA Bodyslide Preset
 Lydia DF Edit (New Lydia Replacer)
 Added some missing cube maps from Quality CubeMaps - HD Cube Maps
 Ryn's Western Watchtower (Less plugins + Jonado fixed the nav mesh in this area)
+Smart Optimal Salves - Optimal Potion Hotkey MCM
+Smart Optimal Salves - Optimal Potion Hotkey MCM - Settings Loader
 
 Body, Face, and Hair
    Kala's Vampire Eyes - Improved
@@ -174,11 +176,16 @@ ADXP MCO Attack Data Transition Fix (ADTF)
 MCO - First Person Patch
 Cancel Attack (BFCO has it own thing and its better)
 Hot Key Skill
+
 Bow Rapid Combo V3 - Archer Combat Overhaul
-Bow Rapid Combo V3 - Micro Script Optimization
-Bow Charge Plus
-Bow Charge Plus - Pandora Patch and fixes
-Bow Charge Plus and Bow Rapid Combo V3 Dodge Shot Animation Patch
+   Bow Rapid Combo V3 - Settings Loader
+   Bow Rapid Combo V3 - Micro Script Optimization
+Bow Charge Plus 
+   Pandora Patch and fixes
+   Bow Charge Plus and Bow Rapid Combo V3 Dodge Shot Animation Patch
+   Bow Charge Plus - Settings Loader
+
+CC's Camping Expansion - Settings Loader
 Word Wall Trigger Fix - No Minor Optimization
 Skurkbro's Retexture Project AIO
 High Quality Ivy Replacer for Falkreath
