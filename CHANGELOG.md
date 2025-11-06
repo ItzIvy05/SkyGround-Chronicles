@@ -248,7 +248,6 @@ ADXP l MCO Desert Race Animation Complete Pack
 Arcs Spell Tome Redux (Replaced by DDV - Vergi SpellBooks replacement)
 Whiterun Watchtower Doesn't Start Broken (Got replaced by Ryn's Western Watchtower)
 Environs - The Western Watchtower (Got replaced by Ryn's Western Watchtower)
-Infinity UI - Compass Navigation Overhaul - Local Map Upgrade (We think Infinity UI based mods are causing weird UI issue. Removed them for this update if the issue still remains i will bring these back.)
 Simple Backpack Rebalance - LOTD (Remade my own for Static skill leveling)
 ~~~
 
