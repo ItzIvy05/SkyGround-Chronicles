@@ -125,7 +125,6 @@ Due to SkyGround Chronicles's size and number of files required to be handled fo
 ---
 
 ![](https://i.imgur.com/y2T6I94.png)  
-![](https://i.imgur.com/AH2BMyp.png)  
 
 [MissileMann](https://www.nexusmods.com/skyrimspecialedition/users/51322576): I owe the majority of my mods to him. I asked him for help so often, he’s probably tired of me by now.
 
