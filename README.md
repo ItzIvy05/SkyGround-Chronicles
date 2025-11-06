@@ -38,7 +38,6 @@ If you're curious about the specific mods in the list, the full modlist can be v
 Preventing Major Meyhem
 
 Before installing SkyGround Chronicles, please complete the following steps:<br/>
-[**.NET 8.0 SDK**](https://dotnet.microsoft.com/en-us/download/dotnet/thank-you/sdk-8.0.404-windows-x64-installer)
 .NET is a free, cross-platform, open-source developer platform for building many different types of applications. This is required for Synthesis and Scrambled Bugs to function properly.<br/>
 [.NET 8.0 SDK (v8.0.411) - Windows x64 Installer](https://builds.dotnet.microsoft.com/dotnet/Sdk/8.0.411/dotnet-sdk-8.0.411-win-x64.exe)<br/>
 [.NET 9.0 SDK (v9.0.301) - Windows x64 Installer](https://builds.dotnet.microsoft.com/dotnet/Sdk/9.0.301/dotnet-sdk-9.0.301-win-x64.exe)<br/>
