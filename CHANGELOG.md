@@ -117,6 +117,8 @@ Skyrim Extended Cut - Saints and Seducers
    Witchy Wilderness Saints and Seducers patch
    Gore - Saints and Seducers Extended Cut
    Trad - Saints and Seducers Extended Cut Patch
+Note: This mod contains several severe, save-breaking bugs — one of the most notorious being the “white screen of death.”
+
 
 Sound mods (Replaced by Phoenix Compendium)
    Cursed -Sinding Voice Rework-
@@ -160,6 +162,7 @@ Wyrmstooth - Core Mod
    Nature of the Wild Lands 3.X - Wyrmstooth Compatibility Patch
    Xelzaz - Custom Fully Voiced Argonian Telvanni Follower - Xelzaz Anniversary Edition Update
    Missives - Solstheim Patch
+Note: Although Wyrmstooth still receives regular updates, the developers have yet to properly integrate the Dragonborn DLC changes. Additionally, instead of creating new references for minor edits, they modify vanilla records directly — which causes a lot of issues and frequent CTDs.
 
 Thunderchild - Epic Shouts and Immersion (Veryyyyyy script heavy and annoying)
    Thunderchild Sky UI Compatibility Patch
