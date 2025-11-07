@@ -253,6 +253,7 @@ Simple Backpack Rebalance - LOTD (Remade my own for Static skill leveling)
 
 #### Updated
 ~~~
+Immersive Interactions - New Anims
 PGPatcher (aka ParallaxGen)
 CC Arcane Accessories - Tweaks and Enhancements
 Requiem - Magic Redone
