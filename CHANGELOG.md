@@ -361,6 +361,7 @@ Reverted unnecessary changes in the Werewolf Requiem Patch:
    Transformation timer restored to 90 seconds (down from 24 In-game hours).
    Attack distance increased from 0.35 to 0.75.
 
+Reworded the Blessing Redon by Nox (Now you dont need those books on table anymore)
 Unpacked 24 BSA and packed them all into 5 BSA Increasing Loading times by 2x on system.
 Pandora Output is now on nexus since i dont trust inline process to much.
 Reworked the spell system. so spells are now in proper leveled list.
