@@ -345,6 +345,7 @@ Overhauled Exterior Whiterun Navmesh
    WhiterunExterior10
 
 Also Overhauled Whiterun world Navmesh.
+Some more whiterun fixes provided Heisen (Thank you)
 Removed all nav cuts added by Lux Via and Northern roads in those cells.
 Fixed Savior's Hide rating.
 Skyfall's Fort Dawnguard Roofs - JK and ClefJ Combo patch
