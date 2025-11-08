@@ -40,6 +40,7 @@ Fixed Lute weapon not working properly.
 Fixed a rare CTD for AMD GPU users
 Fixed missing Textures/Meshes for LOTD. (@experica Test it for me)
 ~~~
+</Details>
 
 ### 2.0 - Book 2 - 11/7/2025
 <Details>
