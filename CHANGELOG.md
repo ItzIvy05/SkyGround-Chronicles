@@ -18,6 +18,29 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
+### 2.0.1 - Book 2 - 11/7/2025
+<Details>
+   <summary>Changes</summary>  
+    
+#### New Additions
+~~~
+Added my own Immersion mod that i been slowly working on. This will help guide players with dynamic prompts(WIP)
+Grab and Eat - Eat directly from harvestable flora
+~~~
+
+#### Updated
+~~~
+Grand Solitude - The Walls of High King Erling (Just for Meshes)
+~~~
+
+#### Fixes
+~~~
+Fixed some things that were reported to me.
+Fixed Lute weapon not working properly.
+Fixed a rare CTD for AMD GPU users
+Fixed missing Textures/Meshes for LOTD. (@experica Test it for me)
+~~~
+
 ### 2.0 - Book 2 - 11/7/2025
 <Details>
    <summary>Changes</summary>  
