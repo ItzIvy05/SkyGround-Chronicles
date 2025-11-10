@@ -18,6 +18,37 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
+### 2.0 - Book 2 - 11/7/2025
+<Details>
+   <summary>Changes</summary>  
+    
+#### New Additions
+~~~
+
+~~~
+
+#### Removed
+~~~
+MCM Recorder (Had a good run but we dont need it anymore)
+~~~
+
+#### Updated
+~~~
+
+~~~
+
+#### Fixes
+~~~
+
+~~~
+
+#### Changes
+~~~
+
+~~~
+</Details>
+
+
 ### 2.0.1 - I like Immersion - 11/7/2025
 <Details>
    <summary>Changes</summary>  
