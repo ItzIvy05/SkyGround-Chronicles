@@ -34,6 +34,8 @@ MCM Recorder (Had a good run but we dont need it anymore)
 Alternate Perspective - Starting Choices Patch (For my own new system)
 Sky Signs - Autopop (For my own new system)
 Biggie Traits - Autopop (For my own new system)
+Requiem - Automated Simple Start (For my own new system)
+Divergence - Wearable Spelltomes - USSEP Patch (I dont even know why we had this to beign with...)
 ~~~
 
 #### Updated
@@ -46,6 +48,7 @@ Wheeler - Show in UI
 #### Fixes
 ~~~
 Location Record fixes
+Finally Patched all Mage Clothing Expansion Outfit record (U will have to give me ur first born to redo it)
 ~~~
 
 #### Changes
