@@ -28,6 +28,8 @@
 Skyrim Revoiced
 B.O.O.B.I.E.S (aka Immersive Icons) - POTIONS
 High Poly Pretty Face and Darker Eyebrows
+Angis Camp Overhaul
+moreHUD SE - Legacy Settings Loader
 ~~~
 
 #### Removed
@@ -39,6 +41,7 @@ Biggie Traits - Autopop (For my own new system)
 Requiem - Automated Simple Start (For my own new system)
 Divergence - Wearable Spelltomes - USSEP Patch (I dont even know why we had this to beign with...)
 Voiced Narrative - Saints and Seducers (Going back to Skyrim Extended Cut - Saints and Seducers)
+Ivarstead Well Addon - The Great Town of Ivarstead (dont need it anymore with my framework)
 ~~~
 
 #### Updated
@@ -46,6 +49,8 @@ Voiced Narrative - Saints and Seducers (Going back to Skyrim Extended Cut - Sain
 Experience
 Gore - A Companion Mod (New content and patching nightmare)
 Wheeler - Show in UI
+Ivy - Ivarstead Well Addon
+Utenlands Nordic Tents - Vanilla Replacer
 ~~~
 
 #### Fixes
