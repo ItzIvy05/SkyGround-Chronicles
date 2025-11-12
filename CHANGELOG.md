@@ -38,6 +38,7 @@ Sky Signs - Autopop (For my own new system)
 Biggie Traits - Autopop (For my own new system)
 Requiem - Automated Simple Start (For my own new system)
 Divergence - Wearable Spelltomes - USSEP Patch (I dont even know why we had this to beign with...)
+Voiced Narrative - Saints and Seducers (Going back to Skyrim Extended Cut - Saints and Seducers)
 ~~~
 
 #### Updated
@@ -51,6 +52,8 @@ Wheeler - Show in UI
 ~~~
 Location Record fixes
 Finally Patched all Mage Clothing Expansion Outfit record (U will have to give me ur first born to redo it)
+Fixed Gore Base esp (way to many wild edits)
+Fixed Auri Pod not using Lux lighting.
 ~~~
 
 #### Changes
