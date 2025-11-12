@@ -8,6 +8,7 @@
   <link href="https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100..900;1,100..900&display=swap" rel="stylesheet">
   <link rel="stylesheet" href="https://raw.githubusercontent.com/ItzIvy05/SkyGround/main/style/main.css">
 </head>
+
 <body>
 <a href="https://www.nexusmods.com/skyrimspecialedition/mods/147012"><img src="https://github.com/ItzIvy05/SkyGround-Chronicles/blob/main/Resources/5.png"></a>
 
@@ -26,6 +27,7 @@
 ~~~
 Skyrim Revoiced
 B.O.O.B.I.E.S (aka Immersive Icons) - POTIONS
+High Poly Pretty Face and Darker Eyebrows
 ~~~
 
 #### Removed
