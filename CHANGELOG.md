@@ -24,22 +24,28 @@
     
 #### New Additions
 ~~~
-
+Skyrim Revoiced
+B.O.O.B.I.E.S (aka Immersive Icons) - POTIONS
 ~~~
 
 #### Removed
 ~~~
 MCM Recorder (Had a good run but we dont need it anymore)
+Alternate Perspective - Starting Choices Patch (For my own new system)
+Sky Signs - Autopop (For my own new system)
+Biggie Traits - Autopop (For my own new system)
 ~~~
 
 #### Updated
 ~~~
-
+Experience
+Gore - A Companion Mod (New content and patching nightmare)
+Wheeler - Show in UI
 ~~~
 
 #### Fixes
 ~~~
-
+Location Record fixes
 ~~~
 
 #### Changes
