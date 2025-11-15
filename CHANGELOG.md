@@ -42,6 +42,7 @@ Requiem - Automated Simple Start (For my own new system)
 Divergence - Wearable Spelltomes - USSEP Patch (I dont even know why we had this to beign with...)
 Voiced Narrative - Saints and Seducers (Going back to Skyrim Extended Cut - Saints and Seducers)
 Ivarstead Well Addon - The Great Town of Ivarstead (dont need it anymore with my framework)
+Dialogue History (Cause CTD)
 ~~~
 
 #### Updated
@@ -51,6 +52,7 @@ Gore - A Companion Mod (New content and patching nightmare)
 Wheeler - Show in UI
 Ivy - Ivarstead Well Addon
 Utenlands Nordic Tents - Vanilla Replacer
+The Walls of Dragon's Bridge - Location Overhaul (Castle-Fortress-City-Town)
 ~~~
 
 #### Fixes
