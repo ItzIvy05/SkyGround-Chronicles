@@ -19,21 +19,37 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
-### 2.1 - Book 2 - x/x/2025
+### 2.1 - The Camping Episode- x/x/2025
 <Details>
    <summary>Changes</summary>  
     
 #### New Additions
 ~~~
+Camping Plus Plus (Major update for us survival players)
 Skyrim Revoiced
 B.O.O.B.I.E.S (aka Immersive Icons) - POTIONS
 High Poly Pretty Face and Darker Eyebrows
 Angis Camp Overhaul
 moreHUD SE - Legacy Settings Loader
+Mania Mushroom Retextured (Saints and Seducers CC)
+B.O.O.B.I.E.S (aka Immersive Icons) - POTIONS - Requiem Patch
 ~~~
 
 #### Removed
 ~~~
+The Great Town of Shor's Stone SSE (Got Replaced by Redbag Shor's Stone)
+   1. The Great Town of Shor's Stone Patch Collection
+   2. Rob's Bug Fixes - TGC Shor's Stone
+   3. The Great Town of Shor's Stone NPC Overhaul
+
+Immersive Diseases 
+   Causes all sort issues:
+      1. Survival Mode glitches — sometimes you can’t cure yourself at all.
+      2. Overlay system bugs — overlays apply correctly but never clear.
+      3. Broken Perks — disease-related animations stay stuck on the player even after being cured.
+
+Requiem - Jail Duration Fix (We dont need this anymore)
+Whiterun Circle Trellis REMOVED (I removed it on esp level)
 MCM Recorder (Had a good run but we dont need it anymore)
 Alternate Perspective - Starting Choices Patch (For my own new system)
 Sky Signs - Autopop (For my own new system)
@@ -43,6 +59,7 @@ Divergence - Wearable Spelltomes - USSEP Patch (I dont even know why we had this
 Voiced Narrative - Saints and Seducers (Going back to Skyrim Extended Cut - Saints and Seducers)
 Ivarstead Well Addon - The Great Town of Ivarstead (dont need it anymore with my framework)
 Dialogue History (Cause CTD)
+ELLE - Fawnia (Replaced by Valenwood Ranger Armor)
 ~~~
 
 #### Updated
@@ -53,6 +70,9 @@ Wheeler - Show in UI
 Ivy - Ivarstead Well Addon
 Utenlands Nordic Tents - Vanilla Replacer
 The Walls of Dragon's Bridge - Location Overhaul (Castle-Fortress-City-Town)
+Serana Dialogue Expansion
+Aspens Ablaze
+Gore - A Companion Mod
 ~~~
 
 #### Fixes
