@@ -21,6 +21,7 @@
 
 ### 2.1 - The Camping Episode- x/x/2025
 <Details>
+   <img src="https://raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/main/Resources/CampingEpisode.jpg">
    <summary>Changes</summary>  
     
 #### New Additions
