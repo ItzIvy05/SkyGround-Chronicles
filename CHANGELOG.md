@@ -34,6 +34,7 @@ Angis Camp Overhaul
 moreHUD SE - Legacy Settings Loader
 Mania Mushroom Retextured (Saints and Seducers CC)
 B.O.O.B.I.E.S (aka Immersive Icons) - POTIONS - Requiem Patch
+JS Lockpicking UI SE
 ~~~
 
 #### Removed
@@ -49,6 +50,11 @@ Immersive Diseases
       2. Overlay system bugs — overlays apply correctly but never clear.
       3. Broken Perks — disease-related animations stay stuck on the player even after being cured.
 
+Security Overhaul SKSE - Lock Variations
+   Reason:
+      1. After testing and with help of alax, this mod cause upto 3-4 mins of loading time
+      2. Thsi also introduce weird fps hitching
+
 Requiem - Jail Duration Fix (We dont need this anymore)
 Whiterun Circle Trellis REMOVED (I removed it on esp level)
 MCM Recorder (Had a good run but we dont need it anymore)
@@ -61,6 +67,8 @@ Voiced Narrative - Saints and Seducers (Going back to Skyrim Extended Cut - Sain
 Ivarstead Well Addon - The Great Town of Ivarstead (dont need it anymore with my framework)
 Dialogue History (Cause CTD)
 ELLE - Fawnia (Replaced by Valenwood Ranger Armor)
+Conditional Expressions - Subtle Face Animations (has a Weird script that can cause CTD sometimes)
+Requiem - ST - Better Forgotten Vale (Bro just cooks CPU)
 ~~~
 
 #### Updated
@@ -74,6 +82,8 @@ The Walls of Dragon's Bridge - Location Overhaul (Castle-Fortress-City-Town)
 Serana Dialogue Expansion
 Aspens Ablaze
 Gore - A Companion Mod
+Biggie Traits - Racial Traits
+Northern Roads Patch Collection
 ~~~
 
 #### Fixes
@@ -82,6 +92,7 @@ Location Record fixes
 Finally Patched all Mage Clothing Expansion Outfit record (U will have to give me ur first born to redo it)
 Fixed Gore Base esp (way to many wild edits)
 Fixed Auri Pod not using Lux lighting.
+Adjusted windhelm exterior nav mesh.
 ~~~
 
 #### Changes
