@@ -35,6 +35,7 @@ moreHUD SE - Legacy Settings Loader
 Mania Mushroom Retextured (Saints and Seducers CC)
 B.O.O.B.I.E.S (aka Immersive Icons) - POTIONS - Requiem Patch
 JS Lockpicking UI SE
+Rim Lighting Removed
 ~~~
 
 #### Removed
@@ -69,6 +70,7 @@ Dialogue History (Cause CTD)
 ELLE - Fawnia (Replaced by Valenwood Ranger Armor)
 Conditional Expressions - Subtle Face Animations (has a Weird script that can cause CTD sometimes)
 Requiem - ST - Better Forgotten Vale (Bro just cooks CPU)
+Universal (SKSE) Rim Lighting Fix (Replaced by Rim Lighting Removed)
 ~~~
 
 #### Updated
@@ -97,7 +99,7 @@ Adjusted windhelm exterior nav mesh.
 
 #### Changes
 ~~~
-
+Acoustic Space Improvement Fixes (Removed SkyPatcher Version and manually patched it)
 ~~~
 </Details>
 
