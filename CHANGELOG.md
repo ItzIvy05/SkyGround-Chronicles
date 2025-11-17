@@ -100,6 +100,7 @@ Adjusted windhelm exterior nav mesh.
 #### Changes
 ~~~
 Acoustic Space Improvement Fixes (Removed SkyPatcher Version and manually patched it)
+Animals Report No Crime - SkyPatcher (Turned it into my own thing on ESP level)
 ~~~
 </Details>
 
