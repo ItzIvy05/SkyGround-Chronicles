@@ -36,6 +36,14 @@ Mania Mushroom Retextured (Saints and Seducers CC)
 B.O.O.B.I.E.S (aka Immersive Icons) - POTIONS - Requiem Patch
 JS Lockpicking UI SE
 Rim Lighting Removed
+Unique Border Gates Fixes (Standalone)
+Light Dragonbone Armor
+SIGMA - Sword animations - First Person
+SIGMA - Battleaxe Animations - First Person
+SIGMA - Greatsword animations - First Person
+SIGMA - Mace animations - First Person
+SIGMA - Waraxe animations - First Person
+SIGMA - Warhammer animations - First Person
 ~~~
 
 #### Removed
@@ -71,6 +79,18 @@ ELLE - Fawnia (Replaced by Valenwood Ranger Armor)
 Conditional Expressions - Subtle Face Animations (has a Weird script that can cause CTD sometimes)
 Requiem - ST - Better Forgotten Vale (Bro just cooks CPU)
 Universal (SKSE) Rim Lighting Fix (Replaced by Rim Lighting Removed)
+High Quality Ivy for Tree Stumps and Logs (NOTWL Patch is broken and causes aloot of issues)
+Diverse Downed Logs - Base Object Swapper (NOTWL Patch is broken and causes aloot of issues)
+Face Discoloration Fix (We dont need it anymore, Fuc* Finally!)
+BeastHHBB (Wayyyyy tooo buggy)
+Face Discoloration Fix SE (Causes issues, also its useless now)
+Grass Sampler Fix (Does not works with ENB Complex Grass.)
+Shalidor's Insights - Winterhold Spire Resculpted (it has issues that i dont want fix)
+Across the Border - Diverse Border Gates (Replaced by Unique Border Gates Fixes (Standalone))
+Novigrad my Solitude (Replaced by Riton's Medieval Solitude)
+Riton's Solitude (Replaced by Riton's Medieval Solitude)
+Grand Solitude Lite (Sick of BOS mods and loading times)
+Kanjs - Soup and Stew AIO Animated (SkyPatched) (Patched on ESP Level)
 ~~~
 
 #### Updated
@@ -86,6 +106,19 @@ Aspens Ablaze
 Gore - A Companion Mod
 Biggie Traits - Racial Traits
 Northern Roads Patch Collection
+BFCO NG
+The Thalmor's Shadow - Taliesin (Custom Voiced Follower)
+Skyrim Cut Content Restoration
+Ivy's Riverwood Overhaul
+Snazzy Misc Locations AIO
+Grand Solitude - The Walls of High King Erling
+Rotols More Icons Sacrosanct - Vampires of Skyrim
+Easy Console Commands
+Lydia DF - No skypatcher
+Eating Animations and Sounds - First Person  
+imGui Icons
+Dynamic Things Alternative - Base Object Swapper
+Biggie Traits
 ~~~
 
 #### Fixes
@@ -94,13 +127,21 @@ Location Record fixes
 Finally Patched all Mage Clothing Expansion Outfit record (U will have to give me ur first born to redo it)
 Fixed Gore Base esp (way to many wild edits)
 Fixed Auri Pod not using Lux lighting.
-Adjusted windhelm exterior nav mesh.
+Adjusted windhelm World and exterior nav mesh.
+Fixed Death looping song
+Fixed CFTO floating bags
+Fixed Thieves Guild Headquarters
+Fixed way too many nr seams
+Fixed Ebony Dagger Dagger Values
+Fixed Xelzaz Kukri Dagger Dagger Values
 ~~~
 
 #### Changes
 ~~~
 Acoustic Space Improvement Fixes (Removed SkyPatcher Version and manually patched it)
 Animals Report No Crime - SkyPatcher (Turned it into my own thing on ESP level)
+Buffed Remi Base health so she can survive more than one hit
+Distributed Steel Light Elven Armor in world
 ~~~
 </Details>
 
