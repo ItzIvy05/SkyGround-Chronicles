@@ -44,6 +44,7 @@ SIGMA - Greatsword animations - First Person
 SIGMA - Mace animations - First Person
 SIGMA - Waraxe animations - First Person
 SIGMA - Warhammer animations - First Person
+Line and Lure - Fishing Perks
 ~~~
 
 #### Removed
@@ -133,7 +134,8 @@ Fixed CFTO floating bags
 Fixed Thieves Guild Headquarters
 Fixed way too many nr seams
 Fixed Ebony Dagger Dagger Values
-Fixed Xelzaz Kukri Dagger Dagger Values
+Fixed Xelzaz Kukri Dagger Values
+Fixed LOTD Cave not rendering properly.............
 ~~~
 
 #### Changes
@@ -142,6 +144,7 @@ Acoustic Space Improvement Fixes (Removed SkyPatcher Version and manually patche
 Animals Report No Crime - SkyPatcher (Turned it into my own thing on ESP level)
 Buffed Remi Base health so she can survive more than one hit
 Distributed Steel Light Elven Armor in world
+Small buff to Orc race base health 110 -> 120
 ~~~
 </Details>
 
