@@ -60,11 +60,6 @@ Immersive Diseases
       2. Overlay system bugs — overlays apply correctly but never clear.
       3. Broken Perks — disease-related animations stay stuck on the player even after being cured.
 
-Security Overhaul SKSE - Lock Variations
-   Reason:
-      1. After testing and with help of alax, this mod cause upto 3-4 mins of loading time
-      2. Thsi also introduce weird fps hitching
-
 Requiem - Jail Duration Fix (We dont need this anymore)
 Whiterun Circle Trellis REMOVED (I removed it on esp level)
 MCM Recorder (Had a good run but we dont need it anymore)
@@ -92,6 +87,8 @@ Novigrad my Solitude (Replaced by Riton's Medieval Solitude)
 Riton's Solitude (Replaced by Riton's Medieval Solitude)
 Grand Solitude Lite (Sick of BOS mods and loading times)
 Kanjs - Soup and Stew AIO Animated (SkyPatched) (Patched on ESP Level)
+Animals Report No Crime - SkyPatcher (Turned it into my own thing on ESP level)
+Werewolf Power Attack Fix (Not needed anymore)
 ~~~
 
 #### Updated
@@ -120,6 +117,8 @@ Eating Animations and Sounds - First Person
 imGui Icons
 Dynamic Things Alternative - Base Object Swapper
 Biggie Traits
+Additional Traits for Biggie Traits and Requiem add on
+Object Categorization Framework - Some KID Patches - I4 - OCF
 ~~~
 
 #### Fixes
@@ -136,15 +135,20 @@ Fixed way too many nr seams
 Fixed Ebony Dagger Dagger Values
 Fixed Xelzaz Kukri Dagger Values
 Fixed LOTD Cave not rendering properly.............
+Fixed Dark Face Bug
+Fixed Taliesin Armor Raiting
+Fixed Werewolf cannot power attack
+Fixed Floating stuff in Fort whatever is close to whiterun
+Fixed Katana having weird body
 ~~~
 
 #### Changes
 ~~~
 Acoustic Space Improvement Fixes (Removed SkyPatcher Version and manually patched it)
-Animals Report No Crime - SkyPatcher (Turned it into my own thing on ESP level)
 Buffed Remi Base health so she can survive more than one hit
 Distributed Steel Light Elven Armor in world
 Small buff to Orc race base health 110 -> 120
+Changed STB Bind to Numb 1 from F11
 ~~~
 </Details>
 
