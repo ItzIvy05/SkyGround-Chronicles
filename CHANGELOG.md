@@ -45,6 +45,9 @@ SIGMA - Mace animations - First Person
 SIGMA - Waraxe animations - First Person
 SIGMA - Warhammer animations - First Person
 Line and Lure - Fishing Perks
+The Welkynar Knight - Quest
+The Frozen Heart
+Dragonborn Reskin - Static Skill Leveling Re
 ~~~
 
 #### Removed
@@ -89,6 +92,7 @@ Grand Solitude Lite (Sick of BOS mods and loading times)
 Kanjs - Soup and Stew AIO Animated (SkyPatched) (Patched on ESP Level)
 Animals Report No Crime - SkyPatcher (Turned it into my own thing on ESP level)
 Werewolf Power Attack Fix (Not needed anymore)
+Actor Value Generator (Hella fucking buggy mod)
 ~~~
 
 #### Updated
@@ -140,6 +144,7 @@ Fixed Taliesin Armor Raiting
 Fixed Werewolf cannot power attack
 Fixed Floating stuff in Fort whatever is close to whiterun
 Fixed Katana having weird body
+Fixed unable to level when using Untarnished UI
 ~~~
 
 #### Changes
@@ -149,6 +154,7 @@ Buffed Remi Base health so she can survive more than one hit
 Distributed Steel Light Elven Armor in world
 Small buff to Orc race base health 110 -> 120
 Changed STB Bind to Numb 1 from F11
+Combined Buch of BSA into One BSA (Reduces total number of Dummy ESP and Loading time)
 ~~~
 </Details>
 
