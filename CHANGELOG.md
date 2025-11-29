@@ -19,7 +19,7 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
-### 2.1 - The Camping Episode- x/x/2025
+### 2.1 - The Camping Episode- 11/29/2025
 <Details>
    <img src="https://raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/main/Resources/CampingEpisode.jpg">
    <summary>Changes</summary>  
