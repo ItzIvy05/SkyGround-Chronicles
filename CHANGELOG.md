@@ -48,6 +48,7 @@ Line and Lure - Fishing Perks
 The Welkynar Knight - Quest
 The Frozen Heart
 Dragonborn Reskin - Static Skill Leveling Re
+Added Lock Bashing by Shazdha
 ~~~
 
 #### Removed
@@ -123,6 +124,7 @@ Dynamic Things Alternative - Base Object Swapper
 Biggie Traits
 Additional Traits for Biggie Traits and Requiem add on
 Object Categorization Framework - Some KID Patches - I4 - OCF
+Bathing in Skyrim - Renewed
 ~~~
 
 #### Fixes
