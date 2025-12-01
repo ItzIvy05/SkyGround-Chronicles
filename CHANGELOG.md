@@ -19,6 +19,40 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
+### 2.1.2 - The Camping Episode- 11/29/2025
+<Details>
+   <img src="https://media.makeameme.org/created/hotfix-hotfix-everywhere.jpg">
+   <summary>Changes</summary>  
+    
+#### New Additions
+~~~
+
+~~~
+
+#### Removed
+~~~
+
+~~~
+
+#### Updated
+~~~
+FPS Boost for Quest Mods
+~~~
+
+#### Fixes
+~~~
+Fixed Black Face Bug for Imsin
+Fixed They See floating they hate in Cart in Dragon Bridge
+Fixed Alvoran's The Stick of Truth Damage Raiting
+~~~
+
+#### Changes
+~~~
+Changed [ELLE] SK Shinobi footstep sounds from heavy to light
+Removed Requiem Lock Script from frozen heart chest
+~~~
+</Details>
+
 ### 2.1 - The Camping Episode- 11/29/2025
 <Details>
    <img src="https://raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/main/Resources/CampingEpisode.jpg">
