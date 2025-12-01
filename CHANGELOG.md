@@ -24,16 +24,6 @@
    <img src="https://media.makeameme.org/created/hotfix-hotfix-everywhere.jpg">
    <summary>Changes</summary>  
     
-#### New Additions
-~~~
-
-~~~
-
-#### Removed
-~~~
-
-~~~
-
 #### Updated
 ~~~
 FPS Boost for Quest Mods
