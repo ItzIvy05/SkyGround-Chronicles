@@ -19,14 +19,50 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
-### 2.1.2 - The Camping Episode- 12/1/2025
+### 2.1.4 - The Camping Episode- 12/1/2025
 <Details>
    <img src="https://media.makeameme.org/created/hotfix-hotfix-everywhere.jpg">
    <summary>Changes</summary>  
     
+#### Removed
+~~~
+Rest By Campfire - Base Object Swapper
+~~~
+
+#### Updated
+~~~
+JellyFishFP DAGGER
+~~~
+
+#### Fixes
+~~~
+Fixed MO2 Loading time
+Fixed Experience XP oppsi I did.
+Added some occlusion planes in Solitude.
+Fixed Some Maggic Effect getting override by Immersive Sounds - Compendium
+~~~
+
+
+#### Changes
+~~~
+Changed the Shield of Solitude Back to light shield
+~~~
+</Details>
+
+### 2.1.2 - The Camping Episode- 12/1/2025
+<Details>
+   <img src="https://media.makeameme.org/created/hotfix-hotfix-everywhere.jpg">
+   <summary>Changes</summary>  
+
+#### New Additions
+~~~
+Added Left Hand IED Meshes
+~~~
+
 #### Updated
 ~~~
 FPS Boost for Quest Mods
+JellyFishFP DAGGER
 ~~~
 
 #### Fixes
@@ -40,6 +76,9 @@ Fixed Alvoran's The Stick of Truth Damage Raiting
 ~~~
 Changed [ELLE] SK Shinobi footstep sounds from heavy to light
 Removed Requiem Lock Script from frozen heart chest
+With the new experience update, it was really hard to level up, so with help from @Lonlon we adjusted the XP values to make it a bit easier.
+Added XP for completing Misc Quest.
+Removed balance patch for Magicka Surge. Its alteration Spell now. But it still dont uses SkyPatcher.
 ~~~
 </Details>
 
