@@ -46,6 +46,7 @@ Fixed Some Maggic Effect getting override by Immersive Sounds - Compendium
 #### Changes
 ~~~
 Changed the Shield of Solitude Back to light shield
+Completely Removed Vanilla start option from AP Start
 ~~~
 </Details>
 
