@@ -42,7 +42,6 @@ Added some occlusion planes in Solitude.
 Fixed Some Maggic Effect getting override by Immersive Sounds - Compendium
 ~~~
 
-
 #### Changes
 ~~~
 Changed the Shield of Solitude Back to light shield
