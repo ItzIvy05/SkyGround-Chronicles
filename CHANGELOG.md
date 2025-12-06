@@ -19,7 +19,7 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
-### 2.1.5 - The Camping Episode- 12/1/2025
+### 2.1.5 - The Camping Episode- 12/5/2025
 <Details>
    <img src="https://media.makeameme.org/created/hotfix-hotfix-everywhere.jpg">
    <summary>Changes</summary>  
@@ -37,7 +37,7 @@ Added few more armor to Bandit leveled List Thanks Undeniable
 ~~~
 </Details>
 
-### 2.1.4 - The Camping Episode- 12/1/2025
+### 2.1.4 - The Camping Episode- 12/3/2025
 <Details>
    <img src="https://media.makeameme.org/created/hotfix-hotfix-everywhere.jpg">
    <summary>Changes</summary>  
