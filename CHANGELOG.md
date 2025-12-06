@@ -19,6 +19,24 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
+### 2.1.5 - The Camping Episode- 12/1/2025
+<Details>
+   <img src="https://media.makeameme.org/created/hotfix-hotfix-everywhere.jpg">
+   <summary>Changes</summary>  
+
+#### Fixes
+~~~
+Fixed Water in Sarethi Farm
+Fixed Level List for Armor Thanks Undeniable
+Fixed Blue Palace Navmesh
+~~~
+
+#### Changes
+~~~
+Added few more armor to Bandit leveled List Thanks Undeniable
+~~~
+</Details>
+
 ### 2.1.4 - The Camping Episode- 12/1/2025
 <Details>
    <img src="https://media.makeameme.org/created/hotfix-hotfix-everywhere.jpg">
