@@ -19,6 +19,32 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
+### 2.1.6 - The Camping Episode- 12/5/2025
+<Details>
+   <img src="https://media.makeameme.org/created/hotfix-hotfix-everywhere.jpg">
+   <summary>Changes</summary>  
+
+#### Removed
+~~~
+Nihility Series - Serana Visual Overhaul Hair Fix (Maybe no longer needed)
+~~~
+
+#### Updated
+~~~
+Bathing in Skyrim - Renewed
+~~~
+
+#### Fixes
+~~~
+
+~~~
+
+#### Changes
+~~~
+
+~~~
+</Details>
+
 ### 2.1.5 - The Camping Episode- 12/5/2025
 <Details>
    <img src="https://media.makeameme.org/created/hotfix-hotfix-everywhere.jpg">
