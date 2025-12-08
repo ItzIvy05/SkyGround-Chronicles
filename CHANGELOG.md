@@ -27,6 +27,7 @@
 #### Removed
 ~~~
 Nihility Series - Serana Visual Overhaul Hair Fix (Maybe no longer needed)
+Removed Whiterun Displacement Fix Mods (USSEP already cover this)w
 ~~~
 
 #### Updated
@@ -36,12 +37,12 @@ Bathing in Skyrim - Renewed
 
 #### Fixes
 ~~~
-
+Fixed a annoying sound in Whiterun near skyforge
 ~~~
 
 #### Changes
 ~~~
-
+Patched JS Coin Purse with C.O.I.N mod
 ~~~
 </Details>
 
