@@ -10,7 +10,7 @@
 </head>
 
 <body>
-<a href="https://www.nexusmods.com/skyrimspecialedition/mods/147012"><img src="https://github.com/ItzIvy05/SkyGround-Chronicles/blob/main/Resources/5.png"></a>
+<a href="https://www.nexusmods.com/skyrimspecialedition/mods/147012"><img src="https://raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/main/Resources/5.png"></a>
 
 <p align="center">
   <a href="https://github.com/ItzIvy05/SkyGround-Chronicles/blob/main/CHANGELOG.md">Changelogs</a> |
@@ -19,30 +19,75 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
-### 2.1.6 - The Camping Episode- 12/5/2025
+### 2.1.6 - The Camping Episode- 12/8/2025
 <Details>
    <img src="https://media.makeameme.org/created/hotfix-hotfix-everywhere.jpg">
    <summary>Changes</summary>  
 
+#### New Additions
+~~~
+Dwemer Pipework Reworked 4
+Dwemer Pipework Reworked- ENB light
+Ancient Automatons 2K
+Ancient Dwemer Metal 2K
+   Ancient Dwemer Metal - My patches - ANNIVERSARY EDITION
+   Ancient Dwemer Metal - My patches - Converted meshes to SE and AE
+   Ancient Dwemer Metal - My patches - FINAL SE VERSION
+   Ancient Dwemer Metal - My patches - FINAL Update 7 - 2K
+   Ancient Dwemer Metal - My patches - C.O.I.N
+   Ancient Dwemer Metal - My patches - Dwemer Armor Glowmapped
+   Ancient Dwemer Metal - My patches - Dwemer Pipework Reworked patch v4 2K
+   Ancient Dwemer Metal - My patches - GDOS Splendid Mechanized Dwemer Door
+   Ancient Dwemer Metal - My patches - Security Overhaul SKSE - Lock Variations
+   Ancient Dwemer Metal - My patches - Security Overhaul SKSE - Regional Locks
+   Ancient Dwemer Metal - My patches - Skyking Signs
+   Ancient Dwemer Metal - My patches - LOTD Dwemer Compass Replacer 2K SE
+   Ancient Dwemer Metal - My patches - Guards Armor Replacer
+   Ancient Dwemer Metal - My patches - Stony AF Mrkth
+~~~
+
 #### Removed
 ~~~
 Nihility Series - Serana Visual Overhaul Hair Fix (Maybe no longer needed)
-Removed Whiterun Displacement Fix Mods (USSEP already cover this)w
+Whiterun Displacement Fix Mods (USSEP already cover this)
+dMenu (We only use it for Wheeler anyways. Just edit the ini file)
+WiZkiD Hagraven Clutter and Bones (Not Needed Anymore)
+MIC - WiZkiD Hagraven Clutter and Bones Patch (Not Needed anymore)
+
+
+Golden Dwemer Pipeworks Redone
+   Vanilla Dwemer - GDPR
+   Golden Dwemer Pipeworks Redone - Patches
+   HDT-SMP Vanilla Armors - GDPR
+   Golden Dwemer Pipeworks Redone - 1.Markarth Fixed AF (SE AE) GDPR
+   Golden Dwemer Pipeworks Redone - Believable weapons - GDPR
+   Golden Dwemer Pipeworks Redone - Locked Chests Have Keys - GDPR
+   Particle Lights for ENB - Fire Traps - FULL - GDPR
+   GDOS - Splendid Mechanized Dwemer Door - GDPR
+   Dwemer Water Wheels - GDPR
+   a) Golden Dwemer Pipework Reworked
+
+Dwemer Pipework Reworked V5 (Downgraded to V4)
+Auto Parallax
 ~~~
 
 #### Updated
 ~~~
 Bathing in Skyrim - Renewed
+CC Farming - Tweaks and Enhancements
 ~~~
 
 #### Fixes
 ~~~
 Fixed a annoying sound in Whiterun near skyforge
+Fixed Player keep lossing stamina from Req Stress Exhaustion (Thank You JaySerpa)
+Fixed Rin having Dark face bug
 ~~~
 
 #### Changes
 ~~~
-Patched JS Coin Purse with C.O.I.N mod
+Patched JS Coin Purse with C.O.I.N Mod
+Added Soaps To Inn Keepers
 ~~~
 </Details>
 
