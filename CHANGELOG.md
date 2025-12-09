@@ -35,7 +35,7 @@ Grab And Throw - Show in UI
 
 #### Fixes
 ~~~
-Fixed Parallax Issue
+Fixed Parallax Issue in snowy area
 ~~~
 
 #### Changes
