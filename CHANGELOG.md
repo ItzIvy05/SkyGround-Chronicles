@@ -24,6 +24,31 @@
    <img src="https://media.makeameme.org/created/hotfix-hotfix-everywhere.jpg">
    <summary>Changes</summary>  
 
+
+#### Updated
+~~~
+Next-Gen Decapitations - Latest Version
+Headhunter - Bounties Redone
+SkyPrompt
+Grab And Throw - Show in UI
+~~~
+
+#### Fixes
+~~~
+Fixed Parallax Issue
+~~~
+
+#### Changes
+~~~
+Nerfed Giants because they can't be cheesed anymore
+~~~
+</Details>
+
+### 2.1.6 - The Camping Episode- 12/8/2025
+<Details>
+   <img src="https://media.makeameme.org/created/hotfix-hotfix-everywhere.jpg">
+   <summary>Changes</summary>  
+
 #### New Additions
 ~~~
 Dwemer Pipework Reworked 4
