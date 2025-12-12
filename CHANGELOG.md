@@ -19,7 +19,7 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
-### 2.1.7 - The Camping Episode- 12/8/2025
+### 2.1.7 - The Camping Episode - 12/8/2025
 <Details>
    <img src="https://media.makeameme.org/created/hotfix-hotfix-everywhere.jpg">
    <summary>Changes</summary>  
@@ -44,7 +44,7 @@ Nerfed Giants because they can't be cheesed anymore
 ~~~
 </Details>
 
-### 2.1.6 - The Camping Episode- 12/8/2025
+### 2.1.6 - The Camping Episode - 12/8/2025
 <Details>
    <img src="https://media.makeameme.org/created/hotfix-hotfix-everywhere.jpg">
    <summary>Changes</summary>  
@@ -116,7 +116,7 @@ Added Soaps To Inn Keepers
 ~~~
 </Details>
 
-### 2.1.5 - The Camping Episode- 12/5/2025
+### 2.1.5 - The Camping Episode - 12/5/2025
 <Details>
    <img src="https://media.makeameme.org/created/hotfix-hotfix-everywhere.jpg">
    <summary>Changes</summary>  
@@ -134,7 +134,7 @@ Added few more armor to Bandit leveled List Thanks Undeniable
 ~~~
 </Details>
 
-### 2.1.4 - The Camping Episode- 12/3/2025
+### 2.1.4 - The Camping Episode - 12/3/2025
 <Details>
    <img src="https://media.makeameme.org/created/hotfix-hotfix-everywhere.jpg">
    <summary>Changes</summary>  
@@ -164,7 +164,7 @@ Completely Removed Vanilla start option from AP Start
 ~~~
 </Details>
 
-### 2.1.2 - The Camping Episode- 12/1/2025
+### 2.1.2 - The Camping Episode - 12/1/2025
 <Details>
    <img src="https://media.makeameme.org/created/hotfix-hotfix-everywhere.jpg">
    <summary>Changes</summary>  
@@ -197,7 +197,7 @@ Removed balance patch for Magicka Surge. Its alteration Spell now. But it still 
 ~~~
 </Details>
 
-### 2.1 - The Camping Episode- 11/29/2025
+### 2.1 - The Camping Episode - 11/29/2025
 <Details>
    <img src="https://raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/main/Resources/CampingEpisode.jpg">
    <summary>Changes</summary>  
