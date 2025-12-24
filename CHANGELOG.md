@@ -19,6 +19,312 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
+### 2.2 - Unnamed - x/x/202x (NOT RELEASED YET)
+<Details>
+   <img src="">
+   <summary>Changes</summary>  
+
+#### New Additions
+~~~
+Auto Input Switch - Some Improvements for Mouse Users
+DF Edit NPC Replacers
+   Eola DF Edit
+   Jordis DF Edit
+   Lydia DF Edit (Updated)
+
+360 Wards
+Animated Objects Overhauled aka That is NOT a spoon
+Buyable Golden Claw
+Redoran Reverie - A Dunmer Bed Replacer (Vanilla Version)
+The Frozen Heart Paper Map for FWMF by Limon
+ELLE - Lastriem
+Faster HDT-SMP
+HDT-SMP Slot 32 Fix
+Skyforge Immersion Addon (Earn the right to use the Skyforge)
+Skyforge Weapons Replacer - From Legacy of Ysgramor
+SIGMA - Magic animations - 1st person
+Fishermen Fish (MOAR Immersion!!!!)
+I'm Walkin' Here NG with Pets
+NPC Block Loop Fix (This fixes NPC Block Issue on Behavior level)
+Swimming Mount Animation Fix
+Ultimate Optimized Scripts Compilation
+Re-Added Sunder and Wraithguard - Editable Vault Cell
+ElSopa - Gem Holders Redone
+4K Tusks (2K Version)
+4K Satchel (2K Version)
+Snazzy Silver Inkwells - Base Object Swapper (BOS)
+JellyFishFP TORCH (1st person animations series)
+WIDeadBodyCleanupScript Crash Fix
+Skyrim Cell load Freeze fix NG
+Simplicity of Snow
+Mesh Improvement Compilation - Simplicity of Snow Patch
+Snoblind
+Feris - Custom Voiced Rogue Follower
+Dynamic Pricing Framework
+NPCs React To Frenzy
+Immersive Flying Books
+
+Jayserpa's Vanilla Quest Expansions (Made a new Separator for all Jay Quest mods.)
+   Ascend - Hidden Peaks of Skyrim
+   The Innocence Lost - Quest Expansion
+   Missives - Voice and Quest Expansion
+   Why I Came to Skyrim
+   Face Sculptor Expanded
+   Take a Nap - Sleep on Chairs
+   Destroy The Dark Brotherhood - Quest Expansion
+   House of Horrors - Quest Expansion
+   Infiltration - Quest Expansion
+   Leap of Faith - A Misc Mod
+   Simple Hunting Overhaul (Updated)
+   The Whispering Door - Quest Expansion (Updated)
+~~~
+
+#### Removed
+~~~
+Auto Input Switch (Replaced by Auto Input Switch - Some Improvements for Mouse Users)
+Comprehensive Attack Rate Patch - SKSE (We Reworked the the only perk it was used for)
+Assorted mesh fixes - Parallax (Not Needed With PGPatcher)
+Animated Icebergs (Looks Weird with some of the textures)
+BENDr Riton Farmhouse Parallax III(Not Needed Anymore)
+Better Dynamic Snow SE (Replaced by Simplicity of Snow)
+   Better Dynamic Snow - Complex Parallax Materials
+   Simple Snow Improvements - The Great City of Winterhold (BOS)
+   Stretched Snow Begone Definitive Edition - Stretched Snow On Walls and Buildings Fix
+   Stretched Snow Begone Base Object Swapper Update
+   SSBG - The Great City of Winterhold 4.1 Patch
+   SSBG - COTN Agna's Mill Patch
+
+Cozy Cots - Use Those Blankets patch (Buggy)
+Drift Material Fixes (Not Needed Anymore with latest Icy Mesh Remaster)
+
+Dynamic Animal Variants SPID (Updated Textures - Fixes - Improvements - And More)
+   Bears of the North Patches (Not Needed it anymore)
+   Compatibility Patch - Fluffworks (Not Needed it anymore)
+
+HDT-SMP Flex (For Now till Author fix few issues it has)
+
+HF Culling
+   HFs - Horker Meat
+   HFs - Buttocks rest (Diverse BOS)
+   HFs - Spit and Hanging Bones
+   HFs - Diverse Satchel
+   HFs - Soul Gems Holders
+   HFs - Wall Shackle - Remodel
+   HFs - Diverse (BOS) Inkwell and Quill
+   HFs - Windhelm WoodWindows - UV FIX (Fixed in USSEP)
+   Halffaces - small edit of Cauldron
+   Halffaces - Dragonborn alcohol All-in-One
+   Halffaces - Simple Horse Teat Re-Texture
+   Halffaces - Hot Dog (dog meat replacer)
+   Halffaces - simple leg of goat retexture
+   Halffaces - a few ugly ingredients AiO
+   Eating animations - Halffaces - Apple Pie
+   Eating animations - Halffaces - Dragonborn alcohol
+
+Shaders of Solstheim - Parallax Meshes (Redundant with PGPatcher)
+Higher Poly Vanilla Dragon Skeleton and Bone Clutter 
+   Not Needed anymore with Mesh Improvement Compilation
+
+Eating animations - Apples by iimlenny patch (Replaced by Skyrim Food Expansion)
+Dragons SE - Lower Res textures (I was already compressing Textures using CAO)
+DPI Scaling Fix (Causes More Issues than it fixes)
+Remove "Late Meshes Load_separator" (Moved all mods to better location)
+Lightened Skyrim - Base Object Swapper edition
+Markarth Exterior 01 - River Water Fix
+NPC Infinite Block Fix (Switched to Smooth NPC Block Loop Fix)
+NPC Infinite Block Fix - SkyPatcher (Eww SkyPatcher)
+Rally's Water Foam
+Redoran Reverie - A Dunmer Bed Replacer (Replaced With Vanilla Replacer Version)
+Survival Mode No Prompt (We dont need it anymore)
+Sound Fix for Large Sector Drives (I thought i removed this)
+Simple Mesh Fixes (Not Needed anymore with Mesh Improvement Compilation)
+slightly Better Rock Cairns - Update (Not Needed anymore with Mesh Improvement Compilation)
+slightly Better EVIL Rock Cairns (Not Needed anymore with Mesh Improvement Compilation)
+Sovngarde Meshes - FIXES (Not Needed anymore with Mesh Improvement Compilation)
+True Directional Movement - Diagonal Sprinting Fix (Now Covered in USMP)
+Wyrmstooth - Dragons SE (Not Need anymore ♥)
+Slayable Offspring SKSE (I love Kids)
+Savage Offspring SKSE (I love Kids)
+Removed Yggdrasil Ground Version
+Farm Fences of Whiterun (Causes alot of issues with nav)
+Hype's Farmhouse Door SE 2K (No Ornaments Version) (Switched to Riton 3)
+Realistic High Altitude Treeline (I dont know why i had this)
+Myrkvior - The Flora Of Skyrim - Trees SSE (Switched to Aspen Trees)
+Simply Knock - Don't Just Walk Away From Me (Not usable with new version)
+Requiem - Simple Hunting Overhaul (Its a Part of Alchemy Redone and food overhaul)
+
+Disable Follower Collision (I'm Walkin' Here NG with Pets covers this now)
+I'm walkin' here NG (Replaced by I'm Walkin' Here NG with Pets)
+
+Scripts (Removed Because bundled with Ultimate Optimized Scripts Compilation)
+   Simplicity of Seeding
+   CritterSpawn Congestion Fix (Part of UOS and Script Call Reduction)
+   USSEP - Default2StateActivator Script Fix
+   OnMagicEffectApply Replacer Effective
+   King Olaf's Fire Festival Not Ending Fix
+   Magic Student (WIChangeLocation04) Quest Fix
+   Vampire Feed Script Fixes
+
+Gore - A Companion Mod
+   Feature Creep
+   Script Bloat 
+   ESP File is horiblly made (Please Clean it)
+   I dont want Politics in my game, I get away from real world when I play games so NTY!
+   
+Diverse NPC Movesets
+   Turns out this mod has some of the worst OAR Conditions
+   NPC with One handed weapon keep spamming Sprint Power Attacks
+
+Whiterun Re-Overhaul
+   Capital Whiterun Expansion
+   Capital Whiterun Expansion - RS Children Patch
+   Rob's Bug Fixes - Capital Whiterun Expansion
+   Capital Whiterun Expansion - More Accurate Collision
+   Fixed Meshes for Capital Whiterun Expansion
+   Fortified Whiterun
+   Fortified Whiterun - Fewer Exterior Gate Guards for Fortified Whiterun
+   A. Whiterun Expansion 1.5 Normal Version - Fortified Whiterun Patch
+   Blubbo Flags for Fortified Whiterun
+   Fortified Whiterun Dragonsreach Gate
+   FYX - Fortified Whiterun Consistency
+   Capital Fortified Whiterun - Gardion's Approach
+   Removed Capital Whiterun Fixes from "The Pigeon's Nest"
+   Removed Capital Whiterun Patch "Kynareth Replaces Talos - Civil War Consequence"
+   Removed Capital Whitrun Patch "Ivy - Whiterun - Well Overhaul"
+   Cleaned Master, Whiterun Master and Gore Patch for these changes.
+~~~
+
+#### Updated
+~~~
+Assorted Mesh Fixes
+Auri - Enhanced Voice Remastered
+BFCO NG
+Companions Dialogue Bundle
+Dynamic String Distributor
+DALC Fix Preset
+Easy Console Commands
+EmbersXD Torch Edit
+Floating Subtitles
+Gore - A Companion Mod
+Grab And Throw - Show in UI
+GKB Waves For Various Mods
+JellyFishFP CROSSBOW (1st person animations series)
+Handcarts - Base Object Swapper
+Hit The Hay - Mesh Replacer
+Hotkey Reminder
+Ivy's Riften Docks Overhaul
+JK's Interiors Patch Collection
+KreatE
+Legacy of the Dragonborn - Alternate Perspective Patch - Relic Hunter
+Line and Lure - Fishing Perks
+Lock Bashing
+LoreBox
+Lux
+Lux (patch hub)
+Lux Orbis (patch hub)
+Mesh Improvement Compilation
+No Google Maps Skyrim
+NordenUI
+Northern Roads - Collision and Placement Fix
+Object Categorization Framework - Some KID Patches - I4 - OCF
+Oathvein UI
+PGPatcher (aka ParallaxGen)
+powerofthree's Papyrus Extender
+Quick Item Transfer
+Requiem - ST - Knockdown
+SkyPrompt
+Skyking Alchemy Ingredients
+SKSE Menu Framework
+Snozz's Mods - Patch Collection
+Splashes of Skyrim
+Quick Item Transfer
+The Frozen Heart - Quest Mod
+The Pigeon's Nest
+Unofficial Skyrim Modder's Patch - USMP SE
+Vanaheimr AIO - Enhanced Rocks and Mountains Patch And Other Fixes
+
+Alternate Perspective - Alternate Start
+   Added Alternate Perspective - Alternate Start - Messenger Spawn
+   Rebuild the Patch for scratch 
+   Removed custom SWF file (No Longer needed)
+   Redecorated "APCell" Room
+   Fixed & Patched "Voiced Addon" with new AP update
+   Alternate Perspective - Voiced Addon
+~~~
+
+#### Fixes
+~~~
+Fixed Few Cells not having proper "RiftLocation" tag
+Fixed Annoying Soul Ressurection Death Music Getting Stuck
+Fixed all Annoying Water Seams around Ivarstead (Finally)
+Fixed aloot of floating stuff along the roads
+Fixed over 51 Northen road seams
+Fixed a Brazier clipping into Skyforge
+Fixed NPC with One handed weapon keep spamming sprint Power Attacks
+Fixed Combat Pathing Revolution not working
+Fixed All broken annotations for CPR
+Fixed Conflict between Solitude Docks Updated and Legacy of the Dragonborn
+Fixed Over 350 Norther Roads Floating Items
+Fixed Sunder weapon enchantments
+Fixed Sightless Pit Cell
+Fixed Solitude Fletcher Missing Walls
+Fixed Wolf Stance Skill Not working
+Fixed Blessing Redone Text Container
+Fixed Fort Greymoor Walls blocking navmesh
+Fixed Few Broken Meshes in Windhelm (Should net 2-3 fps)
+Fixed Medieval Markets Issues in Windhelm
+Fixed Vampires Taking sun damage when wearing Hooded Robes
+
+Fixed Double Markarth Exterior Water
+   This should fix flickring issue
+   This should net like 1-2 extra fps tooo
+
+Fixed Riverwood
+   Headpart, Hair and Eyes from Riverwood Overhaul showing up in Racemenu
+   Fixed some floating things in ETAC - Ivy Riverwood Combo Patch
+   Fixed Double Chest in Riverwood
+
+Fixed Navmesh 
+   Northern Roads - Ryn's Farms Patch (Thank you Daddy Czasior)
+   Northern Roads - Lux Via - Ryn's Farms Patch (Thank you Daddy Czasior)
+   Removed some Trees from Roads that were causing Nav Mesh Issues
+   Fixed Nav Mesh Issues Caused by Khajiit Has Tents
+
+Reinstalled "B.O.O.B.I.E.S (aka Immersive Icons)" for AIT Only
+   Should Fix most of the issues with Inventory Lag
+   Should Fix some dark icons too
+~~~
+
+#### Changes
+~~~
+SPID - BOS
+   I painstakingly went through load order, i converted back the BOS files I made into ESP again
+   Removed all the fluff from SPID files that are not needed or used in SkyGround
+   This resulted in reduction in Loading time by 30%-40%
+
+Race Changes
+   Forwarded all Race Changes for Giant Race from FTweaks
+
+Rebalance Kaidan
+NordenUI is now the main UI for SkyGround 
+You can buy the golden claw for LOTD from Lucan
+Disabled "Auto Input Switch - Some Improvements for Mouse Users" by default its not in controller section
+Switched to 2K BNP Female Skin (This should free of around 250-400 MB vRAM)
+Removed _SK.dds textures on esp level (This should free of around 150-350 MB vRAM)
+Real Water for Volcanic Mineral Pools (Reinstalled for more More transparent version)
+Moved Khajiit Has Tents up in load order so all city overhauls can win
+Removed a Weird looking Moss in Markarth CIty 
+ETAC Fences now uses farmhouse textures (Thanks Iyre)
+Distributed ELLE - Lastriem to Remiel
+You can now wake up at Water Stone
+Merged my own Housecarls Pre - Thaneship Patch into NPC Master Patch
+Adjusted My ENB Preset to give bit more FPS
+Streamed line UI Mods Selection
+No Awful Ugly Reachmoss - NAUR (Switched to full removal version of the mod)
+Replaced Serpentine Dragon Replacer Full Rez with Half Rez
+~~~
+</Details>
+
 ### 2.1.7 - The Camping Episode - 12/8/2025
 <Details>
    <img src="https://media.makeameme.org/created/hotfix-hotfix-everywhere.jpg">
@@ -557,7 +863,6 @@ SkyUI - Survival Mode
 Edge UI - Modern Skyrim Interface
 Woodsheds of Skyrim (Too lazy to make patches)
 Wielding Sun Stuff Hurts Vamps - Werewolf Silver Patch (Made my own)
-Drift Material Fixes (No Longer needed)
 Dirt Cliffs Enhancement - High Quality Ivy
 Vanaheimr Landscapes - Lux Patch (No Longer needed)
 Myrwatch - Editable Home Cells (Cell Bug Workaround) (No Longer needed)
