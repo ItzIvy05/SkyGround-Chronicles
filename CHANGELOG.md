@@ -19,9 +19,9 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
-### 2.2 - Unnamed - x/x/202x (NOT RELEASED YET)
+### 2.2 - The Bacon Patch - 12/26/2025 (NOT RELEASED YET)
 <Details>
-   <img src="">
+   <img src="https://i.imgflip.com/1owybx.jpg">
    <summary>Changes</summary>  
 
 #### New Additions
@@ -264,7 +264,7 @@ Fixed NPC with One handed weapon keep spamming sprint Power Attacks
 Fixed Combat Pathing Revolution not working
 Fixed All broken annotations for CPR
 Fixed Conflict between Solitude Docks Updated and Legacy of the Dragonborn
-Fixed Over 350 Norther Roads Floating Items
+Fixed Over 350 Northern Roads Floating Items
 Fixed Sunder weapon enchantments
 Fixed Sightless Pit Cell
 Fixed Solitude Fletcher Missing Walls
@@ -274,6 +274,7 @@ Fixed Fort Greymoor Walls blocking navmesh
 Fixed Few Broken Meshes in Windhelm (Should net 2-3 fps)
 Fixed Medieval Markets Issues in Windhelm
 Fixed Vampires Taking sun damage when wearing Hooded Robes
+Fixed Some snow meshes having weird parallax
 
 Fixed Double Markarth Exterior Water
    This should fix flickring issue
