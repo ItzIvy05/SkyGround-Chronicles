@@ -19,7 +19,7 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
-### 2.1.4 - The Camping Episode - 12/3/2025
+### 2.2.1 - The Camping Episode - 12/3/2025
 <Details>
    <img src="https://media1.tenor.com/m/ACspL8m5HzQAAAAd/imafiringmalaser-laser-beam.gif">
    <summary>Changes</summary>  
