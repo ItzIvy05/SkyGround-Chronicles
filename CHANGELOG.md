@@ -19,6 +19,17 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
+### 2.1.4 - The Camping Episode - 12/3/2025
+<Details>
+   <img src="https://media1.tenor.com/m/ACspL8m5HzQAAAAd/imafiringmalaser-laser-beam.gif">
+   <summary>Changes</summary>  
+    
+#### Fixes
+~~~
+Fixed Snow Chest having broken snow shaders. (Got to find new chest)
+Fixed Foxes having horse meat on them (No more killer foxes)
+~~~
+
 ### 2.2 - The Bacon Patch - 12/26/2025
 <Details>
    <img src="https://i.imgflip.com/1owybx.jpg">
