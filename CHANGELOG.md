@@ -19,7 +19,7 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
-### 2.2 - The Bacon Patch - 12/26/2025 (NOT RELEASED YET)
+### 2.2 - The Bacon Patch - 12/26/2025
 <Details>
    <img src="https://i.imgflip.com/1owybx.jpg">
    <summary>Changes</summary>  
