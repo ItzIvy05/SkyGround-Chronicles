@@ -29,6 +29,7 @@
 Fixed Snow Chest having broken snow shaders. (Got to find new chest)
 Fixed Foxes having horse meat on them (No more killer foxes)
 ~~~
+</Details>
 
 ### 2.2 - The Bacon Patch - 12/26/2025
 <Details>
