@@ -19,6 +19,19 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
+### 2.2.2 - Killer Fox No More - 12/3/2025
+<Details>
+   <img src="https://media1.tenor.com/m/ACspL8m5HzQAAAAd/imafiringmalaser-laser-beam.gif">
+   <summary>Changes</summary>  
+    
+#### Fixes
+~~~
+Carried the Fixes made by @Undeniable for food to main build
+Disabled Origin Story rewards because they were breaking static skill leveling (Temp patch till i figure out whats going on in script level)
+Readded Oathvein UI and Untarnished UI
+~~~
+</Details>
+
 ### 2.2.1 - Killer Fox No More - 12/3/2025
 <Details>
    <img src="https://media1.tenor.com/m/ACspL8m5HzQAAAAd/imafiringmalaser-laser-beam.gif">
