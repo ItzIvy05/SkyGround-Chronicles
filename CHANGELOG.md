@@ -19,6 +19,52 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
+### 2.3 - Some Nice Quality of Life Fixes - 1/2/2025
+<Details>
+   <img src="https://i.ytimg.com/vi/c1CqXC8OcSA/hq720.jpg">
+   <summary>Changes</summary>  
+    
+#### New Additions
+~~~
+Illia DF Edit
+Persistent Relations - Generic NPCs Amnesia Fix
+JellyFish Ultimate Animated Potions NG
+JellyFish ELDER SCROLL read animation
+Vampire Feeding Tweaks
+LDD - Clean Cubemap for Eyes
+~~~
+
+#### Removed
+~~~
+Requiem - ST - General NPC Tweaks
+Requiem Magic Redone - Enemy Magic Expansion - SM Tweaks Patch
+Requiem - MR Small Tweaks Patch
+~~~
+
+#### Updated
+~~~
+Ashe - Crystal Heart
+The Frozen Heart
+WIDeadBodyCleanupScript Crash Fix
+KS Hairdos SMP
+DOVAJUMP
+Publican's Perch - A Modular Bar and Shop Counter Replacer
+Biggie Traits - Requiem
+Pandora Behaviour Engine Plus
+ENBSeries Binaries
+Watchman's Whiterun Secondary Locations - Patch Collection
+Snozz's Mods - Patch Collection
+~~~
+
+#### Fixes
+~~~
+Fixed crashes from Small Tweaks
+Fixed TGC Winterhold NPC Template showing up in riverwood sometimes
+Fixed Adar Dark Face bug
+Fixed Weird Enchantment on Ring of willpower
+~~~
+</Details>
+
 ### 2.2.2 - Killer Fox No More - 12/3/2025
 <Details>
    <img src="https://media1.tenor.com/m/ACspL8m5HzQAAAAd/imafiringmalaser-laser-beam.gif">
