@@ -19,7 +19,7 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
-### 2.3 - Some Nice Quality of Life Fixes - 1/2/2025
+### 2.3 - Some Nice Quality of Life Fixes - 1/2/2026
 <Details>
    <img src="https://i.ytimg.com/vi/c1CqXC8OcSA/hq720.jpg">
    <summary>Changes</summary>  
