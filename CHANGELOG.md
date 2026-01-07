@@ -19,6 +19,86 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
+### 2.4 - More Clean up - NOT RELEASED YET
+<Details>
+   <img src="https://media1.tenor.com/m/ACspL8m5HzQAAAAd/imafiringmalaser-laser-beam.gif">
+   <summary>Changes</summary>  
+    
+#### New Additions
+~~~
+Chicken Replacer - Mihail Monsters and Animals
+Immersive Illusion Spells
+Rabbit Replacer- Mihail Monsters and Animals (SE-AE version)
+Hanging Dead Rabbits Replacer- Mihail's Shards of Immersion (SE-AE version)
+Hagraven - New models and Textures
+~~~
+
+#### Removed
+~~~
+Armory of the Dragon Cult - Dragon Priest Armor
+Bathing in Skyrim - Renewed - Stress and Fear Patch (Made my own)
+Crows - Optimized Textures
+Mihail Ravens - Optimized Meshes
+Noble Skyrim Clutter - 2K
+Fluffworks - Bellyaches Horses Standalone
+Bellyaches Animal and Creature Pack
+HD Reworked Bears 4K
+Real Rabbits HD (Replaced by Mihail Rabbit Replacer)
+Real Rabbits HD - SPID Edition
+MM- Real Cows
+MM - REAL ELKS
+Fluffworks - MM Real Cows Patch
+Fluffworks - MM Real Elks Patch
+Hag Claw and Hawk Beak (Replaced by Skyking Alchemy Ingredients)
+RUSTIC DRAGONS - Special Edition (Already Replaced by Dragons SE)
+Revered Dragon Retexture (Already Replaced by Dragons SE)
+Hagraven.by.Kajuan(Replaced by Hagraven - New models and Textures)
+Lurkers - Monsters of Hermaeus Mora (Part of RUSTIC DAEDRA - Special Edition)
+Arvak - My version by Xtudo (IDK why i have this in first place)
+Fluffy Spiders (I dont like how they look and perf hit is not worth it)
+Bellyaches Animal and Creature Pack
+
+Bears of the North (Fluff works come with it)
+   Bears of the North - COTN Winterhold Add-On
+   Wall mounted dead animals - Bears of the North
+
+Wizarding Traversal Magic (Replaced by Immersive Illusion Spells)
+   Makes vampire weird to fight
+   Script heavy
+
+Top Hats from Mudcrabs
+Vanilla Wolf Texture Upscaled (Works For Fluffworks)
+HD Reworked Bears 4K
+~~~
+
+#### Updated
+~~~
+Camping Plus Plus - A CC Camping Overhaul
+NordenUI
+Serana Dialogue Expansion
+Biggie Traits - Racial Traits
+Requiem - Food and Beverages Redone
+Dragon Priest Retexture SE
+Dynamic Things Alternative - Base Object Swapper
+Fluffworks - Tweaks and Expansion
+KrittaKitty's Realistic Primitive Horse Breeds - Port Update Fluff
+~~~
+
+#### Fixes
+~~~
+Fixed Camping Plus Plus Log Spam (Thank you missile)
+~~~
+
+#### Changes
+~~~
+Rebalanced Bathing in Skyrim and Stress and Fear
+   To make stress and fear little less annoying
+
+Cold Rebalanced it will be slightly more hard
+Merged some of my old patches into master patchers
+~~~
+</Details>
+
 ### 2.3 - Some Nice Quality of Life Fixes - 1/2/2026
 <Details>
    <img src="https://i.ytimg.com/vi/c1CqXC8OcSA/hq720.jpg">
