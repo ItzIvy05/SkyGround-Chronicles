@@ -19,7 +19,7 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
-### 2.2.3 - Killer Fox No More - 12/3/2025
+### 2.4 - End of an Era - 1/13/2026
 <Details>
    <img src="https://media1.tenor.com/m/ACspL8m5HzQAAAAd/imafiringmalaser-laser-beam.gif">
    <summary>Changes</summary>  
