@@ -21,7 +21,7 @@
 
 ### 2.4 - End of an Era - 1/13/2026
 <Details>
-   <img src="https://media1.tenor.com/m/ACspL8m5HzQAAAAd/imafiringmalaser-laser-beam.gif">
+   <img src="https://media.tenor.com/3DgPrjlFOtcAAAAM/friends-hugd.gif">
    <summary>Changes</summary>  
     
 #### New Additions
