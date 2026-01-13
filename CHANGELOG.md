@@ -19,22 +19,38 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
-### 2.4 - More Clean up - NOT RELEASED YET
+### 2.2.3 - Killer Fox No More - 12/3/2025
 <Details>
    <img src="https://media1.tenor.com/m/ACspL8m5HzQAAAAd/imafiringmalaser-laser-beam.gif">
    <summary>Changes</summary>  
     
 #### New Additions
 ~~~
+Nordic UI (As a Option)
 Chicken Replacer - Mihail Monsters and Animals
 Immersive Illusion Spells
 Rabbit Replacer- Mihail Monsters and Animals (SE-AE version)
 Hanging Dead Rabbits Replacer- Mihail's Shards of Immersion (SE-AE version)
 Hagraven - New models and Textures
+Renthal's workbench
+Read It Now
+Simple Timed Block
+Stagger Effect Fix
+Dtry Key Util Stuck Keys fix
+Fort Fellhammer
+Shame of Skyrim
+Complete Vanilla Eye Overhaul (CVEO) by LDD
+Alternative Riften - Revived and Optimized
 ~~~
 
 #### Removed
 ~~~
+The Dragonborn's Bestiary - Requiem Patch (Replaced by custom version by monkeyangie)
+SkyPatcher (SkyShit is no more)
+Soul Resurrection - Injury and Alternative Death System
+Soul Resurrection Addon - Reduced Experience and Fade Out Effect
+Soul Resurrection - Stress and Fear Integration
+Mortal Enemies - SkyPatcher
 Armory of the Dragon Cult - Dragon Priest Armor
 Bathing in Skyrim - Renewed - Stress and Fear Patch (Made my own)
 Crows - Optimized Textures
@@ -57,6 +73,15 @@ Lurkers - Monsters of Hermaeus Mora (Part of RUSTIC DAEDRA - Special Edition)
 Arvak - My version by Xtudo (IDK why i have this in first place)
 Fluffy Spiders (I dont like how they look and perf hit is not worth it)
 Bellyaches Animal and Creature Pack
+Pfuscher's mods - AIO
+Sekiro Combat S
+Sekiro Combat S - Timed Block Adjustment
+CritterSpawn Congestion Fix - Script Call Reduction (Already Part USMP)
+Modern Lighting Overhaul (MLO) Tweaked Lux Lux Via Lux Orbis Patch for ENB
+
+SMIM 4K - Cleaned and Upscaled Textures 
+   Almost everything is already getting replaced by other mods
+   Not worth extra 4gb space
 
 Bears of the North (Fluff works come with it)
    Bears of the North - COTN Winterhold Add-On
@@ -73,20 +98,78 @@ HD Reworked Bears 4K
 
 #### Updated
 ~~~
+Ashe
+DynDOLOD Resources SE 3.00
+DynDOLOD 3 Alpha
 Camping Plus Plus - A CC Camping Overhaul
 NordenUI
 Serana Dialogue Expansion
 Biggie Traits - Racial Traits
 Requiem - Food and Beverages Redone
-Dragon Priest Retexture SE
 Dynamic Things Alternative - Base Object Swapper
 Fluffworks - Tweaks and Expansion
 KrittaKitty's Realistic Primitive Horse Breeds - Port Update Fluff
+WIDeadBodyCleanupScript Crash Fix
+Water for ENB
+Lock Bashing
+Widescreen Scale Removed
+Icy Mesh Remaster
+SKSE Menu Framework
+RedBag's Rorikstead - Barley Dark
+S.T.A.R. (So This Aint Right)
+Docks of Riverwood
+Object Categorization Framework - Some KID Patches - I4 - OCF
+Ivy Riverwood Overhaul
+Kezyma's Root Builder for Mod Organizer
+Assorted Mesh Fixes
+
+
+Xavbio Armor Replacer
+   Ancient Nord Armors and Weapons Retexture SE
+   Bonemold Armors and Weapons Retexture SE
+   Chitin Armors Retexture SE
+   Common Clothing Retexture SE
+   Dark Brotherhood Armors Retexture SE
+   Daedric Armors and Weapons Retexture SE
+   Divine Crusader Retexture SE
+   Dragon Armors and Weapons Retexture SE
+   Dragon Priest Retexture SE
+   Dwanguard Armors and Weapons Retexture SE
+   Ebony Armors and Weapons Retexture SE
+   Elven Armors and Weapons Retexture SE
+   Falmer Armors and Weapons Retexture SE
+   Forsworn Armors and Weapons Retexture SE
+   Ghosts of the Tribunal Retexture SE
+   Glass Armors and Weapons Retexture SE
+   Guards and Stormcloaks Armors Retexture SE
+   Imperial Armors and Weapons Retexture SE
+   Iron Armors and Weapons Retexture SE
+   Leather Armors Retexture SE
+   Nightengale Armor and Weapons Retexture SE
+   Orcish Armors and Weapons Retexture SE
+   Robes Retexture SE
+   Saints and Seducers Retexture SE
+   Silver Armor and Weapons Retexture SE
+   Spell Knight Armors Retexture SE
+   Stalhrim Armors and Weapons Retexture SE
+   Steel Armors and Weapons Retexture SE
+   Thieves Guild Armors Retexture SE
+   Unique Armors and Weapons Retexture SE
+   Vampire Armors and Weapons Retexture SE
+   Vigil Enforcer Retexture SE
+   Wolf Armor and Weapons Retexture SE
 ~~~
 
 #### Fixes
 ~~~
 Fixed Camping Plus Plus Log Spam (Thank you missile)
+Fixed Hotkey Reminder Prompt (My mistake)
+Fixed Critters not working at all
+Fixed Very major 3 types of Script Stacks
+Fixed BFCO Log Spam
+Fixed aloot of NPC Records (thanks Undeniable)
+Fixed Markart Missing full mountain
+Fixed some riverwood issues
 ~~~
 
 #### Changes
@@ -96,6 +179,11 @@ Rebalanced Bathing in Skyrim and Stress and Fear
 
 Cold Rebalanced it will be slightly more hard
 Merged some of my old patches into master patchers
+
+More BOS Files Cleanup
+
+Merged
+   SMIM - Quality Addon & SMIM - Improvement Mod into main SMIM
 ~~~
 </Details>
 
