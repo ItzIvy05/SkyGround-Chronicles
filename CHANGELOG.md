@@ -27,8 +27,17 @@
     
 #### New Additions
 ~~~
-Better Bears
-Faction Armors and Weapons Retexture
+Assorted Behavior Fixes
+Akaviri Hats Pack
+Ysolda DF Edit
+Creation Cave - Creation Club Reintegration
+Faction Armors and Weapons Retexture (Custom Integration)
+CC Tundra Homestead - Tweaks and Enhancements (THTE)
+Morihaus' Refuge - Lord's Mail Reintegration (Custom Integration)
+Kachunk - Creation Club Crossbow Distribution (Custom Integration)
+Thwack - Crossbow Collection Reworked (Custom Integration)
+Catir Club - Immersive Creation Club Integration (Custom Integration)
+The Gift of Saturalia - A Quest for the Holidays (Custom Integration)
 ~~~
 
 #### Removed
@@ -38,6 +47,26 @@ moreHUD SE - Legacy Settings Loader
 moreHUD Inventory Edition
 Purchasable CC Camping Supplies (CID) (Patched it on ESP Level)
 Xavbio meshes - HDT-SMP 3BA patch
+Praedy's OCW - Lux - Optimized (Replaced with better and more custom optimized meshes)
+Biggie Traits - Requiem (Made our Own)
+Diverse Dragons Collection SE (DDCse) - Settings Loader (Why i have this yo???)
+Requiem - Kaidan CE (Made our own)
+Xelzaz - Custom Fully Voiced Argonian Telvanni Follower - Xelzaz Anniversary Edition Update
+CC Bittercup - Tweaks and Enhancements (For Now till Lux Gets Updated)
+Creation Club - Nchuanthumz - Dwarven Home
+CC Bittercup - Tweaks and Enhancements (replaced by Slampire's Creation Cave)
+Carriage Ferry Travel Overhaul (CFTO) Bittercup Fix
+Tundra Homestead Exterior Cleanup
+Bow of Shadows - Reduced Cut (In favour of Creation Cave - Creation Club Reintegration)
+
+CC USCCCP (Everything is disabled is been distributed in the world)
+   Unofficial Skyrim Creation Club Content Patches
+   Unofficial Skyrim Creation Club Content Patches - Restored Helmets
+   Requiem - CC Armors Restored
+   CC Hendraheim - Tweaks and Enhancements (HenTE) - USCCP Patch
+   CC Myrwatch - Tweaks and Enhancements - USCCP Merged Patch
+   Sunder and Wraithguard - Editable Vault Cell (Cell Bug Workaround)
+   Sunder and Wraithguard - Editable Vault Cell (Cell Bug Workaround) - USCCCP Patch
 
 Legacy of The Dragonborn
    Legacy of The Dragonborn Perk Menus
@@ -79,13 +108,21 @@ Legacy of The Dragonborn
    Ancient Dwemer Metal - My patches - LOTD Dwemer Compass Replacer 2K SE
    Falmer Overhaul - SE by Xtudo - LOTD patch
 
-Bears of the North
-   Bears of the North - COTN Winterhold Add-On
-   Bears of the North - Trophies HOTFIX
-   Bears of the North - Glowing Bear Fix
+Trad Patches
+   Trad - AE - CC - Collection - Requiem Patch
+   Requiem - CC Mount Integration (Not compatible with Requiem 6)
+   Trad - AE Saints and Seducers - Rare Curios - Requiem Patch
+   Trad - AE Saints and Seducers - Rare Curios - Requiem Patch
+   Trad - AE Saints and Seducers - Extended Cut - Requiem Patch
+   Requiem - Mage Clothing Expansion - MCE and Trad AE CC Collection Patch
+   Requiem - Extended Cut Saints and Seducers (ECSS)
+
+Strange Runes (Janky if it gets get fixed for Script stack i will added it back)
+   Alternative runes - Strange runes texture mod
+   Runic Arts - Strange runes visual overhaul
+   Strange Runes - Settings Loader
 
 Replaced by Faction Armors and Weapons Retexture
-   
    Dark Brotherhood Armors Retexture SE
    Dawnguard Armors and Weapons Retexture SE
    Forsworn Armors and Weapons Retexture SE
@@ -93,7 +130,6 @@ Replaced by Faction Armors and Weapons Retexture
    Thieves Guild Armors Retexture SE
    Vampire Armors and Weapons Retexture SE
    Wolf Armor and Weapons Retexture SE
-   
 ~~~
 
 #### Updated
@@ -109,18 +145,35 @@ JK's Raven Rock Patch Collection
 Skyrim Bandit Expansion
 CBBE 3BA Vanilla Outfits Redone
 Feris - Custom Voiced Rogue Follower
+Eating Animations and Sounds - First Person Patch
+Helmet Toggle 2
+CC Myrwatch - Tweaks and Enhancements
+Vampire Animations
+Icy Mesh Remaster
+SKSE Menu Framework
 ~~~
 
 #### Fixes
 ~~~
 Fixed some messed up container for ECSS because of LOTD
 Fixed Light Portal flags for Lux Orbis
+Fixed Rogi broken Face morphs
+Fixed some vampire base lookup tables
+Fixed a requiem stamina script that i missed
+Fixed some conditions that also control stamina.
 ~~~
 
 #### Changes
 ~~~
+Crime Bounty Changes
+   Murder - 15000(Was 10000)
+   Tresspass - 500(Was 250)
+
+Room Cost - 100 (Was 50)
+Hireling Cost - 3500 (was 5000)
+Horse Cost - 3000 (was 6000)
+
 Merged SkyGround Chronicles - Guards Armor Patch into Armors Master Patch
-Dawnfang Changes Reverted to Trad for Now
 Solitude - Reqtificated merged into Solitude Master Patch
 
 Added Camping Supplies to All stores
@@ -128,6 +181,56 @@ Added Washing rags and camping stuff to Khajiit caravans
 
 Enabled 2 bandit camps from Bandit Expansion that were disabled because of LOTD
 Rebalanced and Repatched Knight of the North
+
+
+Creation Club
+   Arcane Accessories
+      Rebalance and reimplemented by CC Arcane Accessories - Tweaks and Enhancements
+   
+   Arcane Archer Pack
+       Hard nerfed
+      Almost everything is rebalanced and Leveled list for these has been disabled.
+   
+   Divine Crusader
+      Re-Implemented using Knight of the North - Divine Crusader Reworked
+
+   Plaque of The Dead Quest Disabled 
+      I don't like PoTD quest and his conquences.
+      Added Spells to Level List. you can get them when u level up
+   
+   Staff of Sheogorath, Ruin's Edge and Shadowrend
+      Integrated into EC - Saints and Seducers
+
+   Stendarr's Hammer
+      Whosoever holds this hammer, if he/she be worthy, shall possess the power of Stendarr.
+
+   Lord's Mail
+      Minotaur Have it
+
+   Adventurer's Backpack
+      Fully Custom Rebalance
+   
+   Camping
+      Overhauled by MissileMann Camping Plus Plus
+
+   Tundra Homestead
+      Repurposed into a home for Nazeem and Ahlam: Wintersand Manor.
+   
+   The Contest & Goldbrand
+       Re-Implemented using Catir Club - Immersive Creation Club Integration
+
+   Bow of Shadows - Reduced Cut
+      The Bow of Shadows is now involved in a sinister plot to kill First Councilor Morvayn in Raven Rock and can be found on display in Ashfallow Citadel during the quest "Served Cold".
+
+   
+   Creation Club - Nchuanthumz - Dwarven Home
+      Fully Removed (Because of the script issues it comeswith)
+
+   Bittercup:
+      The Champion's Helm and the Red Diamond Gladius are given to the leader of Lost Knife Cave.
+      Ironwood Trees can now be found in Spriggan groves. 
+      Their fruit can also be found in apothecary and alchemist lists as well as a potential drop from Spriggans.
+      The Bittercup can be recovered from the treasure room of Rigel Strong-Arm in Pinewatch.
 ~~~
 </Details>
 
