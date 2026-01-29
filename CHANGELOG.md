@@ -40,6 +40,7 @@ Catir Club - Immersive Creation Club Integration (Custom Integration)
 The Gift of Saturalia - A Quest for the Holidays (Custom Integration)
 Sanguine Sundries - A Vampire Clutter Replacer
 First Person Height Fix SKSE
+Alternate Conversation Camera
 ~~~
 
 #### Removed
@@ -54,7 +55,7 @@ Biggie Traits - Requiem (Made our Own)
 Diverse Dragons Collection SE (DDCse) - Settings Loader (Why i have this yo???)
 Requiem - Kaidan CE (Made our own)
 Xelzaz - Custom Fully Voiced Argonian Telvanni Follower - Xelzaz Anniversary Edition Update
-CC Bittercup - Tweaks and Enhancements (For Now till Lux Gets Updated)
+CC Bittercup - Tweaks and Enhancements (replaced by Creation Cave)
 Creation Club - Nchuanthumz - Dwarven Home
 CC Bittercup - Tweaks and Enhancements (replaced by Slampire's Creation Cave)
 Carriage Ferry Travel Overhaul (CFTO) Bittercup Fix
@@ -63,6 +64,7 @@ Bow of Shadows - Reduced Cut (In favour of Creation Cave - Creation Club Reinteg
 Read It Now (Get stuck and blocks too much)
 Parrying RPG (LeoneKingzz version) (Does not work with BFCO and BFCO is getting its own thing)
 JK Riften Outskirts (Just didnt wanted to combo patch 6 mods)
+Improved Alternate Conversation Camera
 
 CC USCCCP (Everything is disabled is been distributed in the world)
    Unofficial Skyrim Creation Club Content Patches
