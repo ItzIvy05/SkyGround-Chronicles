@@ -29,7 +29,7 @@
 ~~~
 Assorted Behavior Fixes
 Akaviri Hats Pack
-Ysolda DF Edit
+De NPCs - Ysolda Overhaul by LDD
 Creation Cave - Creation Club Reintegration
 Faction Armors and Weapons Retexture (Custom Integration)
 CC Tundra Homestead - Tweaks and Enhancements (THTE)
@@ -38,6 +38,8 @@ Kachunk - Creation Club Crossbow Distribution (Custom Integration)
 Thwack - Crossbow Collection Reworked (Custom Integration)
 Catir Club - Immersive Creation Club Integration (Custom Integration)
 The Gift of Saturalia - A Quest for the Holidays (Custom Integration)
+Sanguine Sundries - A Vampire Clutter Replacer
+First Person Height Fix SKSE
 ~~~
 
 #### Removed
@@ -58,6 +60,9 @@ CC Bittercup - Tweaks and Enhancements (replaced by Slampire's Creation Cave)
 Carriage Ferry Travel Overhaul (CFTO) Bittercup Fix
 Tundra Homestead Exterior Cleanup
 Bow of Shadows - Reduced Cut (In favour of Creation Cave - Creation Club Reintegration)
+Read It Now (Get stuck and blocks too much)
+Parrying RPG (LeoneKingzz version) (Does not work with BFCO and BFCO is getting its own thing)
+JK Riften Outskirts (Just didnt wanted to combo patch 6 mods)
 
 CC USCCCP (Everything is disabled is been distributed in the world)
    Unofficial Skyrim Creation Club Content Patches
@@ -141,6 +146,7 @@ JK's Blue Palace Terrace
 COTN Dawnstar Patch Collection
 COTN Falkreath Patch Collection
 Great Town of Ivarstead Patch Collection
+JK's Raven Rock
 JK's Raven Rock Patch Collection
 Skyrim Bandit Expansion
 CBBE 3BA Vanilla Outfits Redone
@@ -151,6 +157,12 @@ CC Myrwatch - Tweaks and Enhancements
 Vampire Animations
 Icy Mesh Remaster
 SKSE Menu Framework
+Natural Waterfalls
+Ashe - Crystal Heart
+Enhanced Rocks and Mountains - Addon
+The Frozen Heart
+SkyPrompt
+JK's Tel Mithryn Patch Collection
 ~~~
 
 #### Fixes
@@ -161,6 +173,10 @@ Fixed Rogi broken Face morphs
 Fixed some vampire base lookup tables
 Fixed a requiem stamina script that i missed
 Fixed some conditions that also control stamina.
+Fixed lighting templates in Ashe Patch
+Fixed my own startup mod spaming log
+Fixed Requiem startup quest
+Fixed Landscape seam in riften farms
 ~~~
 
 #### Changes
@@ -181,7 +197,14 @@ Added Washing rags and camping stuff to Khajiit caravans
 
 Enabled 2 bandit camps from Bandit Expansion that were disabled because of LOTD
 Rebalanced and Repatched Knight of the North
+Lights On now uses Lux Orbis bulbs
+All "Lights-On" lanters are now marked with "Portal Strict" flag
+People now judge you if u dont take baths
 
+Custom DAK (Dynamic Activation Key) help buttons display prompts for: 
+   Vampire & Werewolf - Feed Keys
+   Book - Take & Read keys
+   Armor & Weapons - Equip Keys
 
 Creation Club
    Arcane Accessories
@@ -190,6 +213,9 @@ Creation Club
    Arcane Archer Pack
        Hard nerfed
       Almost everything is rebalanced and Leveled list for these has been disabled.
+
+   Civil War Champions
+      Removes the dumb "Battle of Champions" quest. Receive either champion set just before the final siege on Windhelm or Solitude instead.
    
    Divine Crusader
       Re-Implemented using Knight of the North - Divine Crusader Reworked
@@ -222,6 +248,8 @@ Creation Club
    Bow of Shadows - Reduced Cut
       The Bow of Shadows is now involved in a sinister plot to kill First Councilor Morvayn in Raven Rock and can be found on display in Ashfallow Citadel during the quest "Served Cold".
 
+   Shadowfoot Sanctum
+      Puchase requires being Guildmaster of the Thieves Guild.
    
    Creation Club - Nchuanthumz - Dwarven Home
       Fully Removed (Because of the script issues it comeswith)
