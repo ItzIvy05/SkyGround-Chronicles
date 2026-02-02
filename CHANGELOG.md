@@ -41,6 +41,8 @@ The Gift of Saturalia - A Quest for the Holidays (Custom Integration)
 Sanguine Sundries - A Vampire Clutter Replacer
 First Person Height Fix SKSE
 Alternate Conversation Camera
+OBody Next Generation - Yet Another Settings Loader
+JS Unique Utopia SE - Rings
 ~~~
 
 #### Removed
@@ -165,6 +167,7 @@ Enhanced Rocks and Mountains - Addon
 The Frozen Heart
 SkyPrompt
 JK's Tel Mithryn Patch Collection
+Survival Mode Improved - SKSE
 ~~~
 
 #### Fixes
@@ -179,6 +182,7 @@ Fixed lighting templates in Ashe Patch
 Fixed my own startup mod spaming log
 Fixed Requiem startup quest
 Fixed Landscape seam in riften farms
+Fixed Arcadia Keeps trying to kick u off the shop
 ~~~
 
 #### Changes
