@@ -47,6 +47,7 @@ Simple Hunting Overhaul - MCM
 HorsePower - Modernized Horse Riding (Total Riding Overhaul)
 Armors of the Velothi Pt. I
 Armors of the Velothi Pt. II
+ValArt - Hanging Moss
 ~~~
 
 #### Removed
@@ -71,6 +72,7 @@ Read It Now (Get stuck and blocks too much)
 Parrying RPG (LeoneKingzz version) (Does not work with BFCO and BFCO is getting its own thing)
 JK Riften Outskirts (Just didnt wanted to combo patch 6 mods)
 Improved Alternate Conversation Camera
+Skyking Hanging Moss (Replaced by ValArt - Hanging Moss)
 
 Horse Overhaul (Replaced by HorsePower)
    Horse Animation Overhaul (WIP - OAR)
@@ -196,7 +198,7 @@ Fixed Requiem startup quest
 Fixed Landscape seam in riften farms
 Fixed Arcadia Keeps trying to kick u off the shop
 Fixed Mannequin Stalking player (Maybe)
-Fixed Immersive Hunting Animations not working (Just dont ask too many question about this one)
+Fixed Immersive Hunting Animations not working (Just dont ask any question about this one)
 ~~~
 
 #### Changes
