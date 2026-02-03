@@ -43,6 +43,10 @@ First Person Height Fix SKSE
 Alternate Conversation Camera
 OBody Next Generation - Yet Another Settings Loader
 JS Unique Utopia SE - Rings
+Simple Hunting Overhaul - MCM
+HorsePower - Modernized Horse Riding (Total Riding Overhaul)
+Armors of the Velothi Pt. I
+Armors of the Velothi Pt. II
 ~~~
 
 #### Removed
@@ -67,6 +71,12 @@ Read It Now (Get stuck and blocks too much)
 Parrying RPG (LeoneKingzz version) (Does not work with BFCO and BFCO is getting its own thing)
 JK Riften Outskirts (Just didnt wanted to combo patch 6 mods)
 Improved Alternate Conversation Camera
+
+Horse Overhaul (Replaced by HorsePower)
+   Horse Animation Overhaul (WIP - OAR)
+   Thundertrot Horse Animations - Thundertrot Directional Move
+   Thundertrot Directional Move Patch - HAO
+   Horse Jump Fix
 
 CC USCCCP (Everything is disabled is been distributed in the world)
    Unofficial Skyrim Creation Club Content Patches
@@ -168,6 +178,8 @@ The Frozen Heart
 SkyPrompt
 JK's Tel Mithryn Patch Collection
 Survival Mode Improved - SKSE
+Growl - Werebeasts of Skyrim
+Alternative Riften - Revived and Optimized
 ~~~
 
 #### Fixes
@@ -183,6 +195,8 @@ Fixed my own startup mod spaming log
 Fixed Requiem startup quest
 Fixed Landscape seam in riften farms
 Fixed Arcadia Keeps trying to kick u off the shop
+Fixed Mannequin Stalking player (Maybe)
+Fixed Immersive Hunting Animations not working (Just dont ask too many question about this one)
 ~~~
 
 #### Changes
