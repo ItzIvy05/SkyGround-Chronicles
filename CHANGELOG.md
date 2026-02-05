@@ -182,6 +182,7 @@ JK's Tel Mithryn Patch Collection
 Survival Mode Improved - SKSE
 Growl - Werebeasts of Skyrim
 Alternative Riften - Revived and Optimized
+Stress and Fear - A Dynamic Sanity System
 ~~~
 
 #### Fixes
