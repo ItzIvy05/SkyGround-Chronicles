@@ -27,25 +27,28 @@
     
 #### New Additions
 ~~~
-Assorted Behavior Fixes
 Akaviri Hats Pack
-Creation Cave - Creation Club Reintegration
-Faction Armors and Weapons Retexture (Custom Integration)
-CC Tundra Homestead - Tweaks and Enhancements (THTE)
-Morihaus' Refuge - Lord's Mail Reintegration (Custom Integration)
-Kachunk - Creation Club Crossbow Distribution (Custom Integration)
-Thwack - Crossbow Collection Reworked (Custom Integration)
-Catir Club - Immersive Creation Club Integration (Custom Integration)
-The Gift of Saturalia - A Quest for the Holidays (Custom Integration)
-Sanguine Sundries - A Vampire Clutter Replacer
-First Person Height Fix SKSE
 Alternate Conversation Camera
-OBody Next Generation - Settings Loader
-JS Unique Utopia SE - Rings
-Simple Hunting Overhaul - MCM
-HorsePower - Modernized Horse Riding (Total Riding Overhaul)
 Armors of the Velothi Pt. I
 Armors of the Velothi Pt. II
+Assorted Behavior Fixes
+CC Tundra Homestead - Tweaks and Enhancements (THTE)
+Catir Club - Immersive Creation Club Integration (Custom Integration)
+Creation Cave - Creation Club Reintegration
+Faction Armors and Weapons Retexture (Custom Integration)
+First Person Height Fix SKSE
+HorsePower - Modernized Horse Riding (Total Riding Overhaul)
+JS Unique Utopia SE - Rings
+Kachunk - Creation Club Crossbow Distribution (Custom Integration)
+Lund's Hamlet - An Overhaul
+Morihaus' Refuge - Lord's Mail Reintegration (Custom Integration)
+OBody Next Generation - Settings Loader
+Sanguine Sundries - A Vampire Clutter Replacer
+Simple Hunting Overhaul - MCM
+Skyrim on Skooma
+The Cursed Tribe - Quest Expansion
+The Gift of Saturalia - A Quest for the Holidays (Custom Integration)
+Thwack - Crossbow Collection Reworked (Custom Integration)
 ValArt - Hanging Moss
 Ysolda DF Edit
 ~~~
@@ -158,40 +161,42 @@ Replaced by Faction Armors and Weapons Retexture
 
 #### Updated
 ~~~
+Alternative Riften - Revived and Optimized
+Ashe - Crystal Heart
 Biggie Traits
-Embers XD
-Ivy Riverwood Overhaul
-JK's Interiors Patch Collection
-JK's Blue Palace Terrace
+CBBE 3BA Vanilla Outfits Redone
+CC Myrwatch - Tweaks and Enhancements
 COTN Dawnstar Patch Collection
 COTN Falkreath Patch Collection
+DD - Jewelry Replacer by Vergi
+Dynamic Pricing Framework
+Eating Animations and Sounds - First Person Patch
+Embers XD
+Enhanced Rocks and Mountains - Addon
+Feris - Custom Voiced Rogue Follower
 Great Town of Ivarstead Patch Collection
+Growl - Werebeasts of Skyrim
+Helmet Toggle 2
+Icy Mesh Remaster
+Ivy Riverwood Overhaul
+JK's Blue Palace Terrace
+JK's Interiors Patch Collection
 JK's Raven Rock
 JK's Raven Rock Patch Collection
-Skyrim Bandit Expansion
-CBBE 3BA Vanilla Outfits Redone
-Feris - Custom Voiced Rogue Follower
-Eating Animations and Sounds - First Person Patch
-Helmet Toggle 2
-CC Myrwatch - Tweaks and Enhancements
-Vampire Animations
-Icy Mesh Remaster
-SKSE Menu Framework
-Natural Waterfalls
-Ashe - Crystal Heart
-Enhanced Rocks and Mountains - Addon
-The Frozen Heart
-SkyPrompt
 JK's Tel Mithryn Patch Collection
-Survival Mode Improved - SKSE
-Growl - Werebeasts of Skyrim
-Alternative Riften - Revived and Optimized
-Stress and Fear - A Dynamic Sanity System
-RYFTEN DOWN - A little addition to the Riften canal
-DD - Jewelry Replacer by Vergi
-Object Categorization Framework - Some KID Patches - I4 - OCF
-Oathvein UI
 Malignis Animations - Conditions
+Missives - Voice and Quest Expansion
+Natural Waterfalls
+Oathvein UI
+Object Categorization Framework - Some KID Patches - I4 - OCF
+RYFTEN DOWN - A little addition to the Riften canal
+SKSE Menu Framework
+SkyPrompt
+Skyrim Bandit Expansion
+Stress and Fear - A Dynamic Sanity System
+Survival Mode Improved - SKSE
+The Frozen Heart
+Vampire Animations
 ~~~
 
 #### Fixes
