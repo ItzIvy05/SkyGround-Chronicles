@@ -29,7 +29,6 @@
 ~~~
 Assorted Behavior Fixes
 Akaviri Hats Pack
-De NPCs - Ysolda Overhaul by LDD
 Creation Cave - Creation Club Reintegration
 Faction Armors and Weapons Retexture (Custom Integration)
 CC Tundra Homestead - Tweaks and Enhancements (THTE)
@@ -41,13 +40,14 @@ The Gift of Saturalia - A Quest for the Holidays (Custom Integration)
 Sanguine Sundries - A Vampire Clutter Replacer
 First Person Height Fix SKSE
 Alternate Conversation Camera
-OBody Next Generation - Yet Another Settings Loader
+OBody Next Generation - Settings Loader
 JS Unique Utopia SE - Rings
 Simple Hunting Overhaul - MCM
 HorsePower - Modernized Horse Riding (Total Riding Overhaul)
 Armors of the Velothi Pt. I
 Armors of the Velothi Pt. II
 ValArt - Hanging Moss
+Ysolda DF Edit
 ~~~
 
 #### Removed
@@ -73,6 +73,9 @@ Parrying RPG (LeoneKingzz version) (Does not work with BFCO and BFCO is getting 
 JK Riften Outskirts (Just didnt wanted to combo patch 6 mods)
 Improved Alternate Conversation Camera
 Skyking Hanging Moss (Replaced by ValArt - Hanging Moss)
+XPMSSE - Nemesis - Papyrus Stack Fix
+XP32 Maximum Skeleton Special Extended - Fixed Scripts
+Optimised Scripts for XPMSSE
 
 Horse Overhaul (Replaced by HorsePower)
    Horse Animation Overhaul (WIP - OAR)
@@ -155,6 +158,7 @@ Replaced by Faction Armors and Weapons Retexture
 
 #### Updated
 ~~~
+Biggie Traits
 Embers XD
 Ivy Riverwood Overhaul
 JK's Interiors Patch Collection
@@ -183,6 +187,11 @@ Survival Mode Improved - SKSE
 Growl - Werebeasts of Skyrim
 Alternative Riften - Revived and Optimized
 Stress and Fear - A Dynamic Sanity System
+RYFTEN DOWN - A little addition to the Riften canal
+DD - Jewelry Replacer by Vergi
+Object Categorization Framework - Some KID Patches - I4 - OCF
+Oathvein UI
+Malignis Animations - Conditions
 ~~~
 
 #### Fixes
