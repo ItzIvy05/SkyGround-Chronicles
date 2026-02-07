@@ -32,17 +32,21 @@ Alternate Conversation Camera
 Armors of the Velothi Pt. I
 Armors of the Velothi Pt. II
 Assorted Behavior Fixes
+Better Shaped Riften Bridges
 CC Tundra Homestead - Tweaks and Enhancements (THTE)
 Catir Club - Immersive Creation Club Integration (Custom Integration)
 Creation Cave - Creation Club Reintegration
+Extended UI - Settings Loader
 Faction Armors and Weapons Retexture (Custom Integration)
 First Person Height Fix SKSE
+Fura DF Edit
 HorsePower - Modernized Horse Riding (Total Riding Overhaul)
 JS Unique Utopia SE - Rings
 Kachunk - Creation Club Crossbow Distribution (Custom Integration)
 Lund's Hamlet - An Overhaul
 Morihaus' Refuge - Lord's Mail Reintegration (Custom Integration)
 OBody Next Generation - Settings Loader
+Ring of Khajiit - Replacer
 Sanguine Sundries - A Vampire Clutter Replacer
 Simple Hunting Overhaul - MCM
 Skyrim on Skooma
@@ -51,6 +55,13 @@ The Gift of Saturalia - A Quest for the Holidays (Custom Integration)
 Thwack - Crossbow Collection Reworked (Custom Integration)
 ValArt - Hanging Moss
 Ysolda DF Edit
+
+WeelBones Replacers
+   Far-Shield Overhaul
+   Faralda Overhaul
+   Saadia Overhaul
+   Sapphire's Overhaul
+   Vex's Overhaul
 ~~~
 
 #### Removed
@@ -79,6 +90,7 @@ Skyking Hanging Moss (Replaced by ValArt - Hanging Moss)
 XPMSSE - Nemesis - Papyrus Stack Fix
 XP32 Maximum Skeleton Special Extended - Fixed Scripts
 Optimised Scripts for XPMSSE
+Salt and Wind - KS Hairdo's SMP Retexture
 
 Horse Overhaul (Replaced by HorsePower)
    Horse Animation Overhaul (WIP - OAR)
@@ -163,6 +175,7 @@ Replaced by Faction Armors and Weapons Retexture
 ~~~
 Alternative Riften - Revived and Optimized
 Ashe - Crystal Heart
+Bathing in Skyrim - Renewed - You Reek - Updated
 Biggie Traits
 CBBE 3BA Vanilla Outfits Redone
 CC Myrwatch - Tweaks and Enhancements
@@ -174,6 +187,7 @@ Eating Animations and Sounds - First Person Patch
 Embers XD
 Enhanced Rocks and Mountains - Addon
 Feris - Custom Voiced Rogue Follower
+First Person Interactions
 Great Town of Ivarstead Patch Collection
 Growl - Werebeasts of Skyrim
 Helmet Toggle 2
@@ -184,9 +198,11 @@ JK's Interiors Patch Collection
 JK's Raven Rock
 JK's Raven Rock Patch Collection
 JK's Tel Mithryn Patch Collection
+Locked Chests Have Keys - Patch Collection
 Malignis Animations - Conditions
 Missives - Voice and Quest Expansion
 Natural Waterfalls
+NordenUI
 Oathvein UI
 Object Categorization Framework - Some KID Patches - I4 - OCF
 RYFTEN DOWN - A little addition to the Riften canal
@@ -195,6 +211,8 @@ SkyPrompt
 Skyrim Bandit Expansion
 Stress and Fear - A Dynamic Sanity System
 Survival Mode Improved - SKSE
+Swiftly Order Squad - Follower Commands UI
+The Frozen Heart
 The Frozen Heart
 Vampire Animations
 ~~~
