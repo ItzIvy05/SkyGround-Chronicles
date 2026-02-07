@@ -41,6 +41,8 @@ Faction Armors and Weapons Retexture (Custom Integration)
 First Person Height Fix SKSE
 Fura DF Edit
 HorsePower - Modernized Horse Riding (Total Riding Overhaul)
+JS Vanilla Circlets SE
+JS Unique Utopia SE - Daggers
 JS Unique Utopia SE - Rings
 Kachunk - Creation Club Crossbow Distribution (Custom Integration)
 Lund's Hamlet - An Overhaul
