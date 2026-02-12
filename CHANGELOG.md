@@ -39,18 +39,22 @@ Creation Cave - Creation Club Reintegration
 Extended UI - Settings Loader
 Faction Armors and Weapons Retexture (Custom Integration)
 First Person Height Fix SKSE
+Follower Stats
+Frost Atronach SE
 Fura DF Edit
 HorsePower - Modernized Horse Riding (Total Riding Overhaul)
-JS Vanilla Circlets SE
 JS Unique Utopia SE - Daggers
 JS Unique Utopia SE - Rings
+JS Vanilla Circlets SE
 Kachunk - Creation Club Crossbow Distribution (Custom Integration)
+Knockback SKSE (For BFCO and MCO Users)
 Lund's Hamlet - An Overhaul
 Morihaus' Refuge - Lord's Mail Reintegration (Custom Integration)
 OBody Next Generation - Settings Loader
 Ring of Khajiit - Replacer
 Sanguine Sundries - A Vampire Clutter Replacer
 Simple Hunting Overhaul - MCM
+Simplicity of Splatter - High-Res Blood Textures
 Skyrim on Skooma
 The Cursed Tribe - Quest Expansion
 The Gift of Saturalia - A Quest for the Holidays (Custom Integration)
@@ -68,31 +72,32 @@ WeelBones Replacers
 
 #### Removed
 ~~~
-moreHUD SE
-moreHUD SE - Legacy Settings Loader
-moreHUD Inventory Edition
-Purchasable CC Camping Supplies (CID) (Patched it on ESP Level)
-Xavbio meshes - HDT-SMP 3BA patch
-Praedy's OCW - Lux - Optimized (Replaced with better and more custom optimized meshes)
 Biggie Traits - Requiem (Made our Own)
-Diverse Dragons Collection SE (DDCse) - Settings Loader (Why i have this yo???)
-Requiem - Kaidan CE (Made our own)
-Xelzaz - Custom Fully Voiced Argonian Telvanni Follower - Xelzaz Anniversary Edition Update
+Bow of Shadows - Reduced Cut (In favour of Creation Cave - Creation Club Reintegration)
 CC Bittercup - Tweaks and Enhancements (replaced by Creation Cave)
-Creation Club - Nchuanthumz - Dwarven Home
 CC Bittercup - Tweaks and Enhancements (replaced by Slampire's Creation Cave)
 Carriage Ferry Travel Overhaul (CFTO) Bittercup Fix
-Tundra Homestead Exterior Cleanup
-Bow of Shadows - Reduced Cut (In favour of Creation Cave - Creation Club Reintegration)
-Read It Now (Get stuck and blocks too much)
-Parrying RPG (LeoneKingzz version) (Does not work with BFCO and BFCO is getting its own thing)
-JK Riften Outskirts (Just didnt wanted to combo patch 6 mods)
+Creation Club - Nchuanthumz - Dwarven Home
+Diverse Dragons Collection SE (DDCse) - Settings Loader (Why i have this yo???)
 Improved Alternate Conversation Camera
-Skyking Hanging Moss (Replaced by ValArt - Hanging Moss)
-XPMSSE - Nemesis - Papyrus Stack Fix
-XP32 Maximum Skeleton Special Extended - Fixed Scripts
+JK Riften Outskirts (Just didnt wanted to combo patch 6 mods)
 Optimised Scripts for XPMSSE
+Parrying RPG (LeoneKingzz version) (Does not work with BFCO and BFCO is getting its own thing)
+Praedy's OCW - Lux - Optimized (Replaced with better and more custom optimized meshes)
+Purchasable CC Camping Supplies (CID) (Patched it on ESP Level)
+Read It Now (Get stuck and blocks too much)
+Requiem - Kaidan CE (Made our own)
 Salt and Wind - KS Hairdo's SMP Retexture
+Skyking Hanging Moss (Replaced by ValArt - Hanging Moss)
+Tundra Homestead Exterior Cleanup
+Unaggressive Dragon Priests Fix (Not Needed with Humanoid Dragon Priests)
+XP32 Maximum Skeleton Special Extended - Fixed Scripts
+XPMSSE - Nemesis - Papyrus Stack Fix
+Xavbio meshes - HDT-SMP 3BA patch
+Xelzaz - Custom Fully Voiced Argonian Telvanni Follower - Xelzaz Anniversary Edition Update
+moreHUD Inventory Edition
+moreHUD SE
+moreHUD SE - Legacy Settings Loader
 
 Horse Overhaul (Replaced by HorsePower)
    Horse Animation Overhaul (WIP - OAR)
@@ -108,6 +113,9 @@ CC USCCCP (Everything is disabled is been distributed in the world)
    CC Myrwatch - Tweaks and Enhancements - USCCP Merged Patch
    Sunder and Wraithguard - Editable Vault Cell (Cell Bug Workaround)
    Sunder and Wraithguard - Editable Vault Cell (Cell Bug Workaround) - USCCCP Patch
+
+Expanded Towns and Cities (Unfortunately we have to say goodbye to this GOAT)
+   Modpocalypse NPCs - Expanded Towns and Cities - Complete
 
 Legacy of The Dragonborn
    Legacy of The Dragonborn Perk Menus
@@ -177,14 +185,17 @@ Replaced by Faction Armors and Weapons Retexture
 ~~~
 Alternative Riften - Revived and Optimized
 Ashe - Crystal Heart
+B612 - my little asteroid of useful UI components
 Bathing in Skyrim - Renewed - You Reek - Updated
 Biggie Traits
 CBBE 3BA Vanilla Outfits Redone
 CC Myrwatch - Tweaks and Enhancements
 COTN Dawnstar Patch Collection
 COTN Falkreath Patch Collection
+Caught Red Handed - Quest Expansion
 DD - Jewelry Replacer by Vergi
 Dynamic Pricing Framework
+Easy Console Commands
 Eating Animations and Sounds - First Person Patch
 Embers XD
 Enhanced Rocks and Mountains - Addon
@@ -195,6 +206,7 @@ Growl - Werebeasts of Skyrim
 Helmet Toggle 2
 Icy Mesh Remaster
 Ivy Riverwood Overhaul
+Ivy Stendarr Beacon Overhaul
 JK's Blue Palace Terrace
 JK's Interiors Patch Collection
 JK's Raven Rock
@@ -207,33 +219,38 @@ Natural Waterfalls
 NordenUI
 Oathvein UI
 Object Categorization Framework - Some KID Patches - I4 - OCF
+Psychopatchist Purgatory
 RYFTEN DOWN - A little addition to the Riften canal
 SKSE Menu Framework
 SkyPrompt
 Skyrim Bandit Expansion
+So This Aint Right (S.T.A.R.)
 Stress and Fear - A Dynamic Sanity System
 Survival Mode Improved - SKSE
 Swiftly Order Squad - Follower Commands UI
 The Frozen Heart
 The Frozen Heart
+The Great Village of Kynesgrove Patch Collection
 Vampire Animations
+Why I Came to Skyrim
 ~~~
 
 #### Fixes
 ~~~
-Fixed some messed up container for ECSS because of LOTD
+Fixed Arcadia Keeps trying to kick u off the shop
+Fixed Immersive Hunting Animations not working (Just dont ask any question about this one)
+Fixed Landscape seam in riften farms
 Fixed Light Portal flags for Lux Orbis
+Fixed Mannequin Stalking player (Maybe)
+Fixed Requiem startup quest
 Fixed Rogi broken Face morphs
-Fixed some vampire base lookup tables
 Fixed a requiem stamina script that i missed
-Fixed some conditions that also control stamina.
+Fixed bunch of issues in Ivarstead
 Fixed lighting templates in Ashe Patch
 Fixed my own startup mod spaming log
-Fixed Requiem startup quest
-Fixed Landscape seam in riften farms
-Fixed Arcadia Keeps trying to kick u off the shop
-Fixed Mannequin Stalking player (Maybe)
-Fixed Immersive Hunting Animations not working (Just dont ask any question about this one)
+Fixed some conditions that also control stamina.
+Fixed some messed up container for ECSS because of LOTD
+Fixed some vampire base lookup tables
 ~~~
 
 #### Changes
@@ -257,6 +274,7 @@ Rebalanced and Repatched Knight of the North
 Lights On now uses Lux Orbis bulbs
 All "Lights-On" lanters are now marked with "Portal Strict" flag
 People now judge you if u dont take baths
+Rebalanced Bathing with stress and fear Taking bath will now reduce stress by 50 (was 25)
 
 Custom DAK (Dynamic Activation Key) help buttons display prompts for: 
    Vampire & Werewolf - Feed Keys
