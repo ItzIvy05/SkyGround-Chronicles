@@ -36,7 +36,6 @@ Better Shaped Riften Bridges
 CC Tundra Homestead - Tweaks and Enhancements (THTE)
 Catir Club - Immersive Creation Club Integration (Custom Integration)
 Creation Cave - Creation Club Reintegration
-Extended UI - Settings Loader
 Faction Armors and Weapons Retexture (Custom Integration)
 First Person Height Fix SKSE
 Follower Stats
@@ -79,6 +78,7 @@ CC Bittercup - Tweaks and Enhancements (replaced by Slampire's Creation Cave)
 Carriage Ferry Travel Overhaul (CFTO) Bittercup Fix
 Creation Club - Nchuanthumz - Dwarven Home
 Diverse Dragons Collection SE (DDCse) - Settings Loader (Why i have this yo???)
+Extended UI (Bugs out aloot)
 Improved Alternate Conversation Camera
 JK Riften Outskirts (Just didnt wanted to combo patch 6 mods)
 Optimised Scripts for XPMSSE
@@ -98,6 +98,7 @@ Xelzaz - Custom Fully Voiced Argonian Telvanni Follower - Xelzaz Anniversary Edi
 moreHUD Inventory Edition
 moreHUD SE
 moreHUD SE - Legacy Settings Loader
+Trade and Barter (I only care about one feature from this that i will make it myself in future.)
 
 Horse Overhaul (Replaced by HorsePower)
    Horse Animation Overhaul (WIP - OAR)
@@ -263,6 +264,9 @@ Room Cost - 100 (Was 50)
 Hireling Cost - 3500 (was 5000)
 Horse Cost - 3000 (was 6000)
 
+Perk Changes & Fixes
+   Swapped Subterfuge & Stances location in Perk Tree so stances is closer to Combat
+
 Merged SkyGround Chronicles - Guards Armor Patch into Armors Master Patch
 Solitude - Reqtificated merged into Solitude Master Patch
 
@@ -286,7 +290,7 @@ Creation Club
       Rebalance and reimplemented by CC Arcane Accessories - Tweaks and Enhancements
    
    Arcane Archer Pack
-       Hard nerfed
+      Hard nerfed
       Almost everything is rebalanced and Leveled list for these has been disabled.
 
    Civil War Champions
