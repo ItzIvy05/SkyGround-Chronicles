@@ -60,6 +60,11 @@ The Gift of Saturalia - A Quest for the Holidays (Custom Integration)
 Thwack - Crossbow Collection Reworked (Custom Integration)
 ValArt - Hanging Moss
 Ysolda DF Edit
+Manbeast - A Werewolf Overhaul (Replacing Growl)
+HFs - Chests - remodel
+Block Cancel Fix
+TS - Cities of the North - Morthal Addon Hjaalmarch
+True Directional Movement Mounted Archery Fix
 
 WeelBones Replacers
    Far-Shield Overhaul
@@ -99,6 +104,13 @@ moreHUD Inventory Edition
 moreHUD SE
 moreHUD SE - Legacy Settings Loader
 Trade and Barter (I only care about one feature from this that i will make it myself in future.)
+
+Growl - Werebeasts of Skyrim
+   Requiem - Growl
+   Growl Sacrilege Bite - Argh Urgh Gurgle
+
+   Reasons: We are saying goodbye to Growl and Switching to Manbeast.
+   Growl breaks more time than it works and "Growl" feature never worked properly
 
 Horse Overhaul (Replaced by HorsePower)
    Horse Animation Overhaul (WIP - OAR)
@@ -234,6 +246,11 @@ The Frozen Heart
 The Great Village of Kynesgrove Patch Collection
 Vampire Animations
 Why I Came to Skyrim
+ChickenMike's Random Assortment of Patches 
+Crash Logger SSE AE VR - PDB support
+Camping Plus Plus
+Dynamic Activation Key - Addons Collection
+AFDI - Aetherium Forge Destroys Items
 ~~~
 
 #### Fixes
@@ -252,6 +269,7 @@ Fixed my own startup mod spaming log
 Fixed some conditions that also control stamina.
 Fixed some messed up container for ECSS because of LOTD
 Fixed some vampire base lookup tables
+Fixewd Water seams in Morthal
 ~~~
 
 #### Changes
@@ -272,6 +290,9 @@ Solitude - Reqtificated merged into Solitude Master Patch
 
 Added Camping Supplies to All stores
 Added Washing rags and camping stuff to Khajiit caravans
+
+Stealth:
+Huge Buff to Requiem Detection Cone this makes the stealth more viable 
 
 Enabled 2 bandit camps from Bandit Expansion that were disabled because of LOTD
 Rebalanced and Repatched Knight of the North
