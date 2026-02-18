@@ -27,54 +27,58 @@
     
 #### New Additions
 ~~~
+Actor Value Generator
 Akaviri Hats Pack
 Alternate Conversation Camera
+Apostasy Framework
 Armors of the Velothi Pt. I
 Armors of the Velothi Pt. II
 Assorted Behavior Fixes
 Better Shaped Riften Bridges
+Better Storm Call
+Block Cancel Fix
+CC Gallows Hall - Tweaks and Enhancements (GHTE)
 CC Tundra Homestead - Tweaks and Enhancements (THTE)
+CC's HQ Buckets
 Catir Club - Immersive Creation Club Integration (Custom Integration)
 Creation Cave - Creation Club Reintegration
 Faction Armors and Weapons Retexture (Custom Integration)
 First Person Height Fix SKSE
 Follower Stats
+Fort Takeovers Framework
 Frost Atronach SE
 Fura DF Edit
+HFs - Chests - remodel
+HFs - Imperial jail grates - remodel
 HorsePower - Modernized Horse Riding (Total Riding Overhaul)
+Ilinmere Tower
+Imperial Thalmor Stormcloak Patrols Fixes
 JS Unique Utopia SE - Daggers
 JS Unique Utopia SE - Rings
 JS Vanilla Circlets SE
 Kachunk - Creation Club Crossbow Distribution (Custom Integration)
 Knockback SKSE (For BFCO and MCO Users)
+Lexicon SKSE
 Lund's Hamlet - An Overhaul
+Manbeast - A Werewolf Overhaul (Replacing Growl)
 Morihaus' Refuge - Lord's Mail Reintegration (Custom Integration)
 OBody Next Generation - Settings Loader
 Ring of Khajiit - Replacer
 Sanguine Sundries - A Vampire Clutter Replacer
 Simple Hunting Overhaul - MCM
 Simplicity of Splatter - High-Res Blood Textures
+Skyrim Realistic Conquering - Valtheim Towers
 Skyrim on Skooma
+TS - Cities of the North - Morthal Addon Hjaalmarch
+The Chantry - An Overhaul
 The Cursed Tribe - Quest Expansion
 The Gift of Saturalia - A Quest for the Holidays (Custom Integration)
 Thwack - Crossbow Collection Reworked (Custom Integration)
-ValArt - Hanging Moss
-Ysolda DF Edit
-Manbeast - A Werewolf Overhaul (Replacing Growl)
-HFs - Chests - remodel
-Block Cancel Fix
-TS - Cities of the North - Morthal Addon Hjaalmarch
 True Directional Movement Mounted Archery Fix
-Ilinmere Tower
-Better Storm Call
-CC Gallows Hall - Tweaks and Enhancements (GHTE)
-Fort Takeovers Framework
-Skyrim Realistic Conquering - Valtheim Towers
-The Chantry - An Overhaul
-Imperial Thalmor Stormcloak Patrols Fixes
-HFs - Imperial jail grates - remodel
-CC's HQ Buckets
+ValArt - Hanging Moss
 Weathered Buckets Retexture - 4K - 2K
+Ysolda DF Edit
+aTweaks and Utilities
 
 WeelBones Replacers
    Far-Shield Overhaul
@@ -88,10 +92,12 @@ WeelBones Replacers
 ~~~
 Biggie Traits - Requiem (Made our Own)
 Bow of Shadows - Reduced Cut (In favour of Creation Cave - Creation Club Reintegration)
+Bucket Enrichment
 CC Bittercup - Tweaks and Enhancements (replaced by Creation Cave)
 CC Bittercup - Tweaks and Enhancements (replaced by Slampire's Creation Cave)
 Carriage Ferry Travel Overhaul (CFTO) Bittercup Fix
 Creation Club - Nchuanthumz - Dwarven Home
+DSI AOS ISC Patch(Replaced by lilebonymace's patches)
 Diverse Dragons Collection SE (DDCse) - Settings Loader (Why i have this yo???)
 Extended UI (Bugs out aloot)
 Improved Alternate Conversation Camera
@@ -101,9 +107,12 @@ Parrying RPG (LeoneKingzz version) (Does not work with BFCO and BFCO is getting 
 Praedy's OCW - Lux - Optimized (Replaced with better and more custom optimized meshes)
 Purchasable CC Camping Supplies (CID) (Patched it on ESP Level)
 Read It Now (Get stuck and blocks too much)
+Requiem - Blessings Redone
+Requiem - Blessings Redone - Addon
 Requiem - Kaidan CE (Made our own)
 Salt and Wind - KS Hairdo's SMP Retexture
 Skyking Hanging Moss (Replaced by ValArt - Hanging Moss)
+Trade and Barter (I only care about one feature from this that i will make it myself in future.)
 Tundra Homestead Exterior Cleanup
 Unaggressive Dragon Priests Fix (Not Needed with Humanoid Dragon Priests)
 XP32 Maximum Skeleton Special Extended - Fixed Scripts
@@ -113,11 +122,6 @@ Xelzaz - Custom Fully Voiced Argonian Telvanni Follower - Xelzaz Anniversary Edi
 moreHUD Inventory Edition
 moreHUD SE
 moreHUD SE - Legacy Settings Loader
-Trade and Barter (I only care about one feature from this that i will make it myself in future.)
-DSI AOS ISC Patch(Replaced by lilebonymace's patches)
-Requiem - Blessings Redone
-Requiem - Blessings Redone - Addon
-Bucket Enrichment
 
 Growl - Werebeasts of Skyrim
    Requiem - Growl
@@ -210,17 +214,24 @@ Replaced by Faction Armors and Weapons Retexture
 
 #### Updated
 ~~~
+AFDI - Aetherium Forge Destroys Items
 Alternative Riften - Revived and Optimized
 Ashe - Crystal Heart
 B612 - my little asteroid of useful UI components
 Bathing in Skyrim - Renewed - You Reek - Updated
 Biggie Traits
+Bleak Falls Tower
 CBBE 3BA Vanilla Outfits Redone
 CC Myrwatch - Tweaks and Enhancements
 COTN Dawnstar Patch Collection
 COTN Falkreath Patch Collection
+Camping Plus Plus
 Caught Red Handed - Quest Expansion
+ChickenMike's Random Assortment of Patches
+Core Impact Framework (CIF)
+Crash Logger SSE AE VR - PDB support
 DD - Jewelry Replacer by Vergi
+Dynamic Activation Key - Addons Collection
 Dynamic Pricing Framework
 Easy Console Commands
 Eating Animations and Sounds - First Person Patch
@@ -230,6 +241,7 @@ Feris - Custom Voiced Rogue Follower
 First Person Interactions
 Great Town of Ivarstead Patch Collection
 Growl - Werebeasts of Skyrim
+HSF Male Furniture Idles
 Helmet Toggle 2
 Icy Mesh Remaster
 Ivy Riverwood Overhaul
@@ -246,9 +258,12 @@ Natural Waterfalls
 NordenUI
 Oathvein UI
 Object Categorization Framework - Some KID Patches - I4 - OCF
+Perk Entry Point Extender
 Psychopatchist Purgatory
 RYFTEN DOWN - A little addition to the Riften canal
+RedBag's Falkreath - Bear's Cave Mill Addon
 SKSE Menu Framework
+Sanguine Symphony
 SkyPrompt
 Skyrim Bandit Expansion
 So This Aint Right (S.T.A.R.)
@@ -258,20 +273,10 @@ Swiftly Order Squad - Follower Commands UI
 The Frozen Heart
 The Frozen Heart
 The Great Village of Kynesgrove Patch Collection
+The Pigeon's Nest
 Vampire Animations
 Why I Came to Skyrim
-ChickenMike's Random Assortment of Patches 
-Crash Logger SSE AE VR - PDB support
-Camping Plus Plus
-Dynamic Activation Key - Addons Collection
-AFDI - Aetherium Forge Destroys Items
-Core Impact Framework (CIF)
-Sanguine Symphony
-HSF Male Furniture Idles
 lilebonymace's patches
-RedBag's Falkreath - Bear's Cave Mill Addon
-Perk Entry Point Extender
-Bleak Falls Tower
 ~~~
 
 #### Fixes
@@ -292,7 +297,9 @@ Fixed some messed up container for ECSS because of LOTD
 Fixed some vampire base lookup tables
 Fixed Water seams in Morthal
 Fixed Magic Redone not properly working because of Immersive Sounds Compendium and my stupid mistake
-Fixed 
+Fixed Huge FPS Drop cused by Metal Gates
+Fixed FPS Drop near Valtheim Tower
+Fixed FPS Drop in Whiterun 
 ~~~
 
 #### Changes
@@ -314,8 +321,7 @@ Solitude - Reqtificated merged into Solitude Master Patch
 Added Camping Supplies to All stores
 Added Washing rags and camping stuff to Khajiit caravans
 
-Stealth:
-Huge Buff to Requiem Detection Cone this makes the stealth more viable 
+Stealth - Huge Buff to Requiem Detection Cone this makes the stealth more viable 
 
 Enabled 2 bandit camps from Bandit Expansion that were disabled because of LOTD
 Rebalanced and Repatched Knight of the North
@@ -323,6 +329,7 @@ Lights On now uses Lux Orbis bulbs
 All "Lights-On" lanters are now marked with "Portal Strict" flag
 People now judge you if u dont take baths
 Rebalanced Bathing with stress and fear Taking bath will now reduce stress by 50 (was 25)
+You guys should have a atleast 10-15 fps more in Whiterun and Riften
 
 Custom DAK (Dynamic Activation Key) help buttons display prompts for: 
    Vampire & Werewolf - Feed Keys
