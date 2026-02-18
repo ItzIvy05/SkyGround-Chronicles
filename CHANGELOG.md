@@ -65,6 +65,16 @@ HFs - Chests - remodel
 Block Cancel Fix
 TS - Cities of the North - Morthal Addon Hjaalmarch
 True Directional Movement Mounted Archery Fix
+Ilinmere Tower
+Better Storm Call
+CC Gallows Hall - Tweaks and Enhancements (GHTE)
+Fort Takeovers Framework
+Skyrim Realistic Conquering - Valtheim Towers
+The Chantry - An Overhaul
+Imperial Thalmor Stormcloak Patrols Fixes
+HFs - Imperial jail grates - remodel
+CC's HQ Buckets
+Weathered Buckets Retexture - 4K - 2K
 
 WeelBones Replacers
    Far-Shield Overhaul
@@ -104,6 +114,10 @@ moreHUD Inventory Edition
 moreHUD SE
 moreHUD SE - Legacy Settings Loader
 Trade and Barter (I only care about one feature from this that i will make it myself in future.)
+DSI AOS ISC Patch(Replaced by lilebonymace's patches)
+Requiem - Blessings Redone
+Requiem - Blessings Redone - Addon
+Bucket Enrichment
 
 Growl - Werebeasts of Skyrim
    Requiem - Growl
@@ -251,6 +265,13 @@ Crash Logger SSE AE VR - PDB support
 Camping Plus Plus
 Dynamic Activation Key - Addons Collection
 AFDI - Aetherium Forge Destroys Items
+Core Impact Framework (CIF)
+Sanguine Symphony
+HSF Male Furniture Idles
+lilebonymace's patches
+RedBag's Falkreath - Bear's Cave Mill Addon
+Perk Entry Point Extender
+Bleak Falls Tower
 ~~~
 
 #### Fixes
@@ -269,7 +290,9 @@ Fixed my own startup mod spaming log
 Fixed some conditions that also control stamina.
 Fixed some messed up container for ECSS because of LOTD
 Fixed some vampire base lookup tables
-Fixewd Water seams in Morthal
+Fixed Water seams in Morthal
+Fixed Magic Redone not properly working because of Immersive Sounds Compendium and my stupid mistake
+Fixed 
 ~~~
 
 #### Changes
