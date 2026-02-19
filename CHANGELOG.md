@@ -34,6 +34,8 @@ Apostasy Framework
 Armors of the Velothi Pt. I
 Armors of the Velothi Pt. II
 Assorted Behavior Fixes
+Archon - Faiths of Tamriel
+Ashe - Cystal Heart - SkyGround Chronicles
 Better Shaped Riften Bridges
 Better Storm Call
 Block Cancel Fix
@@ -50,9 +52,11 @@ Frost Atronach SE
 Fura DF Edit
 HFs - Chests - remodel
 HFs - Imperial jail grates - remodel
+Halted Stream Camp (Main File) (Full Version)
 HorsePower - Modernized Horse Riding (Total Riding Overhaul)
 Ilinmere Tower
 Imperial Thalmor Stormcloak Patrols Fixes
+Improved College Entry - Questline Tweaks
 JS Unique Utopia SE - Daggers
 JS Unique Utopia SE - Rings
 JS Vanilla Circlets SE
@@ -100,6 +104,9 @@ Creation Club - Nchuanthumz - Dwarven Home
 DSI AOS ISC Patch(Replaced by lilebonymace's patches)
 Diverse Dragons Collection SE (DDCse) - Settings Loader (Why i have this yo???)
 Extended UI (Bugs out aloot)
+Halted Stream Camp Interior Only
+Inigo Official Patch SE
+Inigo AE Survival Mode Food Overhaul
 Improved Alternate Conversation Camera
 JK Riften Outskirts (Just didnt wanted to combo patch 6 mods)
 Optimised Scripts for XPMSSE
@@ -107,9 +114,13 @@ Parrying RPG (LeoneKingzz version) (Does not work with BFCO and BFCO is getting 
 Praedy's OCW - Lux - Optimized (Replaced with better and more custom optimized meshes)
 Purchasable CC Camping Supplies (CID) (Patched it on ESP Level)
 Read It Now (Get stuck and blocks too much)
+Requiem of the Green
+Requiem - Remiel
+Requiem - Xelzaz
 Requiem - Blessings Redone
 Requiem - Blessings Redone - Addon
 Requiem - Kaidan CE (Made our own)
+Ryn's Halted Stream Camp
 Salt and Wind - KS Hairdo's SMP Retexture
 Skyking Hanging Moss (Replaced by ValArt - Hanging Moss)
 Trade and Barter (I only care about one feature from this that i will make it myself in future.)
@@ -262,6 +273,7 @@ Perk Entry Point Extender
 Psychopatchist Purgatory
 RYFTEN DOWN - A little addition to the Riften canal
 RedBag's Falkreath - Bear's Cave Mill Addon
+Requiem - Food and Beverages Redone
 SKSE Menu Framework
 Sanguine Symphony
 SkyPrompt
@@ -304,6 +316,10 @@ Fixed FPS Drop in Whiterun
 
 #### Changes
 ~~~
+Followers Changes
+   Full follower rebalance: Every single modded follower and Serana has now been rebalanced, Thanks to Undeniable.
+   Ashe, Inigo, Feris and Remi can now pick locks using Requiem Lockpicking system
+
 Crime Bounty Changes
    Murder - 15000(Was 10000)
    Tresspass - 500(Was 250)
@@ -322,6 +338,12 @@ Added Camping Supplies to All stores
 Added Washing rags and camping stuff to Khajiit caravans
 
 Stealth - Huge Buff to Requiem Detection Cone this makes the stealth more viable 
+
+College Entry Overhauled
+   No longer you get a random spell, now you get options to select in between
+   No longer you get spells for 30 Coin
+   You have to be good enough in basic magic (think of it like you are joining college after high school)
+   This annoyed me for almost a year now, finally fixed it with Improved College Entry and custom tweaks on top of it.
 
 Enabled 2 bandit camps from Bandit Expansion that were disabled because of LOTD
 Rebalanced and Repatched Knight of the North
