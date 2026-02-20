@@ -64,6 +64,8 @@ JS Unique Utopia SE - Rings
 JS Vanilla Circlets SE
 Kachunk - Creation Club Crossbow Distribution (Custom Integration)
 Knockback SKSE (For BFCO and MCO Users)
+LDD - Better Eye Shape for HPH
+The Great Town of Karthwasten SSE
 Lexicon SKSE
 Lund's Hamlet - An Overhaul
 Manbeast - A Werewolf Overhaul (Replacing Growl)
@@ -71,6 +73,7 @@ Morihaus' Refuge - Lord's Mail Reintegration (Custom Integration)
 OBody Next Generation - Settings Loader
 One Quiver to Rule Them All
 Ring of Khajiit - Replacer
+Rayek's End - SSE Expanded Edition
 Sanguine Sundries - A Vampire Clutter Replacer
 Simple Hunting Overhaul - MCM
 Skyrim Realistic Conquering - Valtheim Towers
@@ -256,9 +259,12 @@ Enhanced Rocks and Mountains - Addon
 E L D E R . E N B
 Feris - Custom Voiced Rogue Follower
 First Person Interactions
+Fort Greymoor
 Great Town of Ivarstead Patch Collection
 Growl - Werebeasts of Skyrim
 Granite Hill - Cut Content Restoration
+RedBag's Falkreath - Granite Hill Addon
+Grab and Eat
 HSF Male Furniture Idles
 Helmet Toggle 2
 Icy Mesh Remaster
@@ -272,6 +278,7 @@ JK's Tel Mithryn Patch Collection
 Locked Chests Have Keys - Patch Collection
 Malignis Animations - Conditions
 Missives - Voice and Quest Expansion
+Missile's IED Preset - Immersive Equipment Displays
 Natural Waterfalls
 NordenUI
 Northern Roads Patch Collection
@@ -284,6 +291,7 @@ RYFTEN DOWN - A little addition to the Riften canal
 RedBag's Falkreath - Bear's Cave Mill Addon
 Requiem - Food and Beverages Redone
 Robber's Gorge 
+RoastGorilla439's Patch Collection
 Steal off Scoundrels - Pickpocketing Criminals is Not Stealing
 SKSE Menu Framework
 Sanguine Symphony
@@ -294,6 +302,7 @@ Stress and Fear - A Dynamic Sanity System
 Survival Mode Improved - SKSE
 Swiftly Order Squad - Follower Commands UI
 Snazzy Misc Locations AIO
+Snozz's Mods - Patch Collection
 The Frozen Heart
 The Frozen Heart
 The Great Village of Kynesgrove Patch Collection
