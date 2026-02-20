@@ -52,8 +52,10 @@ Frost Atronach SE
 Fura DF Edit
 HFs - Chests - remodel
 HFs - Imperial jail grates - remodel
+Hair Collection v2 by Koralina
 Halted Stream Camp (Main File) (Full Version)
 HorsePower - Modernized Horse Riding (Total Riding Overhaul)
+Heljarchen Creek - A Nightgate Inn Overhaul
 Ilinmere Tower
 Imperial Thalmor Stormcloak Patrols Fixes
 Improved College Entry - Questline Tweaks
@@ -67,12 +69,14 @@ Lund's Hamlet - An Overhaul
 Manbeast - A Werewolf Overhaul (Replacing Growl)
 Morihaus' Refuge - Lord's Mail Reintegration (Custom Integration)
 OBody Next Generation - Settings Loader
+One Quiver to Rule Them All
 Ring of Khajiit - Replacer
 Sanguine Sundries - A Vampire Clutter Replacer
 Simple Hunting Overhaul - MCM
-Simplicity of Splatter - High-Res Blood Textures
 Skyrim Realistic Conquering - Valtheim Towers
 Skyrim on Skooma
+Skyrim Mounted Movesets for Horsepower
+Sabrecats of Skyrim - CS ENB Fur Parallax
 TS - Cities of the North - Morthal Addon Hjaalmarch
 The Chantry - An Overhaul
 The Cursed Tribe - Quest Expansion
@@ -121,6 +125,7 @@ Requiem - Blessings Redone
 Requiem - Blessings Redone - Addon
 Requiem - Kaidan CE (Made our own)
 Ryn's Halted Stream Camp
+SABRECAT.by.Kajuan
 Salt and Wind - KS Hairdo's SMP Retexture
 Skyking Hanging Moss (Replaced by ValArt - Hanging Moss)
 Trade and Barter (I only care about one feature from this that i will make it myself in future.)
@@ -248,10 +253,12 @@ Easy Console Commands
 Eating Animations and Sounds - First Person Patch
 Embers XD
 Enhanced Rocks and Mountains - Addon
+E L D E R . E N B
 Feris - Custom Voiced Rogue Follower
 First Person Interactions
 Great Town of Ivarstead Patch Collection
 Growl - Werebeasts of Skyrim
+Granite Hill - Cut Content Restoration
 HSF Male Furniture Idles
 Helmet Toggle 2
 Icy Mesh Remaster
@@ -267,13 +274,17 @@ Malignis Animations - Conditions
 Missives - Voice and Quest Expansion
 Natural Waterfalls
 NordenUI
+Northern Roads Patch Collection
 Oathvein UI
 Object Categorization Framework - Some KID Patches - I4 - OCF
 Perk Entry Point Extender
 Psychopatchist Purgatory
+PGPatcher (aka ParallaxGen)
 RYFTEN DOWN - A little addition to the Riften canal
 RedBag's Falkreath - Bear's Cave Mill Addon
 Requiem - Food and Beverages Redone
+Robber's Gorge 
+Steal off Scoundrels - Pickpocketing Criminals is Not Stealing
 SKSE Menu Framework
 Sanguine Symphony
 SkyPrompt
@@ -282,10 +293,12 @@ So This Aint Right (S.T.A.R.)
 Stress and Fear - A Dynamic Sanity System
 Survival Mode Improved - SKSE
 Swiftly Order Squad - Follower Commands UI
+Snazzy Misc Locations AIO
 The Frozen Heart
 The Frozen Heart
 The Great Village of Kynesgrove Patch Collection
 The Pigeon's Nest
+TK Dodge RE Addon
 Vampire Animations
 Why I Came to Skyrim
 lilebonymace's patches
