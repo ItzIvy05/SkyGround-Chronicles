@@ -90,6 +90,10 @@ ValArt - Hanging Moss
 Weathered Buckets Retexture - 4K - 2K
 Ysolda DF Edit
 aTweaks and Utilities
+Twilight Princess Armor Mashup
+Bleak Falls Barrow Web Mother - CC The Contest Addon
+Web Mother Venom
+Nimhe - Unique Web Mother
 
 WeelBones Replacers
    Far-Shield Overhaul
@@ -141,6 +145,7 @@ Xelzaz - Custom Fully Voiced Argonian Telvanni Follower - Xelzaz Anniversary Edi
 moreHUD Inventory Edition
 moreHUD SE
 moreHUD SE - Legacy Settings Loader
+Wine Duchess (3BA SMP)
 
 Growl - Werebeasts of Skyrim
    Requiem - Growl
@@ -374,6 +379,9 @@ All "Lights-On" lanters are now marked with "Portal Strict" flag
 People now judge you if u dont take baths
 Rebalanced Bathing with stress and fear Taking bath will now reduce stress by 50 (was 25)
 You guys should have a atleast 10-15 fps more in Whiterun and Riften
+Removed Requiem Blessing Perks from Perk Trees
+BSA Packed xLODGen Output Should save like 2 GB
+Better Third Person is Back
 
 Custom DAK (Dynamic Activation Key) help buttons display prompts for: 
    Vampire & Werewolf - Feed Keys
