@@ -247,6 +247,7 @@ Biggie Traits
 Bleak Falls Tower
 CBBE 3BA Vanilla Outfits Redone
 CC Myrwatch - Tweaks and Enhancements
+CC Farming - Tweaks Enhancements and Quest Expansion
 COTN Dawnstar Patch Collection
 COTN Falkreath Patch Collection
 Camping Plus Plus
@@ -287,6 +288,7 @@ Missile's IED Preset - Immersive Equipment Displays
 Natural Waterfalls
 NordenUI
 Northern Roads Patch Collection
+Open Animation Replacer
 Oathvein UI
 Object Categorization Framework - Some KID Patches - I4 - OCF
 Perk Entry Point Extender
