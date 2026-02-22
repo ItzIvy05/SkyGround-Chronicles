@@ -146,6 +146,7 @@ moreHUD Inventory Edition
 moreHUD SE
 moreHUD SE - Legacy Settings Loader
 Wine Duchess (3BA SMP)
+Webmother Brutality
 
 Growl - Werebeasts of Skyrim
    Requiem - Growl
