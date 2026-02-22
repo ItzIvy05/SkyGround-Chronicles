@@ -50,7 +50,6 @@ Follower Stats
 Fort Takeovers Framework
 Frost Atronach SE
 Fura DF Edit
-HFs - Chests - remodel
 HFs - Imperial jail grates - remodel
 Hair Collection v2 by Koralina
 Halted Stream Camp (Main File) (Full Version)
@@ -86,6 +85,7 @@ The Cursed Tribe - Quest Expansion
 The Gift of Saturalia - A Quest for the Holidays (Custom Integration)
 Thwack - Crossbow Collection Reworked (Custom Integration)
 True Directional Movement Mounted Archery Fix
+Thor HDT Hair and Beard
 ValArt - Hanging Moss
 Weathered Buckets Retexture - 4K - 2K
 Ysolda DF Edit
@@ -259,6 +259,7 @@ Crash Logger SSE AE VR - PDB support
 DD - Jewelry Replacer by Vergi
 Dynamic Activation Key - Addons Collection
 Dynamic Pricing Framework
+DynDOLOD
 Easy Console Commands
 Eating Animations and Sounds - First Person Patch
 Embers XD
@@ -342,13 +343,18 @@ Fixed Magic Redone not properly working because of Immersive Sounds Compendium a
 Fixed Huge FPS Drop cused by Metal Gates
 Fixed FPS Drop near Valtheim Tower
 Fixed FPS Drop in Whiterun 
+Fixed Remiel Building wrong meshes
+Fixed bunh of navmesh issues in windhelm
+Fixed Clippings in windhelm
+Fixed FPS Lose because of stupid Requiem Script that spammed the syste for no reason
+Fixed Falkreath Navmesh
 ~~~
 
 #### Changes
 ~~~
 Followers Changes
    Full follower rebalance: Every single modded follower and Serana has now been rebalanced, Thanks to Undeniable.
-   Ashe, Inigo, Feris and Remi can now pick locks using Requiem Lockpicking system
+   All Custom Followers can now lockpick can now pick locks using Requiem Lockpicking system
 
 Crime Bounty Changes
    Murder - 15000(Was 10000)
@@ -385,6 +391,7 @@ You guys should have a atleast 10-15 fps more in Whiterun and Riften
 Removed Requiem Blessing Perks from Perk Trees
 BSA Packed xLODGen Output Should save like 2 GB
 Better Third Person is Back
+Removed Shock arrow from Ron the Crow
 
 Custom DAK (Dynamic Activation Key) help buttons display prompts for: 
    Vampire & Werewolf - Feed Keys
