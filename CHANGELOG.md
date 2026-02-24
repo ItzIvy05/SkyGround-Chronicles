@@ -348,6 +348,10 @@ Fixed bunh of navmesh issues in windhelm
 Fixed Clippings in windhelm
 Fixed FPS Lose because of stupid Requiem Script that spammed the syste for no reason
 Fixed Falkreath Navmesh
+Fixed Skills not working properly,
+Fixed Sky Intract Script
+Fixed Start up prompt, 
+Fixed Unarmed Animations
 ~~~
 
 #### Changes
@@ -392,6 +396,7 @@ Removed Requiem Blessing Perks from Perk Trees
 BSA Packed xLODGen Output Should save like 2 GB
 Better Third Person is Back
 Removed Shock arrow from Ron the Crow
+Implemented full unarmed Stances setup
 
 Custom DAK (Dynamic Activation Key) help buttons display prompts for: 
    Vampire & Werewolf - Feed Keys
