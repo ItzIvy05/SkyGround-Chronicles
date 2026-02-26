@@ -21,7 +21,7 @@
     "force_down": false,
     "links": {
       "image": "https://raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/main/Resources/Main.png",
-      "readme": "https://github.com/ItzIvy05/SkyGround-Chronicles/blob/main/README.md",
+      "readme": "https://itzivy05.github.io/SkyGround/readme.html",
       "download": "https://authored-files.wabbajack.org/SkyGround Chronicles.wabbajack_789c5bfd-23c7-4af9-9191-81b19111368b",
       "machineURL": "SkyGround",
       "discordURL": "https://discord.gg/FB62v6whbh",
@@ -122,4 +122,5 @@
     "dateUpdated": "2025-09-22T20:25:16.2614675Z",
     "repositoryName": ""
   }
+
 ]
