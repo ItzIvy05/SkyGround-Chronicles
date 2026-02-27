@@ -147,6 +147,7 @@ moreHUD SE
 moreHUD SE - Legacy Settings Loader
 Wine Duchess (3BA SMP)
 Webmother Brutality
+Skyrim Character Sheet
 
 Growl - Werebeasts of Skyrim
    Requiem - Growl
@@ -268,6 +269,7 @@ E L D E R . E N B
 Feris - Custom Voiced Rogue Follower
 First Person Interactions
 Fort Greymoor
+Floating Subtitles
 Great Town of Ivarstead Patch Collection
 Growl - Werebeasts of Skyrim
 Granite Hill - Cut Content Restoration
@@ -312,6 +314,9 @@ Survival Mode Improved - SKSE
 Swiftly Order Squad - Follower Commands UI
 Snazzy Misc Locations AIO
 Snozz's Mods - Patch Collection
+SIGMA - Greatsword animations - First Person
+STB Active Effects
+STB Widgets
 The Frozen Heart
 The Frozen Heart
 The Great Village of Kynesgrove Patch Collection
@@ -344,7 +349,7 @@ Fixed Huge FPS Drop cused by Metal Gates
 Fixed FPS Drop near Valtheim Tower
 Fixed FPS Drop in Whiterun 
 Fixed Remiel Building wrong meshes
-Fixed bunh of navmesh issues in windhelm
+Fixed bunch of navmesh issues in windhelm
 Fixed Clippings in windhelm
 Fixed FPS Lose because of stupid Requiem Script that spammed the syste for no reason
 Fixed Falkreath Navmesh
@@ -352,6 +357,7 @@ Fixed Skills not working properly,
 Fixed Sky Intract Script
 Fixed Start up prompt, 
 Fixed Unarmed Animations
+Fixed Webmother missing textures
 ~~~
 
 #### Changes
