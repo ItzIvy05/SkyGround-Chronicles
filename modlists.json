@@ -1,7 +1,7 @@
 [
   {
     "title": "SkyGround Chronicles",
-    "description": "SkyGround Chronicles is a Wabbajack modlist featuring Survival-focused Modren Gameplay with Requiem, and BFCO with its full stances system. Built with cutting-edge graphics in mind.",
+    "description": "SkyGround Chronicles is a Wabbajack modlist featuring Survival-focused Modern Gameplay with Requiem, and BFCO with its full stances system. Built with cutting-edge graphics in mind.",
     "author": "Ivy",
     "maintainers": [
       "github/ItzIvy05"
@@ -122,4 +122,5 @@
     "dateUpdated": "2025-09-22T20:25:16.2614675Z",
     "repositoryName": ""
   }
+
 ]
