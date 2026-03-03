@@ -43,6 +43,8 @@ Persistent Relations
 Bathing in Skyrim - Wash Me
 Sigma Sword - Stances NG Config
 Universal Unwanted Effects Clearer
+Gesture Animation Remix (OAR)
+TK Dodge RE Addon
 ~~~
 
 #### Fixes
@@ -62,6 +64,7 @@ Fixed Sigma Sword - First Person Stances issue
 Fixed Letter Box in Alternate Conversation
 Integrated QuickLoot IE into Better Third Person Selection - BTPS
 Moved Rumble to control profile section and its disabled by default
+Faendal and Sven are no longer in Follower faction anymore (i just cant figure out what requiem did to them)
 ~~~
 </Details>
 
