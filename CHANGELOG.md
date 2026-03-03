@@ -19,6 +19,50 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
+### 3.0.3 - More damn fixes - 2/27/2026
+<Details>
+   <img src="https://raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/main/Resources/1.jpg">
+   <summary>Changes</summary>  
+
+#### Added
+~~~
+Stuck Underwater Visuals and Sounds Fix SKSE
+~~~
+
+#### Removed
+~~~
+Dynamic String Distributor (DSD)
+Oblivion Interaction Icons (I had enough of this mod breaking things)
+Oblivion Interaction Icons - Phoenix's Patches
+Extended UI - Settings Loader
+Persistent Relations
+~~~
+
+#### Updated
+~~~
+Bathing in Skyrim - Wash Me
+Sigma Sword - Stances NG Config
+Universal Unwanted Effects Clearer
+~~~
+
+#### Fixes
+~~~
+Fixed TK Dodge Config
+Fixed TK Dodge not being perk locked because of the update
+Fixed Alternate Conversation Camera
+Fixed the Stamina Sound Loop Bug
+Fixed Oathvein UI wrong option
+Fixed SmoothCam crosshair flickering (Thank Iyre)
+Fixed Main menu not being in center... OCD is reak
+Fixed Sigma Sword - First Person Stances issue
+~~~
+
+#### Changes
+~~~
+Fixed Letter Box oin Alternate Conversation
+Integrated QuickLoot IE into Better 3rd Pssssserson
+Moved Rumble to control profile section and its disabled by default
+~~~
 
 ### 3.0 - A New Beginning - 2/27/2026
 <Details>
