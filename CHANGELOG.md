@@ -53,14 +53,14 @@ Fixed Alternate Conversation Camera
 Fixed the Stamina Sound Loop Bug
 Fixed Oathvein UI wrong option
 Fixed SmoothCam crosshair flickering (Thank Iyre)
-Fixed Main menu not being in center... OCD is reak
+Fixed Main menu not being in center... OCD is real
 Fixed Sigma Sword - First Person Stances issue
 ~~~
 
 #### Changes
 ~~~
-Fixed Letter Box oin Alternate Conversation
-Integrated QuickLoot IE into Better 3rd Pssssserson
+Fixed Letter Box in Alternate Conversation
+Integrated QuickLoot IE into Better Third Person Selection - BTPS
 Moved Rumble to control profile section and its disabled by default
 ~~~
 
