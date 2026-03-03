@@ -63,6 +63,7 @@ Fixed Letter Box in Alternate Conversation
 Integrated QuickLoot IE into Better Third Person Selection - BTPS
 Moved Rumble to control profile section and its disabled by default
 ~~~
+</Details>
 
 ### 3.0 - A New Beginning - 2/27/2026
 <Details>
