@@ -19,7 +19,7 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
-### 3.0.3 - More damn fixes - 2/27/2026
+### 3.0.5 - Sorry Guys - 2/27/2026
 <Details>
    <img src="https://raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/main/Resources/1.jpg">
    <summary>Changes</summary>  
