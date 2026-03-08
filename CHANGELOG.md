@@ -19,6 +19,58 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
+### 3.0.6 - RIP Saves - x/x/2026
+<Details>
+   <img src="https://raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/main/Resources/1.jpg">
+   <summary>Changes</summary>  
+
+#### Added
+~~~
+Saving on Steed - Horse Save Load Fix SKSE
+Auto Physics Reset
+Simple Follower Framework
+~~~
+
+#### Removed
+~~~
+dunPOISoldiersRaidOnStart Script Tweak
+DLC2 Miraak BossFightScript Fix (Conflicts with USSEP)
+Stamina of Steeds (breaks with horse power)
+Whiterun Imperial Camp Fixes (conflicts with new USSEP)
+Butterflies Land True (does not make sense for hightly modded games because everymeshes is changed)
+Butterflies Land True - CC Farming - Patch
+Rogue's Gallery (I have no mods that uses this lol)
+Horse Save Load Fix (Moved to SKSE Version)
+Ore Vein Texture Fix (Already part of Vana ores)
+Dwemer Ballista Crash fix (Does not need with 1170)
+Shoeless Bandit Fix (We use custom outfits for those and i dont see keeping one esp for such a simple fix)
+Durak Teleport Fix
+Quest Journal Limit Bug Fixer (Honestly, I could not care.. 2000 entries are more than enough)
+Safety of Skuldafn - Railing and Small Fixes (Touches nav and break the portal door marker)
+SSS-CT - Slaughterfish Stay Submerged - Collision Tweak
+HelpExtender (Cause CTD)
+~~~
+
+#### Updated
+~~~
+BFCO - Attack Behavior Framework
+Stuck Underwater Visuals and Sounds Fix SKSE
+Heljarchen Creek - A Nightgate Inn Overhaul
+Sound Record Distributor
+CC Farming - Tweaks Enhancements and Quest Expansion
+SIGMA - Sword animations - First Person
+~~~
+
+#### Fixes
+~~~
+Fixed Town people having dark face issue
+Fixed Feris invisible body
+Fixed "Dragons Breath Mead" and "Argonian's Ale" bug
+~~~
+
+</Details>
+
+
 ### 3.0.5 - Sorry Guys - 2/27/2026
 <Details>
    <img src="https://raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/main/Resources/1.jpg">
