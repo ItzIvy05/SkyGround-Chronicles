@@ -59,6 +59,7 @@ Heljarchen Creek - A Nightgate Inn Overhaul
 Sound Record Distributor
 CC Farming - Tweaks Enhancements and Quest Expansion
 SIGMA - Sword animations - First Person
+Quest Fixes
 ~~~
 
 #### Fixes
