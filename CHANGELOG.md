@@ -19,7 +19,7 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
-### 3.0.6 - RIP Saves - x/x/2026
+### 3.1 - RIP Saves - 9/3/2026
 <Details>
    <img src="https://raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/main/Resources/1.jpg">
    <summary>Changes</summary>  
@@ -64,9 +64,11 @@ Quest Fixes
 
 #### Fixes
 ~~~
-Fixed Town people having dark face issue
+Fixed Night gate town people having dark face issue
 Fixed Feris invisible body
 Fixed "Dragons Breath Mead" and "Argonian's Ale" bug
+Fixed Long Loading times
+Maybe Fixed warewolf issue "Yall have to tell me"
 ~~~
 
 </Details>
