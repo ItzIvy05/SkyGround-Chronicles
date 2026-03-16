@@ -19,6 +19,46 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
+### 3.1.1 - RIP Saves - 9/3/2026
+<Details>
+   <img src="https://raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/main/Resources/1.jpg">
+   <summary>Changes</summary>  
+
+#### Added
+~~~
+Stuck Expression Fix for Modular SMP Hairstyles (Patch)
+GG's Thieves Guild HQ Patch Collection (RERUN)
+~~~
+
+#### Updated
+~~~
+Character Menu SE
+Dynamic Boats at Docks
+Dynamic Boats at Docks - Patch Hub
+Helmet Toggle 2
+Inns Can Be Closed
+SmoothCam
+SkyPrompt
+STB Widgets
+Smart NPC Potions - Enemies Use Potions and Poisons
+Unofficial Skyrim Special Edition Patch
+Why I Came to Skyrim
+~~~
+
+#### Fixes
+~~~
+Smart NPC Potion Fixed Poisoner.dll crash
+Fixed not able to dismiss followers
+~~~
+
+#### Changes
+~~~
+Readded Sven and Faendal to Possible follower faction since the core issue has been fixed.
+Moved all STB mods to Can be Buggy - Optional Mods
+~~~
+
+</Details>
+
 ### 3.1 - RIP Saves - 9/3/2026
 <Details>
    <img src="https://raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/main/Resources/1.jpg">
@@ -72,7 +112,6 @@ Maybe Fixed warewolf issue "Yall have to tell me"
 ~~~
 
 </Details>
-
 
 ### 3.0.5 - Sorry Guys - 2/27/2026
 <Details>
