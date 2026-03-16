@@ -27,7 +27,6 @@
 #### Added
 ~~~
 Stuck Expression Fix for Modular SMP Hairstyles (Patch)
-GG's Thieves Guild HQ Patch Collection (RERUN)
 ~~~
 
 #### Updated
@@ -35,6 +34,7 @@ GG's Thieves Guild HQ Patch Collection (RERUN)
 Character Menu SE
 Dynamic Boats at Docks
 Dynamic Boats at Docks - Patch Hub
+GG's Thieves Guild HQ Patch Collection
 Helmet Toggle 2
 Inns Can Be Closed
 SmoothCam
