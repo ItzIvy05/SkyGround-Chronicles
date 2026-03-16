@@ -22,23 +22,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/main/Resources/Main.png",
       "readme": "https://itzivy05.github.io/IvysWorkshop/readme.html",
-      "download": "https://authored-files.wabbajack.org/SkyGround Chronicles.wabbajack_b2862fdf-83a4-4acf-88f1-570eb8e6d1da",
+      "download": "https://authored-files.wabbajack.org/SkyGround Chronicles.wabbajack_4dd89974-341e-452a-a8ce-1beb61c510ff",
       "machineURL": "SkyGround",
       "discordURL": "https://discord.gg/FB62v6whbh",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "iOWoWle1jak=",
-      "Size": 716175310,
+      "Hash": "pSMf0QQQRls=",
+      "Size": 724264973,
       "NumberOfArchives": 2867,
-      "SizeOfArchives": 200431402042,
-      "NumberOfInstalledFiles": 323539,
-      "SizeOfInstalledFiles": 270248535753,
-      "TotalSize": 470679937795
+      "SizeOfArchives": 199523876809,
+      "NumberOfInstalledFiles": 322679,
+      "SizeOfInstalledFiles": 270145497552,
+      "TotalSize": 469669374361
     },
     "version": "3.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-03-10T03:23:06.368955Z",
+    "dateUpdated": "2026-03-16T21:43:22.1136372Z",
     "repositoryName": ""
   },
   {
@@ -66,7 +67,8 @@
       "download": "https://authored-files.wabbajack.org/Worromot.wabbajack_59e7a378-8099-43be-a5a9-85b512378ec5",
       "machineURL": "Worromot",
       "discordURL": "https://discord.gg/FB62v6whbh",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "nooIKwtmZ8Y=",
@@ -106,7 +108,8 @@
       "download": "https://authored-files.wabbajack.org/Witcher 3 Visual Overhaul.wabbajack_0160f642-df8a-4d33-be0f-f1ca14c469e2",
       "machineURL": "W3VO",
       "discordURL": "https://discord.gg/FB62v6whbh",
-      "websiteURL": ""
+      "websiteURL": "",
+      "nexusCollection": null
     },
     "download_metadata": {
       "Hash": "hun3364WUq0=",
