@@ -19,6 +19,66 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
+### 3.2 - TCL - 3/24/2026
+<Details>
+   <img src="https://media.tenor.com/yby3YGS-yEcAAAAM/build-tom-and-jerry.gif">
+   <summary>Changes</summary>  
+
+#### Added
+~~~
+Alchemy XP Fix
+Character Menu SE - Thane Factions
+Dark Brotherhood Door
+Granite Hill - Cut Content Restoration
+~~~
+
+#### Removed
+~~~
+The Black Door - 3D Dagger and Glow - ENB Light
+~~~
+
+#### Updated
+~~~
+Bathing in Skyrim
+CritterSpawn - Script Call Reduction
+HorsePower - Modernized Horse Riding
+Ivy's Riverwood Overhaul
+Ivy - Whiterun - Well Overhaul
+NPCs Names Distributor
+Modding My Business (M.M.B)
+Simple Follower Framework
+Siege at Icemoth
+Smart Optimal Salves - SKSE
+Updated ENBSeries Binaries
+Vampire Animations
+~~~
+
+#### Fixes
+~~~
+Fixed FLoating Chicken Coups in Farm outside of windhelm
+Fixed some nav mesh in windhelm
+Fixed a tree clipping in windhelem
+Fixed some broken armors from Armors of the Velothi Pt. I
+Fixed Untarnished UI broken Level Up menu
+Fixed Untarnished UI broken Stats Menu
+Fixed Untarnished UI and NORDIC UI broken fontconfig.txt
+Fixed Untarnished UI and NORDIC UI missing Quick Loot Patch
+Fixed 21x9 Support
+~~~
+
+#### Changes
+~~~
+Forwarded bunch of changes from new USSEP to master patches
+Forwarded bunch of changes from new Alternate Perspective to master patch
+Added Hood to Vampire starts
+Pick Up Radius has been disabled by default and have been moved to "Buggy - Optional Mods"
+Properly Disabled Nox Bear Trapper thing, because that thing crashes.
+Buffed Forsworn a bit
+Horse Whistle Key moved to Horse Frameworks & Animation
+~~~
+
+</Details>
+
 ### 3.1.1 - RIP Saves - 9/3/2026
 <Details>
    <img src="https://raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/main/Resources/1.jpg">
