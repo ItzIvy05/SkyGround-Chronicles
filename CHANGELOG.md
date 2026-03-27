@@ -33,7 +33,7 @@ Unofficial Skyrim Special Edition Patch
 ~~~
 Fixed Soap and Rags not popping up for Inn Keepers
 Fixed a Crash when you click on "Illia in Console"
-Fixed "iftenThievesGuildHeadquarters" <Thank you Mike>
+Fixed "RiftenThievesGuildHeadquarters" <Thank you Mike>
 Fixed crashes caused by The Dragonborn's Bestiary
 Latest 4.3.8a USSEP and has now been reverted. This should stop further issues with holes and missing parts showing up in various places.
 ~~~
