@@ -19,6 +19,32 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
+### 3.2.1 - More Repairs - 3/27/2026
+<Details>
+   <img src="https://media.tenor.com/yby3YGS-yEcAAAAM/build-tom-and-jerry.gif">
+   <summary>Changes</summary>  
+
+#### Updated
+~~~
+Unofficial Skyrim Special Edition Patch
+~~~
+
+#### Fixes
+~~~
+Fixed Soap and Rags not popping up for Inn Keepers
+Fixed a Crash when you click on "Illia in Console"
+Fixed "iftenThievesGuildHeadquarters" <Thank you Mike>
+Fixed crashes caused by The Dragonborn's Bestiary
+Latest 4.3.8a USSEP and has now been reverted. This should stop further issues with holes and missing parts showing up in various places.
+~~~
+
+#### Changes
+~~~
+Illia will now have Steel warlock dagger by default
+~~~
+
+</Details>
+
 ### 3.2 - TCL - 3/24/2026
 <Details>
    <img src="https://media.tenor.com/yby3YGS-yEcAAAAM/build-tom-and-jerry.gif">
