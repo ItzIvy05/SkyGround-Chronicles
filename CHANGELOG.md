@@ -19,6 +19,53 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
+### 3.2.2 - Some update - 4/3/2026
+<Details>
+   <img src="https://media.tenor.com/yby3YGS-yEcAAAAM/build-tom-and-jerry.gif">
+   <summary>Changes</summary>  
+
+#### Added
+~~~
+Disabled Reference Integrity Fix (SKSE)
+Vel'dun UI
+~~~
+
+#### Updated
+~~~
+Andrealphus' Papyrus Functions
+Character Menu SE
+Character Menu SE - More Factions
+Pandora Behaviour Engine Plus
+Spell Perk Item Distributor
+Stuck Underwater Visuals and Sounds Fix SKSE
+Storm Lightning for SSE and VR (Minty Lightning 2019)
+~~~
+
+#### Removed
+~~~
+Icy Windhelm - Universal Brazier Patch (Dont need this anymore)
+Dtry Key Util Stuck Keys fix
+Dynamic Animation Casting - NG (this thing cause random CTD)
+~~~
+
+#### Fixes
+~~~
+Fixed bunch of broken 
+Fixed The Dragonborn's Bestiary not working with Quick Loot
+Fixed Character Menu SE on Wrong Key
+Fixed a Crash Caused by  Maxsu AI Process Fix (might consider removing this mod in future)
+~~~
+
+#### Changes
+~~~
+Moved my own SkyInteract Addon to full SKSE so no more script Lag
+Merged the latest The Dragonborn's Bestiary binary.
+Removed flagon as requirement to even recipe to pop up
+Distributed teas have higher chance to appear now
+~~~
+
+</Details>
+
 ### 3.2.1 - More Repairs - 3/27/2026
 <Details>
    <img src="https://media.tenor.com/yby3YGS-yEcAAAAM/build-tom-and-jerry.gif">
