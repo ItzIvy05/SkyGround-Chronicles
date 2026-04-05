@@ -50,7 +50,7 @@ Dynamic Animation Casting - NG (this thing cause random CTD)
 
 #### Fixes
 ~~~
-Fixed bunch of broken 
+Fixed bunch of broken Another Riverwood Patches Record
 Fixed The Dragonborn's Bestiary not working with Quick Loot
 Fixed Character Menu SE on Wrong Key
 Fixed a Crash Caused by  Maxsu AI Process Fix (might consider removing this mod in future)
