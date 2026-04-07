@@ -19,6 +19,36 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
+
+### 3.2.3 - MOAR Fixes - 4/7/2026
+<Details>
+   <img src="https://media.tenor.com/yby3YGS-yEcAAAAM/build-tom-and-jerry.gif">
+   <summary>Changes</summary>  
+
+#### Updated
+~~~
+Spell Perk Item Distributor
+Vel'dun UI 
+~~~
+
+#### Removed
+~~~
+Alt-Tab Stuck Key Fix (This has a chance to crash the game when alt tabbing)
+~~~
+
+#### Fixes
+~~~
+Fixed Blessing of Julianos making spell cost through the roof
+~~~
+
+#### Changes
+~~~
+Added some custom building to fix the drawcall issue in solitude.
+Few of the solitude interiors should have better performance now.
+~~~
+
+</Details>
+
 ### 3.2.2 - Some update - 4/3/2026
 <Details>
    <img src="https://media.tenor.com/yby3YGS-yEcAAAAM/build-tom-and-jerry.gif">
@@ -65,6 +95,7 @@ Distributed teas have higher chance to appear now
 ~~~
 
 </Details>
+
 
 ### 3.2.1 - More Repairs - 3/27/2026
 <Details>
