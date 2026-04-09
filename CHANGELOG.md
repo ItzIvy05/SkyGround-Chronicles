@@ -19,6 +19,33 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
+### 3.2.4 - MOAR Fixes MOAR Fixes - 4/7/2026
+<Details>
+   <img src="https://media.tenor.com/yby3YGS-yEcAAAAM/build-tom-and-jerry.gif">
+   <summary>Changes</summary>  
+
+#### Updated
+~~~
+Dark Brotherhood Door
+Feris - Custom Voiced Rogue Follower
+The Frozen Heart - Quest Mod
+~~~
+
+#### Fixes
+~~~
+Another fix for Blessing of Julianos making spell cost high
+Fixed some uncompressed records added by ck for no reason
+Fixed Cryomancer and electromancer traits do not work as intended
+Fixed Nirenoore Armor
+Fixed Feris again...
+~~~
+
+#### Changes
+~~~
+Added Numbers patch back in turehud patch
+~~~
+
+</Details>
 
 ### 3.2.3 - MOAR Fixes - 4/7/2026
 <Details>
