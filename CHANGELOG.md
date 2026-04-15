@@ -42,9 +42,9 @@ Fixed a Horse Related crash
 Fixed crash caused by Parry For All (just updated the mod)
 Fixed Castle Volkihar missing stuff
 Fixed up some small animations issue and a bit of a cleanup for them.
-Fixed CC Gallows Hall auto starting (Thank you Sacra) (Vanilla Bug)
+Fixed CC Gallows Hall auto restarting starting after you completed the quest (Thank you Sacra) (Vanilla Bug)
 Fixed Roombounds in CC Gallows Hall (Thank you ChickenMike)
-Forwared WraithFallen DAC-NG crash fix related to katanas. (Thank you WraithFallen)
+Forwarded WraithFallen DAC-NG crash fix related to katanas. (Thank you WraithFallen)
 Possible 6 Fixes for NPC AI Process Position Fix with TimerGetter suggestions and my own edit to DLL File
 ~~~
 
