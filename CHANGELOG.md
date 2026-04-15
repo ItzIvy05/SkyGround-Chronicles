@@ -19,6 +19,39 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
+### 3.2.6 - Get back here SHOCKERRRRRR! I will chase you to the end of the world - 4/15/2026
+<Details>
+   <img src="https://media.tenor.com/yby3YGS-yEcAAAAM/build-tom-and-jerry.gif">
+   <summary>Changes</summary>  
+
+
+#### Updated
+~~~
+H.O.A. - Hyperspecific Occlusion Addon
+Meshes Optimization Project
+~~~
+
+#### Removed
+~~~
+Removed Crash Log Viewer (No longer needed with new Crash logger)
+~~~
+
+#### Fixes
+~~~
+Fixed CC Gallows Hall auto starting (Thank you Sacra) (Vanilla Bug)
+Fixed Roombounds in CC Gallows Hall (Thank you ChickenMike)
+Forwared WraithFallen DAC-NG crash fix related to katanas. (Thank you WraithFallen)
+Possible 6 Fixes for NPC AI Process Position Fix with TimerGetter suggestions and edit to DLL File
+~~~
+
+#### Changes
+~~~
+FPS Boost in Karthwasten, Solitude Exterior and Winterhold
+~~~
+
+
+</Details>
+
 ### 3.2.4 - MOAR Fixes MOAR Fixes - 4/7/2026
 <Details>
    <img src="https://media.tenor.com/yby3YGS-yEcAAAAM/build-tom-and-jerry.gif">
