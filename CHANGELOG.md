@@ -45,7 +45,7 @@ Fixed up some small animations issue and a bit of a cleanup for them.
 Fixed CC Gallows Hall auto starting (Thank you Sacra) (Vanilla Bug)
 Fixed Roombounds in CC Gallows Hall (Thank you ChickenMike)
 Forwared WraithFallen DAC-NG crash fix related to katanas. (Thank you WraithFallen)
-Possible 6 Fixes for NPC AI Process Position Fix with TimerGetter suggestions and edit to DLL File
+Possible 6 Fixes for NPC AI Process Position Fix with TimerGetter suggestions and my own edit to DLL File
 ~~~
 
 #### Changes
