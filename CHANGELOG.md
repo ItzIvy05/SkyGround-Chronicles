@@ -19,7 +19,7 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
-### 3.2.6 - Get back here SHOCKERRRRRR! I will chase you to the end of the world - 4/15/2026
+### 3.2.7 - Get back here SHOCKERRRRRR! I will chase you to the end of the world - 4/15/2026
 <Details>
    <img src="https://media.tenor.com/yby3YGS-yEcAAAAM/build-tom-and-jerry.gif">
    <summary>Changes</summary>  
@@ -38,6 +38,10 @@ Removed Crash Log Viewer (No longer needed with new Crash logger)
 
 #### Fixes
 ~~~
+Fixed a Horse Related crash
+Fixed crash caused by Parry For All (just updated the mod)
+Fixed Castle Volkihar missing stuff
+Fixed up some small animations issue and a bit of a cleanup for them.
 Fixed CC Gallows Hall auto starting (Thank you Sacra) (Vanilla Bug)
 Fixed Roombounds in CC Gallows Hall (Thank you ChickenMike)
 Forwared WraithFallen DAC-NG crash fix related to katanas. (Thank you WraithFallen)
