@@ -19,6 +19,77 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
+
+### 3.2.7 - SHOCKER Got Away - 4/15/2026
+<Details>
+   <img src="https://media.tenor.com/yby3YGS-yEcAAAAM/build-tom-and-jerry.gif">
+   <summary>Changes</summary>  
+
+#### Added
+~~~
+Dreambound Vaermina's Torpor
+Project Bro Hes There
+Remiel - Cleaned Audio
+Show Player In Inventory
+Smarter Conjuration Minions
+~~~
+
+#### Updated
+~~~
+Ashe - Crystal Heart
+Assorted Behavior Fixes
+Auto Skeleton Patch - Universal Behaviour Runtime
+Bathing in Skyrim - Renewed
+Bathing in Skyrim - Renewed - You Reek - Updated
+BFCO - Attack Behavior Framework (W Update)
+BFCO NG
+Faster HDT-SMP (Huge Update More FPS and Less Crashes)
+Helmet Toggle 2 - SMP Hair Fix
+HorsePower - Modernized Horse Riding
+Pandora Behaviour Engine Plus
+Serana Dialogue Expansion
+SkyParkour V3 - Parkour Framework
+SkyParkour V3 - Parkour Framework - Pandora Patch
+The Frozen Heart
+The Welkynar Knight - Quest
+Unlocked 1st Person Combat
+Why I Came to Skyrim - Origin Stories
+~~~
+
+#### Removed
+~~~
+BFCO Universal Support (No Longer Needed)
+Removed my scripts for BFCO (No Longer Needed)
+HDT-SMP Slot 32 Fix (No Longer Needed)
+Parrying RPG (LeoneKingzz version) (No Longer Needed)
+JellyFishFP Sneak Killmove Dagger (Kill moves are disabled so this is useless)
+Another TK Dodge Animation Pandora Patch (No Longer Needed)
+Stuck Expression Fix for Modular SMP Hairstyles (No Longer Needed)
+Random Prayer Animation (Not needed anymore)
+Dismembering Framework - Enhanced Blood Textures Patch (Remnant of the Past)
+Giant bash attack hit frame fix (Remnant of the Past)
+Jump Slide Fix OAR (Remnant of the Past)
+Jump Slide Fix (Consistency) (Remnant of the Past)
+Riding Animation Overhaul - RAO (OAR - DAR) (Remnant of the Past)
+Show Animation Command NG - SKSE (Forgot to remove after debug)
+Vampire Animations (IDK Why i have it... i have kill moved disabled)
+Death Animations from Underdog Animations (Not compatible with Random Death Animation)
+~~~
+
+#### Fixes
+~~~
+Fixed Majority of the Animations Bugs 
+Fixed bunch of food bugs (Thanks Undeniable)
+Fixed issues with Traits (Thanks Undeniable)
+~~~
+
+#### Changes
+~~~
+Reran Pandora
+You can now change block key in SKSE Menu (F1)
+~~~
+
+
 ### 3.2.7 - Get back here SHOCKERRRRRR! I will chase you to the end of the world - 4/15/2026
 <Details>
    <img src="https://media.tenor.com/yby3YGS-yEcAAAAM/build-tom-and-jerry.gif">
