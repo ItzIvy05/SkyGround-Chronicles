@@ -89,6 +89,7 @@ Reran Pandora
 You can now change block key in SKSE Menu (F1)
 ~~~
 
+</Details>
 
 ### 3.2.7 - Get back here SHOCKERRRRRR! I will chase you to the end of the world - 4/15/2026
 <Details>
