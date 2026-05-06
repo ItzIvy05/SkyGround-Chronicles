@@ -19,6 +19,28 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
+### 3.3.0.1 - I cought the shocker - 5/4/2026
+<Details>
+   <img src="https://media.tenor.com/yby3YGS-yEcAAAAM/build-tom-and-jerry.gif">
+   <summary>Changes</summary>  
+
+#### Updated
+~~~
+Modern Wait Menu
+Modding My Business (M.M.B)
+~~~
+
+#### Removed
+~~~
+NPC AI Process Position Fix - NG
+~~~
+
+#### Fixes
+~~~
+Fixed BFCO MCM Not poping up
+Another Possible Fix for Jully Boi Blessing
+~~~
+</Details>
 
 ### 3.3 - SHOCKER Got Away - 5/4/2026
 <Details>
