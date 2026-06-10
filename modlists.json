@@ -22,7 +22,7 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/main/Resources/Main.png",
       "readme": "https://itzivy05.github.io/IvysWorkshop/readme.html",
-      "download": "https://authored-files.wabbajack.org/SkyGround Chronicles.wabbajack_e6da1f88-e5ce-4015-9593-9be0f1bc9a84",
+      "download": "https://authored-files.wabbajack.org/SkyGround Chronicles.wabbajack_bac30ca4-2a35-4dbf-b2df-c40eeaaac7bf",
       "machineURL": "SkyGround",
       "discordURL": "https://discord.gg/GgkPMBMTrS",
       "websiteURL": "",
@@ -30,21 +30,21 @@
         "collectionId": "425888",
         "slug": "v8h3xx",
         "domainName": "skyrimspecialedition",
-        "lastRevisionNumber": 8
+        "lastRevisionNumber": 9
       }
     },
     "download_metadata": {
-      "Hash": "5o4t1m9Feew=",
-      "Size": 754737589,
-      "NumberOfArchives": 2830,
-      "SizeOfArchives": 200596159031,
-      "NumberOfInstalledFiles": 328396,
-      "SizeOfInstalledFiles": 269121229571,
-      "TotalSize": 469717388602
+      "Hash": "ccu2a/kAdBU=",
+      "Size": 753669072,
+      "NumberOfArchives": 2831,
+      "SizeOfArchives": 200597650488,
+      "NumberOfInstalledFiles": 328397,
+      "SizeOfInstalledFiles": 269121202272,
+      "TotalSize": 469718852760
     },
-    "version": "3.4",
+    "version": "3.4.0.1",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-06-10T18:39:55.9405836Z",
+    "dateUpdated": "2026-06-10T23:40:21.8434196Z",
     "repositoryName": ""
   },
   {
