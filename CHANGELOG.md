@@ -19,6 +19,63 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
+
+### 3.4 - Shockerr... this bit is getting too long need something new - 5/4/2026
+<Details>
+   <img src="https://media.tenor.com/yby3YGS-yEcAAAAM/build-tom-and-jerry.gif">
+   <summary>Changes</summary>  
+
+#### Added
+~~~
+Tears of Kyne - Water Need Mod
+Added 21-9 and 32-9 Support
+~~~
+
+#### Updated
+~~~
+Aetherium Forge Destroys Items (AFDI)
+Ashe - Crystal Heart
+Floating Subtitles
+Final Boss Ascension
+H.O.A. - Hyperspecific Occlusion Addon
+Ivy Riverwood Overhaul
+Modding My Business (M.M.B)
+Open Animation Replacer
+Open Animation Replacer - Detection Plugin
+powerofthree's Papyrus Extender
+PGPatcher (aka ParallaxGen)
+Remiel-Custom Voiced Follower
+Snoblind
+Song of the Green (Auri Follower)
+Spell Perk Item Distributor
+Vel'dun UI
+~~~
+
+#### Removed
+~~~
+Removed all mods under Buggy - Optional Mods
+STB Widgets and STB Active Effects is now fully dropped.
+All UI option other than Vel'dun UI has been dropped.
+Infinity UI
+Compass Navigation Overhaul
+Local Map Upgrade
+Pick Up Radius
+Modern Wait Menu (Buggy as hell caused CTD)
+~~~
+
+#### Fixes
+~~~
+Fixed wrong raiting for few weapons and armors
+Fixed Wrong Audio for Sanguinum SFX - Sacrilege
+Fixed KittyTail Spells Distribution
+~~~
+#### Changes
+~~~
+Disabled the Homeowner Trait and Added back the option from Alternate Start
+If Miraak or Alduin, or Lord Harkon dies, the remaining 2 bosses become stronger, gaining increased survivability and magical resistance.
+~~~
+</Details>
+
 ### 3.3.0.1 - I cought the shocker - 5/4/2026
 <Details>
    <img src="https://media.tenor.com/yby3YGS-yEcAAAAM/build-tom-and-jerry.gif">
