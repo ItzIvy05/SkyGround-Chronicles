@@ -20,7 +20,7 @@
 </p>
 
 
-### 3.4 - Shockerr... this bit is getting too long need something new - 5/4/2026
+### 3.4 - Shockerr... this bit is getting too long need something new - 6/10/2026
 <Details>
    <img src="https://media.tenor.com/yby3YGS-yEcAAAAM/build-tom-and-jerry.gif">
    <summary>Changes</summary>  
