@@ -65,7 +65,7 @@ Modern Wait Menu (Buggy as hell caused CTD)
 
 #### Fixes
 ~~~
-Fixed wrong raiting for few weapons and armors
+Fixed wrong Rating for few weapons and armors
 Fixed Wrong Audio for Sanguinum SFX - Sacrilege
 Fixed KittyTail Spells Distribution
 ~~~
