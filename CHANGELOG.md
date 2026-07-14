@@ -19,6 +19,44 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
+### 3.4.0.2 - Cleanup - 7/14/2026
+<Details>
+   <img src="https://media.tenor.com/yby3YGS-yEcAAAAM/build-tom-and-jerry.gif">
+   <summary>Changes</summary>  
+
+#### Added
+~~~
+FOMOD Plus - A Mod Installation Overhaul for Mod Organizer 2
+Mod Version Fixer for Mo2 (Mod Organizer 2)
+~~~
+
+#### Updated
+~~~
+powerofthree's Papyrus Extender
+Hotkey Reminder Prompt
+Disabled Reference Integrity Fix (SKSE)
+I'm Walkin' Here NG with Pets
+Keyword Item Distributor
+LeveledList Crash Fix
+Mfg Fix NG
+powerofthree's Tweaks
+Crash Logger SSE AE VR - PDB support
+Favorite Misc Items
+Spell Perk Item Distributor
+Scrab's Papyrus Extender
+Exit Sneak On Sprint
+RaceMenu OverlayFix and Various Mod Fixes
+Tears of Kyne - Water Need Mod
+~~~
+
+#### Removed
+~~~
+Essential Favorites
+Essential Favorites Support Equipped Items
+Remember Installation Choices
+MO2 Version Fixer
+~~~
+</Details>
 
 ### 3.4 - Shockerr... this bit is getting too long need something new - 6/10/2026
 <Details>
