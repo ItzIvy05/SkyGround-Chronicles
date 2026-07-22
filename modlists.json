@@ -47,6 +47,48 @@
     "dateUpdated": "2026-07-14T12:57:55.5801562Z",
     "repositoryName": ""
   },
+    {
+    "title": "Lumina",
+    "description": "",
+    "author": "Ivy",
+    "maintainers": [
+      "github/ItzIvy05"
+    ],
+    "game": "skyrimspecialedition",
+    "official": false,
+    "tags": [
+      "SFW",
+      "High Fantasy",
+      "Steam"
+    ],
+    "nsfw": false,
+    "utility_list": false,
+    "image_contains_title": true,
+    "DisplayVersionOnlyInInstallerView": false,
+    "force_down": false,
+    "links": {
+      "image": "raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/main/Resources/Lumina 2.png",
+      "readme": "https://itzivy05.github.io/IvysWorkshop/readme.html",
+      "download": "",
+      "machineURL": "Lumina",
+      "discordURL": "https://discord.gg/GgkPMBMTrS",
+      "websiteURL": "",
+      "nexusCollection": null
+    },
+    "download_metadata": {
+      "Hash": "",
+      "Size": 53463854,
+      "NumberOfArchives": 104,
+      "SizeOfArchives": 19384165112,
+      "NumberOfInstalledFiles": 3231,
+      "SizeOfInstalledFiles": 20418149174,
+      "TotalSize": 39802314286
+    },
+    "version": "0.3",
+    "dateCreated": "1970-01-01T00:00:00Z",
+    "dateUpdated": "2025-09-22T20:25:16.2614675Z",
+    "repositoryName": ""
+  },
   {
     "title": "Worromot - Tamriel gone off the skooma again",
     "description": "Built by ChickenMike, Ivy and MissileMann, Worromot is the Elder Scrolls V: Skyrim experience that asks, \u201CWhat if Todd had no rules?\u201D This modlist is a chaotic love letter to memes, mayhem, and moments that make you laugh so hard you accidentally FUS RO DAH your keyboard.",
