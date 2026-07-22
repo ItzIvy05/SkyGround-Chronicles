@@ -48,48 +48,6 @@
     "repositoryName": ""
   },
   {
-    "title": "Lumina",
-    "description": "Lumina is a handcrafted Skyrim experience focused on survival, immersion, and meaningful progression. Built around modern graphics with Community Shaders, challenging gameplay, and extensive optimization, it delivers a stable and cohesive experience. We call it LumaRim.",
-    "author": "Ivy",
-    "maintainers": [
-      "github/ItzIvy05"
-    ],
-    "game": "skyrimspecialedition",
-    "official": false,
-    "tags": [
-      "SFW",
-      "High Fantasy",
-      "Steam"
-    ],
-    "nsfw": false,
-    "utility_list": false,
-    "image_contains_title": true,
-    "DisplayVersionOnlyInInstallerView": false,
-    "force_down": false,
-    "links": {
-      "image": "raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/main/Resources/Lumina 2.png",
-      "readme": "https://itzivy05.github.io/IvysWorkshop/readme.html",
-      "download": "https://authored-files.wabbajack.org/Lumina.wabbajack_365aa21b-8a95-4ef0-9968-78a4db6ba5c3",
-      "machineURL": "Lumina",
-      "discordURL": "https://discord.gg/GgkPMBMTrS",
-      "websiteURL": "",
-      "nexusCollection": null
-    },
-    "download_metadata": {
-      "Hash": "xHkOwgSCJCk=",
-      "Size": 1151292118,
-      "NumberOfArchives": 2745,
-      "SizeOfArchives": 172762191533,
-      "NumberOfInstalledFiles": 298738,
-      "SizeOfInstalledFiles": 241104613082,
-      "TotalSize": 413866804615
-    },
-    "version": "0.1.1",
-    "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-07-22T14:21:27.9829263Z",
-    "repositoryName": ""
-  },
-  {
     "title": "Worromot - Tamriel gone off the skooma again",
     "description": "Built by ChickenMike, Ivy and MissileMann, Worromot is the Elder Scrolls V: Skyrim experience that asks, \u201CWhat if Todd had no rules?\u201D This modlist is a chaotic love letter to memes, mayhem, and moments that make you laugh so hard you accidentally FUS RO DAH your keyboard.",
     "author": "ChickenMike, Ivy and MissileMann",
