@@ -19,6 +19,60 @@
   <a href="https://discord.gg/FB62v6whbh">Discord</a>
 </p>
 
+
+### 3.5 - CS Switch - 7/14/2026
+<Details>
+   <img src="https://media.tenor.com/yby3YGS-yEcAAAAM/build-tom-and-jerry.gif">
+   <summary>Changes</summary>  
+
+#### Added
+~~~
+Community Shaders
+Community Shaders - Hair Specular
+Community Shaders - Terrain Helper for ENB
+Community Shaders - Screen Space Global Illumination (SSGI)
+Community Shaders - Effects 11
+Community Shaders - Upscaling
+Community Shaders - HDR
+Community Shaders - Wetness Effects
+Community Shaders - Skylighting
+Community Shaders - Terrain Blending
+Community Shaders - Terrain Variation
+Lock Picking Redone
+~~~
+
+#### Updated
+~~~
+ENB Extender and Helper Skyrim
+~~~
+
+#### Removed
+~~~
+ENBSeries Binaries
+Requiem - Lockpicking SKSE
+ENB Anti-Aliasing - AMD FSR 3.1 - NVIDIA DLAA
+ENB Light Detection Fix
+ENB Lights For Effect Shaders
+ENB Terrain Blending Fix
+ENB Worldspace Weatherlists
+KiLoader for Skyrim
+KreatE
+Parallax Occlusion Mapping
+Sky Reflection Fix for ENB
+Modern Lighting Overhaul (MLO)
+Modern Lighting Overhaul (MLO) - MISC
+Modern Lighting Overhaul - Official Patch Hub
+Modern Lighting Overhaul (MLO) - Lux Lanterns
+Enhanced Volumetric Lighting and Shadows (EVLaS)
+Splashes of Skyrim
+Splashes Of Storms
+Rudy fix for Splashes of Storms and ENB
+Rudy ENB
+PI-CHO
+ENB of the Elders
+~~~
+</Details>
+
 ### 3.4.0.2 - Cleanup - 7/14/2026
 <Details>
    <img src="https://media.tenor.com/yby3YGS-yEcAAAAM/build-tom-and-jerry.gif">
