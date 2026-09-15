@@ -69,24 +69,24 @@
     "links": {
       "image": "https://raw.githubusercontent.com/ItzIvy05/SkyGround-Chronicles/main/Resources/Lumina2.jpg",
       "readme": "https://itzivy05.github.io/Workshop/readme.html",
-      "download": "https://authored-files.wabbajack.org/Lumina.wabbajack_95b5e83c-ac6d-4aff-bc27-ee218852c4cd",
+      "download": "https://authored-files.wabbajack.org/Lumina.wabbajack_c3ea1fcb-57bc-47bb-9b98-bd8ac6ce2203",
       "machineURL": "Lumina",
       "discordURL": "https://discord.gg/GgkPMBMTrS",
       "websiteURL": "",
       "nexusCollection": null
     },
     "download_metadata": {
-      "Hash": "w7kwYDYg+v4=",
-      "Size": 2355670664,
-      "NumberOfArchives": 2829,
-      "SizeOfArchives": 162026613331,
-      "NumberOfInstalledFiles": 391511,
-      "SizeOfInstalledFiles": 237443297097,
-      "TotalSize": 399469910428
+      "Hash": "TqREsGPa1GI=",
+      "Size": 2358174773,
+      "NumberOfArchives": 2828,
+      "SizeOfArchives": 162281062571,
+      "NumberOfInstalledFiles": 391513,
+      "SizeOfInstalledFiles": 237412259421,
+      "TotalSize": 399693321992
     },
-    "version": "0.3.0.1",
+    "version": "0.3",
     "dateCreated": "1970-01-01T00:00:00Z",
-    "dateUpdated": "2026-09-14T02:19:45.6626481Z",
+    "dateUpdated": "2026-09-15T18:52:49.2676363Z",
     "repositoryName": ""
   }
 ]
